@@ -17,9 +17,6 @@ __pycache__/
 # Secrets
 .env
 
-# Raw and processed data
-data/raw/*
+# Locally generated intermediate data
 data/processed/*
-
-!data/raw/.gitkeep
 !data/processed/.gitkeep

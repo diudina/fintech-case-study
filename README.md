@@ -1,83 +1,111 @@
 # FlowPay Product Analytics Case Study
 
-## Project Overview
+## Overview
 
-This project is an end-to-end product analytics case study based on a synthetic fintech product called **FlowPay**. FlowPay allows users to register, complete identity verification, and make international money transfers.
+FlowPay is an independent product analytics portfolio project based on synthetic data for a fictional European money-transfer product.
 
-The project investigates the customer journey across these stages and demonstrates a structured product analytics workflow, from data validation and metric definition to exploratory analysis, visualization, and product recommendations.
+The project investigates why some new users do not complete their first successful transfer within seven days of signing up and which measurable source of friction or acquisition-mix issue the Product team should investigate or test first.
 
-The analysis is designed as a realistic portfolio project and focuses on analytical reasoning rather than only technical execution.
+The case study is designed to demonstrate product judgement, metric design, SQL analysis, data-quality investigation, statistical thinking, visual communication, and decision-oriented recommendations.
 
-## Project Objectives
+## Product Question
 
-The objectives of this case study are to:
+> What is preventing new users from completing their first successful transfer within seven days of signup, and what should the Product team address first?
 
-- understand the structure and quality of the available product data;
-- define relevant product metrics and analytical assumptions;
-- examine the user journey through registration, verification, and transfers;
-- identify meaningful patterns, friction points, and areas for further investigation;
-- translate analytical findings into practical product recommendations;
-- clearly distinguish observed relationships from causal conclusions.
+The customer journey examined in the project is:
 
-The final analytical questions and scope will be refined after the data preparation and exploratory analysis stages.
+`signup → identity verification → recipient creation → transfer initiation → successful transfer`
+
+The analysis will first establish whether seven-day activation has changed over time. It will then investigate where the observed friction occurs, which users are most affected, and whether the strongest evidence points to product experience, acquisition mix, geography, verification, or transfer behaviour.
+
+Because the source data is observational, the project will distinguish associations from causal conclusions. Findings will be used to prioritise a product action and design a future experiment rather than claim an unobserved causal uplift.
+
+## Primary Metric
+
+The primary outcome is `activation_7d`.
+
+A user is activated when they complete at least one successful transfer in the half-open interval:
+
+`[signup_timestamp, signup_timestamp + 168 hours)`
+
+The denominator includes all eligible non-internal users, including users with no events, verification attempts, or transfers. The `transfers` table is the source of truth for the activation outcome; `events` is used for behavioural analysis and reconciliation.
+
+Eligibility rules, observation-window requirements, exclusions, boundary conditions, and supporting metrics will be documented in `docs/metric_contract.md` before the final metric is calculated.
 
 ## Data
 
-The project uses five synthetic datasets:
+The project contains five relational synthetic datasets:
 
-- `users` — user registration and profile information;
-- `events` — product interaction events;
-- `verifications` — identity verification records;
-- `transfers` — money transfer records;
-- `support_contacts` — customer support interactions.
+| Dataset | Grain | Rows | Purpose |
+|---|---|---:|---|
+| `users.csv` | One row per registered user | 50,000 | Signup attributes and eligibility |
+| `events.csv` | One row per tracked product event | 273,596 | Behavioural journey and event reconciliation |
+| `verifications.csv` | One row per verification attempt | 38,029 | Verification outcomes, attempts, and failure context |
+| `transfers.csv` | One row per transfer attempt | 28,324 | Transfer outcomes and activation source of truth |
+| `support_contacts.csv` | One row per support contact | 1,411 | Customer-reported friction and support context |
 
-All data used in this project is synthetic and does not contain real customer information.
+The data is synthetic and contains no real customer information. Raw files are treated as immutable source data. Known data-quality issues, reconciliation decisions, and analytical limitations will be recorded in `docs/quality_log.md`.
 
 ## Tools
 
-- **Google BigQuery and SQL** — data storage, validation, transformation, and analysis;
-- **Python** — exploratory analysis, statistical analysis, and visualization where appropriate;
-- **Jupyter Notebook** — reproducible Python analysis;
-- **Git and GitHub** — version control and project documentation;
-- **Visual Studio Code** — local development environment.
+- **Supabase / PostgreSQL and SQL** — relational storage, schema constraints, validation, transformation, and product analysis;
+- **Python and Jupyter** — targeted exploratory analysis, statistical checks, and reproducible validation;
+- **Tableau** — portfolio dashboard and visual communication;
+- **Git and GitHub** — version control, documentation, and reproducibility;
+- **GitHub Pages** — final public case-study narrative.
 
 ## Repository Structure
 
 ```text
 fintech-case-study/
 ├── data/
-│   ├── raw/            # Raw data is excluded from version control
-│   └── processed/      # Locally generated datasets are excluded from version control
-├── images/             # Charts and other visual outputs
-├── notebooks/          # Jupyter notebooks
-├── reports/            # Final reports and supporting documentation
-├── sql/                # SQL queries organized by analysis stage
-├── src/                # Reusable Python code
+│   ├── raw/                 # Immutable synthetic source files
+│   ├── processed/    # Temporary generated datasets; not committed
+│   └── published/    # Small validated datasets behind final visuals; committed
+├── docs/
+│   ├── project_brief.md
+│   ├── metric_contract.md
+│   ├── data_dictionary.md
+│   ├── quality_log.md
+│   └── decision_log.md
+├── images/                  # Exported portfolio visuals
+├── notebooks/               # Focused and reproducible Python analysis
+├── reports/                 # Decision memo and presentation materials
+├── sql/                     # Ordered validation, modelling, and analysis queries
+├── src/                     # Reusable Python code if required
 ├── .gitignore
 ├── README.md
 └── requirements.txt
 ```
 
-## Analytical Workflow
+## Analytical Plan
 
-The project follows these stages:
+1. Document table grain, keys, relationships, timestamps, and sources of truth.
+2. Validate primary keys, foreign-key relationships, missingness, duplicates, timestamp logic, and coverage.
+3. Finalise the metric contract and mature-cohort observation rules.
+4. Build a tested analytical model with one row per eligible user without losing zero-activity users.
+5. Establish signup volume and seven-day activation by mature signup cohort.
+6. Reconstruct the observed customer journey and reconcile entity tables with tracked events.
+7. Select at most two evidence-based deep dives rather than inspect every available segment.
+8. Evaluate alternative explanations and distinguish composition effects from product friction.
+9. Recommend one priority and one credible alternative, including uncertainty and missing evidence.
+10. Design a future A/B test with a hypothesis, randomisation unit, exposure definition, primary metric, guardrails, power assumptions, duration, and decision rule.
+11. Reconcile all published metrics across SQL, Python, Tableau, and the final narrative.
 
-1. Set up the analytical environment and repository.
-2. Load the source tables into BigQuery.
-3. Validate table structure, data types, completeness, and consistency.
-4. Document the data model, assumptions, and metric definitions.
-5. Conduct exploratory product analysis.
-6. Investigate the customer journey and relevant segments.
-7. Use Python for analysis that benefits from statistical or visual exploration.
-8. Summarize findings, limitations, and product recommendations.
-9. Prepare a portfolio-ready case study presentation.
+## Planned Outputs
 
-## Project Status
+- documented metric and data contracts;
+- reproducible SQL validation and analysis;
+- a tested user-level analytical dataset;
+- cohort, activation, and milestone analysis;
+- focused Python analysis where it adds statistical value;
+- a Tableau dashboard with reconciled totals;
+- a concise product decision memo;
+- an A/B-test proposal;
+- a public GitHub Pages case study.
 
-**In progress — data preparation and validation.**
+## Current Status
 
-## Notes
+**In progress — data model documentation and relational-key validation.**
 
-- Findings will be added only after the relevant analysis has been completed and validated.
-- Metric definitions, assumptions, and limitations will be documented alongside the analysis.
-- The repository will evolve as the investigation progresses.
+Findings and recommendations will be published only after the corresponding analysis has been completed and checked. The repository will document where AI assisted the workflow; every published query, definition, visual, and conclusion remains explainable and verifiable by the author.

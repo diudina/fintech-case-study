@@ -1,0 +1,1412 @@
+contact_id,user_id,created_at,resolved_at,category,contact_reason,channel,country,platform,app_version
+SUP0000001,USR000083,2026-06-15 16:08:22,2026-06-15 16:37:22,Verification,identity_mismatch,Chat,Romania,Android,6.0
+SUP0000002,USR000120,2026-06-11 19:05:23,2026-06-11 19:43:23,Transfer,insufficient_funds,Email,Portugal,Android,5.9
+SUP0000003,USR000180,2026-05-30 10:42:51,2026-05-30 11:53:51,Verification,document_not_supported,Chat,Italy,Android,5.9
+SUP0000004,USR000182,2026-06-12 18:54:16,2026-06-12 19:48:16,Verification,document_expired,Chat,Romania,iOS,9.5
+SUP0000005,USR000202,2026-06-27 03:31:28,2026-06-27 04:12:28,Verification,document_upload_error,Email,Estonia,Android,6.0
+SUP0000006,USR000212,2026-05-25 17:15:17,2026-05-25 18:05:17,Verification,document_expired,Email,United Kingdom,Android,5.9
+SUP0000007,USR000232,2026-06-17 22:56:57,2026-06-17 23:33:57,Verification,identity_mismatch,Email,Italy,Android,6.0
+SUP0000008,USR000251,2026-06-25 13:46:32,2026-06-25 14:31:32,Verification,bank_authentication_failed,Chat,Germany,Android,5.9
+SUP0000009,USR000253,2026-06-08 10:27:56,2026-06-08 11:48:56,Verification,bank_authentication_failed,Email,Italy,Android,6.0
+SUP0000010,USR000291,2026-06-19 21:06:34,2026-06-19 21:46:34,Verification,photo_quality_rejected,Chat,Italy,Android,6.0
+SUP0000011,USR000319,2026-06-23 11:28:58,2026-06-23 12:39:58,Verification,document_not_supported,Email,United Kingdom,iOS,9.5
+SUP0000012,USR000420,2026-04-08 21:47:48,2026-04-09 01:13:48,Verification,technical_error,Email,United Kingdom,Android,5.9
+SUP0000013,USR000440,2026-06-30 14:30:29,2026-06-30 15:13:29,Verification,identity_mismatch,Email,United Kingdom,Android,6.0
+SUP0000014,USR000467,2026-06-24 19:12:54,2026-06-24 22:36:54,Verification,camera_permission_error,Email,Germany,Android,6.0
+SUP0000015,USR000556,2026-06-28 19:50:01,2026-06-28 21:48:01,Verification,camera_permission_error,Email,Netherlands,Android,6.0
+SUP0000016,USR000567,2026-06-09 12:22:17,2026-06-09 15:31:17,Verification,camera_permission_error,Email,Spain,Android,6.0
+SUP0000017,USR000644,2026-07-01 06:19:43,2026-07-01 08:37:43,Transfer,bank_transfer_not_received,Email,Germany,Android,5.9
+SUP0000018,USR000671,2026-06-28 07:42:12,2026-06-28 08:45:12,Verification,identity_mismatch,Email,Sweden,Android,6.0
+SUP0000019,USR000711,2026-06-29 16:50:14,2026-06-29 19:31:14,Verification,document_upload_error,Email,Estonia,Android,6.0
+SUP0000020,USR000719,2026-06-05 12:36:54,2026-06-05 13:12:54,Verification,photo_quality_rejected,Chat,Romania,Android,6.0
+SUP0000021,USR000759,2026-05-30 22:53:55,2026-05-31 00:39:55,Verification,bank_authentication_failed,Chat,Netherlands,Android,5.9
+SUP0000022,USR000782,2026-06-29 11:49:01,2026-06-29 13:52:01,Verification,bank_authentication_failed,Chat,Italy,Android,6.0
+SUP0000023,USR000824,2026-04-04 21:41:53,2026-04-05 00:28:53,Transfer,risk_review_failed,Email,Portugal,Web,
+SUP0000024,USR000843,2026-06-11 12:22:50,2026-06-11 12:49:50,Transfer,technical_error,Chat,Spain,Android,5.9
+SUP0000025,USR000877,2026-06-25 23:59:24,2026-06-26 00:55:24,Transfer,insufficient_funds,Chat,Poland,Web,
+SUP0000026,USR000927,2026-04-17 18:43:18,2026-04-17 20:13:18,Verification,identity_mismatch,Chat,United Kingdom,Android,5.9
+SUP0000027,USR000980,2026-06-13 13:18:19,2026-06-13 16:29:19,Transfer,risk_review_failed,Chat,Romania,Web,
+SUP0000028,USR000994,2026-06-06 15:32:25,2026-06-06 16:27:25,Verification,camera_permission_error,Chat,Sweden,Android,6.0
+SUP0000029,USR000996,2026-05-30 10:22:09,2026-05-30 12:30:09,Verification,technical_error,Email,Germany,Web,
+SUP0000030,USR001000,2026-05-29 14:14:45,2026-05-29 14:36:45,Verification,technical_error,Chat,Portugal,iOS,9.5
+SUP0000031,USR001026,2026-06-22 05:09:06,2026-06-22 05:59:06,Verification,document_not_supported,Email,Netherlands,Android,6.0
+SUP0000032,USR001066,2026-06-12 17:15:57,2026-06-12 17:56:57,Verification,identity_mismatch,Email,France,Android,6.0
+SUP0000033,USR001067,2026-06-16 07:48:41,2026-06-16 08:38:41,Verification,photo_quality_rejected,Chat,United Kingdom,iOS,9.4
+SUP0000034,USR001181,2026-06-22 18:00:16,2026-06-22 19:32:16,Verification,identity_mismatch,Chat,Germany,Android,6.0
+SUP0000035,USR001202,2026-06-22 10:46:33,2026-06-22 11:33:33,Transfer,insufficient_funds,Chat,Sweden,Android,6.0
+SUP0000036,USR001211,2026-06-05 14:37:08,2026-06-06 00:07:08,Transfer,risk_review_failed,Email,Portugal,Android,6.0
+SUP0000037,USR001274,2026-05-29 22:28:31,2026-05-29 22:49:31,Verification,document_expired,Email,Spain,Android,5.8
+SUP0000038,USR001279,2026-06-09 14:17:04,2026-06-09 15:31:04,Verification,bank_authentication_failed,Email,Sweden,Android,5.9
+SUP0000039,USR001319,2026-06-27 14:48:28,2026-06-27 16:04:28,Verification,document_upload_error,Email,Germany,Android,6.0
+SUP0000040,USR001365,2026-06-22 14:31:58,2026-06-22 16:18:58,Verification,document_upload_error,Email,Spain,Android,6.0
+SUP0000041,USR001397,2026-06-18 08:00:07,2026-06-18 08:43:07,Verification,photo_quality_rejected,Email,Spain,Android,6.0
+SUP0000042,USR001408,2026-05-29 03:23:18,2026-05-29 04:11:18,Transfer,insufficient_funds,Chat,Germany,Android,5.9
+SUP0000043,USR001559,2026-06-07 13:46:49,2026-06-07 14:13:49,Verification,photo_quality_rejected,Chat,Spain,Android,6.0
+SUP0000044,USR001606,2026-04-17 02:14:32,2026-04-17 07:44:32,Transfer,risk_review_failed,Email,Estonia,Web,
+SUP0000045,USR001650,2026-05-02 12:02:19,2026-05-02 23:14:19,Transfer,risk_review_failed,Chat,Netherlands,Android,5.9
+SUP0000046,USR001691,2026-06-10 17:51:36,2026-06-10 19:26:36,Verification,identity_mismatch,Email,Romania,iOS,9.4
+SUP0000047,USR001703,2026-04-24 08:53:37,2026-04-24 09:12:37,Verification,document_expired,Chat,Romania,Android,5.8
+SUP0000048,USR001736,2026-06-09 18:12:45,2026-06-09 20:22:45,Transfer,insufficient_funds,Chat,Netherlands,Web,
+SUP0000049,USR001753,2026-06-30 10:50:50,2026-06-30 11:31:50,Verification,photo_quality_rejected,Email,Ireland,iOS,9.4
+SUP0000050,USR001758,2026-06-25 07:44:53,2026-06-25 10:12:53,Verification,identity_mismatch,Email,Poland,Android,6.0
+SUP0000051,USR001771,2026-06-28 03:21:04,2026-06-28 04:17:04,Verification,photo_quality_rejected,Chat,United Kingdom,Android,6.0
+SUP0000052,USR001811,2026-06-23 12:34:42,2026-06-23 14:21:42,Verification,document_upload_error,Chat,Romania,Android,6.0
+SUP0000053,USR001829,2026-04-23 18:41:20,2026-04-23 19:49:20,Verification,technical_error,Email,United Kingdom,Android,5.9
+SUP0000054,USR001888,2026-06-22 12:19:10,2026-06-22 14:54:10,Verification,identity_mismatch,Chat,Spain,Android,6.0
+SUP0000055,USR001915,2026-06-23 16:10:55,2026-06-23 16:31:55,Verification,identity_mismatch,Email,France,iOS,9.5
+SUP0000056,USR002003,2026-06-20 23:34:57,2026-06-21 01:31:57,Verification,camera_permission_error,Chat,United Kingdom,Android,6.0
+SUP0000057,USR002019,2026-06-17 13:10:08,2026-06-17 14:34:08,Verification,document_upload_error,Email,Poland,Android,6.0
+SUP0000058,USR002022,2026-04-19 21:40:13,2026-04-19 23:11:13,Verification,technical_error,Email,Germany,iOS,9.4
+SUP0000059,USR002073,2026-06-27 11:31:30,2026-06-27 12:50:30,Verification,bank_authentication_failed,Chat,Romania,Android,6.0
+SUP0000060,USR002106,2026-06-24 14:00:38,2026-06-24 16:37:38,Verification,camera_permission_error,Chat,Italy,Android,6.0
+SUP0000061,USR002123,2026-06-11 10:44:00,2026-06-11 11:55:00,Verification,document_upload_error,Email,Poland,Android,6.0
+SUP0000062,USR002137,2026-06-22 17:13:30,2026-06-22 18:17:30,Transfer,insufficient_funds,Chat,United Kingdom,iOS,9.4
+SUP0000063,USR002185,2026-06-21 12:05:53,2026-06-21 12:52:53,Verification,identity_mismatch,Chat,Spain,Android,6.0
+SUP0000064,USR002265,2026-06-09 11:35:20,2026-06-09 13:38:20,Verification,document_upload_error,Chat,France,Android,6.0
+SUP0000065,USR002306,2026-06-28 17:02:17,2026-06-28 19:04:17,Verification,camera_permission_error,Email,Poland,Android,6.0
+SUP0000066,USR002413,2026-06-13 10:59:38,2026-06-13 11:59:38,Verification,document_not_supported,Chat,United Kingdom,Web,
+SUP0000067,USR002459,2026-06-18 15:14:37,2026-06-18 16:05:37,Verification,document_not_supported,Email,United Kingdom,Web,
+SUP0000068,USR002494,2026-06-16 13:50:12,2026-06-16 17:03:12,Verification,document_upload_error,Chat,Poland,Android,6.0
+SUP0000069,USR002519,2026-05-31 15:55:21,2026-05-31 18:11:21,Verification,technical_error,Chat,Sweden,Web,
+SUP0000070,USR002522,2026-06-20 10:35:33,2026-06-20 12:12:33,Verification,document_not_supported,Chat,Spain,Android,6.0
+SUP0000071,USR002570,2026-06-13 08:01:04,2026-06-13 10:45:04,Transfer,payment_authorization_failed,Chat,Poland,iOS,9.4
+SUP0000072,USR002578,2026-04-30 21:25:05,2026-04-30 21:57:05,Verification,bank_authentication_failed,Email,Italy,iOS,9.4
+SUP0000073,USR002586,2026-06-04 17:25:37,2026-06-04 20:02:37,Verification,technical_error,Chat,Ireland,iOS,9.4
+SUP0000074,USR002627,2026-06-28 21:37:17,2026-06-28 22:12:17,Verification,bank_authentication_failed,Chat,Spain,Android,6.0
+SUP0000075,USR002739,2026-06-08 20:40:59,2026-06-08 21:45:59,Transfer,payment_authorization_failed,Email,Portugal,Android,6.0
+SUP0000076,USR002798,2026-06-05 23:51:46,2026-06-06 02:31:46,Transfer,bank_transfer_not_received,Chat,United Kingdom,Android,5.9
+SUP0000077,USR002821,2026-06-14 19:11:56,2026-06-14 19:39:56,Verification,photo_quality_rejected,Email,Netherlands,Android,5.9
+SUP0000078,USR002850,2026-06-17 11:07:11,2026-06-17 12:11:11,Verification,document_upload_error,Chat,United Kingdom,Android,6.0
+SUP0000079,USR002859,2026-06-15 15:15:24,2026-06-15 17:38:24,Verification,camera_permission_error,Email,Italy,Android,6.0
+SUP0000080,USR002901,2026-06-04 14:32:59,2026-06-04 16:35:59,Transfer,insufficient_funds,Chat,Estonia,iOS,9.4
+SUP0000081,USR002929,2026-05-20 20:33:00,2026-05-20 21:43:00,Verification,document_not_supported,Email,Romania,iOS,9.5
+SUP0000082,USR002931,2026-06-30 20:29:33,2026-06-30 22:19:33,Transfer,insufficient_funds,Chat,Ireland,iOS,9.5
+SUP0000083,USR002933,2026-06-22 13:34:39,2026-06-22 15:57:39,Verification,document_upload_error,Chat,United Kingdom,Android,6.0
+SUP0000084,USR002954,2026-06-25 17:37:03,2026-06-25 21:35:03,Transfer,risk_review_failed,Email,France,iOS,9.5
+SUP0000085,USR002956,2026-06-24 14:48:02,2026-06-24 17:06:02,Verification,camera_permission_error,Chat,United Kingdom,Android,6.0
+SUP0000086,USR003078,2026-06-17 17:09:55,2026-06-17 18:13:55,Verification,photo_quality_rejected,Chat,France,Android,6.0
+SUP0000087,USR003109,2026-04-27 19:53:15,2026-04-27 20:58:15,Transfer,insufficient_funds,Email,Sweden,Android,5.8
+SUP0000088,USR003215,2026-06-28 22:40:34,2026-06-28 23:54:34,Verification,document_upload_error,Chat,Germany,Android,6.0
+SUP0000089,USR003268,2026-06-13 19:29:36,2026-06-13 22:25:36,Transfer,insufficient_funds,Email,Germany,iOS,9.5
+SUP0000090,USR003282,2026-05-24 19:17:18,2026-05-24 21:26:18,Transfer,technical_error,Email,Spain,iOS,9.5
+SUP0000091,USR003297,2026-06-19 14:02:50,2026-06-19 16:18:50,Verification,document_not_supported,Chat,Sweden,Android,6.0
+SUP0000092,USR003330,2026-04-07 10:13:08,2026-04-07 11:41:08,Transfer,payment_authorization_failed,Email,Poland,iOS,9.3
+SUP0000093,USR003411,2026-06-12 16:49:20,2026-06-12 19:08:20,Transfer,risk_review_failed,Chat,Spain,Web,
+SUP0000094,USR003477,2026-05-20 15:19:22,2026-05-20 21:12:22,Transfer,risk_review_failed,Chat,France,Android,5.8
+SUP0000095,USR003504,2026-06-12 00:14:59,2026-06-12 00:50:59,Verification,photo_quality_rejected,Chat,Portugal,Android,6.0
+SUP0000096,USR003529,2026-06-15 11:05:13,2026-06-15 13:53:13,Verification,camera_permission_error,Chat,Ireland,Android,6.0
+SUP0000097,USR003549,2026-06-13 17:39:46,2026-06-13 18:02:46,Transfer,payment_authorization_failed,Chat,Italy,iOS,9.5
+SUP0000098,USR003565,2026-06-01 07:35:26,2026-06-01 10:39:26,Transfer,insufficient_funds,Chat,Spain,Android,5.8
+SUP0000099,USR003588,2026-06-05 16:25:26,2026-06-05 18:38:26,Verification,photo_quality_rejected,Chat,United Kingdom,Android,5.9
+SUP0000100,USR003668,2026-06-16 15:49:11,2026-06-16 16:41:11,Verification,photo_quality_rejected,Chat,Italy,Android,6.0
+SUP0000101,USR003670,2026-06-16 00:40:46,2026-06-16 02:22:46,Verification,identity_mismatch,Chat,Germany,iOS,9.5
+SUP0000102,USR003715,2026-06-25 21:25:13,2026-06-25 22:40:13,Transfer,insufficient_funds,Chat,Italy,iOS,9.5
+SUP0000103,USR003731,2026-06-29 21:21:46,2026-06-29 21:53:46,Verification,photo_quality_rejected,Chat,Romania,Android,6.0
+SUP0000104,USR003754,2026-06-26 07:33:09,2026-06-26 09:44:09,Verification,document_upload_error,Chat,Poland,Android,6.0
+SUP0000105,USR003771,2026-05-06 13:06:36,2026-05-06 14:18:36,Transfer,insufficient_funds,Chat,Italy,iOS,9.4
+SUP0000106,USR003777,2026-05-01 12:19:51,2026-05-01 12:54:51,Transfer,insufficient_funds,Email,Spain,Android,5.9
+SUP0000107,USR003863,2026-06-13 10:52:28,2026-06-13 12:41:28,Transfer,payment_authorization_failed,Chat,Spain,iOS,9.5
+SUP0000108,USR003896,2026-06-29 02:28:36,2026-06-29 12:15:36,Transfer,risk_review_failed,Chat,United Kingdom,iOS,9.5
+SUP0000109,USR003984,2026-05-29 19:33:02,2026-05-30 05:57:02,Transfer,risk_review_failed,Chat,Portugal,iOS,9.4
+SUP0000110,USR004021,2026-06-04 16:59:38,2026-06-04 19:06:38,Verification,photo_quality_rejected,Chat,Ireland,iOS,9.5
+SUP0000111,USR004057,2026-06-08 20:34:07,2026-06-08 23:13:07,Verification,camera_permission_error,Chat,United Kingdom,Android,6.0
+SUP0000112,USR004109,2026-04-30 13:30:26,2026-04-30 14:49:26,Transfer,insufficient_funds,Chat,United Kingdom,Android,5.8
+SUP0000113,USR004137,2026-05-10 18:55:36,2026-05-11 04:29:36,Transfer,risk_review_failed,Chat,Poland,Web,
+SUP0000114,USR004145,2026-06-28 11:12:20,2026-06-28 12:02:20,Verification,photo_quality_rejected,Chat,United Kingdom,Android,6.0
+SUP0000115,USR004176,2026-06-11 19:28:52,2026-06-11 20:11:52,Verification,document_not_supported,Email,France,Android,5.9
+SUP0000116,USR004282,2026-04-24 12:46:47,2026-04-24 13:19:47,Verification,identity_mismatch,Chat,Ireland,iOS,9.3
+SUP0000117,USR004283,2026-06-07 11:39:51,2026-06-07 13:04:51,Verification,camera_permission_error,Chat,Italy,Android,6.0
+SUP0000118,USR004329,2026-06-27 03:29:55,2026-06-27 05:07:55,Transfer,bank_transfer_not_received,Chat,France,iOS,9.5
+SUP0000119,USR004333,2026-06-18 14:22:32,2026-06-18 16:34:32,Transfer,payment_authorization_failed,Chat,Italy,Android,6.0
+SUP0000120,USR004334,2026-06-01 16:48:11,2026-06-01 18:37:11,Verification,photo_quality_rejected,Chat,Estonia,Android,5.9
+SUP0000121,USR004343,2026-04-18 12:20:31,2026-04-18 13:09:31,Verification,document_not_supported,Chat,United Kingdom,iOS,9.4
+SUP0000122,USR004385,2026-06-01 13:50:45,2026-06-01 14:58:45,Verification,document_expired,Chat,France,Web,
+SUP0000123,USR004408,2026-06-22 19:19:52,2026-06-22 20:05:52,Verification,document_not_supported,Chat,United Kingdom,iOS,9.5
+SUP0000124,USR004441,2026-06-15 19:40:56,2026-06-15 20:26:56,Verification,bank_authentication_failed,Email,France,Android,6.0
+SUP0000125,USR004517,2026-04-11 08:14:58,2026-04-11 10:41:58,Transfer,payment_authorization_failed,Chat,United Kingdom,Android,5.8
+SUP0000126,USR004521,2026-06-05 20:56:55,2026-06-05 22:08:55,Transfer,risk_review_failed,Email,Germany,iOS,9.5
+SUP0000127,USR004560,2026-06-24 20:17:53,2026-06-24 20:58:53,Verification,document_not_supported,Chat,Italy,Android,6.0
+SUP0000128,USR004662,2026-05-29 16:31:19,2026-05-29 18:26:19,Verification,document_not_supported,Email,Germany,iOS,9.5
+SUP0000129,USR004664,2026-05-25 17:26:21,2026-05-25 19:29:21,Verification,identity_mismatch,Email,United Kingdom,Android,5.9
+SUP0000130,USR004712,2026-06-22 14:04:43,2026-06-22 15:18:43,Verification,technical_error,Chat,United Kingdom,Android,6.0
+SUP0000131,USR004737,2026-06-02 18:58:09,2026-06-02 20:17:09,Verification,photo_quality_rejected,Chat,Italy,Android,5.9
+SUP0000132,USR004791,2026-06-06 07:30:42,2026-06-06 09:18:42,Verification,document_upload_error,Chat,United Kingdom,Android,6.0
+SUP0000133,USR004832,2026-06-06 23:36:17,2026-06-07 00:53:17,Verification,document_expired,Chat,United Kingdom,Android,6.0
+SUP0000134,USR004874,2026-04-14 13:19:59,2026-04-14 18:18:59,Transfer,risk_review_failed,Chat,Italy,iOS,9.3
+SUP0000135,USR004891,2026-06-26 20:44:14,2026-06-26 22:24:14,Verification,photo_quality_rejected,Chat,Portugal,Android,6.0
+SUP0000136,USR004960,2026-06-17 11:10:20,2026-06-17 13:49:20,Verification,document_upload_error,Chat,Portugal,Android,6.0
+SUP0000137,USR005016,2026-04-08 21:44:16,2026-04-08 22:52:16,Verification,identity_mismatch,Email,Portugal,Android,5.8
+SUP0000138,USR005146,2026-06-28 21:21:26,2026-06-28 22:20:26,Transfer,technical_error,Email,Spain,iOS,9.5
+SUP0000139,USR005178,2026-06-09 11:50:06,2026-06-09 12:27:06,Verification,identity_mismatch,Chat,United Kingdom,Android,5.9
+SUP0000140,USR005189,2026-06-11 00:01:55,2026-06-11 00:43:55,Verification,document_upload_error,Chat,Netherlands,Android,6.0
+SUP0000141,USR005199,2026-06-13 02:54:19,2026-06-13 04:12:19,Verification,bank_authentication_failed,Email,Germany,Web,
+SUP0000142,USR005272,2026-05-22 12:20:27,2026-05-22 19:09:27,Transfer,risk_review_failed,Email,United Kingdom,iOS,9.5
+SUP0000143,USR005302,2026-06-18 22:02:25,2026-06-18 22:48:25,Verification,document_not_supported,Chat,Netherlands,iOS,9.4
+SUP0000144,USR005334,2026-06-09 19:14:30,2026-06-09 20:21:30,Verification,technical_error,Chat,Spain,iOS,9.4
+SUP0000145,USR005346,2026-06-30 19:46:46,2026-06-30 21:35:46,Verification,document_upload_error,Email,France,Android,6.0
+SUP0000146,USR005373,2026-05-28 18:32:03,2026-05-28 19:29:03,Transfer,payment_authorization_failed,Chat,United Kingdom,iOS,9.5
+SUP0000147,USR005437,2026-05-05 17:56:12,2026-05-05 19:46:12,Verification,document_not_supported,Chat,Germany,iOS,9.3
+SUP0000148,USR005459,2026-06-20 11:07:09,2026-06-20 12:09:09,Verification,photo_quality_rejected,Chat,Germany,Android,6.0
+SUP0000149,USR005492,2026-06-30 10:13:00,2026-06-30 10:47:00,Verification,document_upload_error,Email,Poland,Android,6.0
+SUP0000150,USR005512,2026-04-25 08:35:52,2026-04-25 10:03:52,Transfer,insufficient_funds,Chat,Netherlands,Android,5.8
+SUP0000151,USR005530,2026-06-25 17:58:02,2026-06-25 19:25:02,Verification,camera_permission_error,Email,United Kingdom,Android,6.0
+SUP0000152,USR005555,2026-06-22 22:38:40,2026-06-23 00:38:40,Transfer,insufficient_funds,Chat,Italy,Android,6.0
+SUP0000153,USR005588,2026-06-19 10:06:03,2026-06-19 10:24:03,Verification,document_upload_error,Chat,United Kingdom,Android,6.0
+SUP0000154,USR005634,2026-06-29 18:17:49,2026-06-29 19:09:49,Verification,document_upload_error,Chat,United Kingdom,Android,6.0
+SUP0000155,USR005645,2026-04-20 12:01:24,2026-04-20 13:57:24,Transfer,payment_authorization_failed,Chat,United Kingdom,Android,5.8
+SUP0000156,USR005657,2026-05-25 13:03:32,2026-05-25 14:50:32,Verification,photo_quality_rejected,Chat,Romania,Android,5.8
+SUP0000157,USR005680,2026-06-03 09:10:34,2026-06-03 09:41:34,Transfer,insufficient_funds,Email,Portugal,iOS,9.5
+SUP0000158,USR005715,2026-06-18 04:56:40,2026-06-18 05:36:40,Verification,photo_quality_rejected,Email,Poland,Android,6.0
+SUP0000159,USR005734,2026-06-04 13:44:51,2026-06-04 15:07:51,Transfer,technical_error,Chat,Germany,iOS,9.5
+SUP0000160,USR005743,2026-06-15 03:30:26,2026-06-15 03:46:26,Transfer,payment_authorization_failed,Chat,United Kingdom,Android,6.0
+SUP0000161,USR005846,2026-06-30 18:01:10,2026-06-30 20:43:10,Transfer,technical_error,Chat,United Kingdom,iOS,9.4
+SUP0000162,USR005851,2026-06-17 11:32:50,2026-06-17 12:36:50,Verification,document_not_supported,Email,United Kingdom,iOS,9.4
+SUP0000163,USR005877,2026-06-05 16:01:06,2026-06-05 17:06:06,Verification,photo_quality_rejected,Email,Germany,iOS,9.4
+SUP0000164,USR005926,2026-06-24 10:39:33,2026-06-24 13:11:33,Verification,camera_permission_error,Chat,Germany,Android,6.0
+SUP0000165,USR005951,2026-06-23 09:04:45,2026-06-23 16:10:45,Transfer,risk_review_failed,Chat,Portugal,Web,
+SUP0000166,USR005971,2026-04-17 10:29:53,2026-04-17 12:31:53,Transfer,technical_error,Chat,United Kingdom,iOS,9.4
+SUP0000167,USR006012,2026-06-22 16:08:57,2026-06-22 16:48:57,Verification,document_upload_error,Email,Germany,Android,6.0
+SUP0000168,USR006014,2026-06-30 22:27:29,2026-06-30 23:11:29,Verification,document_expired,Chat,Ireland,iOS,9.5
+SUP0000169,USR006016,2026-06-20 23:21:32,2026-06-21 00:08:32,Verification,technical_error,Chat,France,Android,6.0
+SUP0000170,USR006033,2026-06-08 21:32:29,2026-06-08 22:08:29,Verification,identity_mismatch,Chat,Germany,Android,5.9
+SUP0000171,USR006046,2026-06-10 13:29:34,2026-06-10 14:42:34,Verification,identity_mismatch,Chat,Portugal,Android,6.0
+SUP0000172,USR006084,2026-04-05 21:35:44,2026-04-05 23:12:44,Transfer,payment_authorization_failed,Chat,Estonia,Android,5.8
+SUP0000173,USR006115,2026-06-28 17:23:59,2026-06-28 18:46:59,Verification,identity_mismatch,Chat,Germany,Android,6.0
+SUP0000174,USR006118,2026-06-07 23:02:33,2026-06-08 01:01:33,Verification,identity_mismatch,Chat,Germany,Android,6.0
+SUP0000175,USR006124,2026-06-21 11:29:56,2026-06-21 12:37:56,Verification,camera_permission_error,Chat,Netherlands,Android,6.0
+SUP0000176,USR006183,2026-06-30 18:52:54,2026-06-30 21:04:54,Transfer,insufficient_funds,Email,Estonia,iOS,9.4
+SUP0000177,USR006226,2026-06-21 22:12:25,2026-06-21 22:50:25,Verification,camera_permission_error,Chat,Germany,Android,6.0
+SUP0000178,USR006356,2026-06-08 10:28:09,2026-06-08 16:23:09,Transfer,risk_review_failed,Chat,Poland,iOS,9.4
+SUP0000179,USR006437,2026-06-05 12:01:57,2026-06-05 13:06:57,Verification,photo_quality_rejected,Chat,Sweden,Android,6.0
+SUP0000180,USR006461,2026-06-17 04:29:04,2026-06-17 06:21:04,Verification,identity_mismatch,Chat,United Kingdom,iOS,9.5
+SUP0000181,USR006519,2026-05-27 22:18:22,2026-05-27 23:33:22,Transfer,insufficient_funds,Chat,Ireland,Android,5.8
+SUP0000182,USR006550,2026-06-07 12:00:52,2026-06-07 13:24:52,Transfer,technical_error,Chat,Ireland,Android,5.9
+SUP0000183,USR006605,2026-06-26 14:07:12,2026-06-26 15:11:12,Verification,technical_error,Chat,Spain,Android,5.9
+SUP0000184,USR006625,2026-06-19 21:33:18,2026-06-19 22:58:18,Verification,identity_mismatch,Chat,United Kingdom,Android,6.0
+SUP0000185,USR006716,2026-06-17 11:10:25,2026-06-17 11:52:25,Verification,bank_authentication_failed,Email,Italy,Android,6.0
+SUP0000186,USR006742,2026-06-05 00:16:47,2026-06-05 09:52:47,Transfer,risk_review_failed,Chat,Italy,Android,5.9
+SUP0000187,USR006753,2026-06-26 21:12:27,2026-06-26 23:50:27,Verification,bank_authentication_failed,Email,United Kingdom,iOS,9.5
+SUP0000188,USR006759,2026-06-08 15:35:39,2026-06-08 16:42:39,Verification,photo_quality_rejected,Chat,Netherlands,Android,6.0
+SUP0000189,USR006761,2026-06-25 12:12:28,2026-06-25 14:33:28,Verification,document_upload_error,Chat,Estonia,Android,6.0
+SUP0000190,USR006781,2026-05-07 14:56:03,2026-05-07 16:51:03,Verification,document_expired,Email,Italy,iOS,9.3
+SUP0000191,USR006811,2026-04-23 04:19:56,2026-04-23 07:43:56,Transfer,insufficient_funds,Email,Poland,Android,5.9
+SUP0000192,USR006816,2026-05-16 13:46:00,2026-05-16 14:39:00,Verification,technical_error,Email,France,Android,5.9
+SUP0000193,USR006831,2026-05-27 20:29:34,2026-05-27 21:27:34,Verification,document_not_supported,Chat,Germany,iOS,9.5
+SUP0000194,USR006841,2026-06-05 18:37:15,2026-06-05 20:36:15,Verification,technical_error,Email,Portugal,Android,6.0
+SUP0000195,USR006845,2026-06-21 20:40:05,2026-06-21 22:10:05,Verification,document_upload_error,Chat,Germany,Android,6.0
+SUP0000196,USR006913,2026-04-13 14:21:58,2026-04-13 17:41:58,Transfer,risk_review_failed,Email,Ireland,iOS,9.3
+SUP0000197,USR006915,2026-06-21 03:40:32,2026-06-21 04:12:32,Transfer,bank_transfer_not_received,Email,United Kingdom,iOS,9.4
+SUP0000198,USR006934,2026-06-07 16:58:26,2026-06-07 18:47:26,Verification,photo_quality_rejected,Email,France,Android,6.0
+SUP0000199,USR006961,2026-06-23 20:15:57,2026-06-23 22:15:57,Transfer,payment_authorization_failed,Email,Portugal,Android,6.0
+SUP0000200,USR006966,2026-06-23 19:56:19,2026-06-23 21:16:19,Verification,camera_permission_error,Email,Poland,Android,6.0
+SUP0000201,USR006996,2026-06-29 13:33:22,2026-06-29 14:21:22,Verification,document_upload_error,Chat,United Kingdom,Android,6.0
+SUP0000202,USR007009,2026-06-18 13:44:52,2026-06-18 21:26:52,Transfer,risk_review_failed,Chat,Spain,Web,
+SUP0000203,USR007028,2026-06-09 08:51:46,2026-06-09 11:15:46,Verification,photo_quality_rejected,Email,Netherlands,Android,6.0
+SUP0000204,USR007041,2026-05-29 09:24:05,2026-05-29 17:07:05,Transfer,risk_review_failed,Email,Spain,Android,5.9
+SUP0000205,USR007057,2026-06-18 11:37:21,2026-06-18 13:57:21,Verification,technical_error,Email,Spain,Android,6.0
+SUP0000206,USR007063,2026-06-27 07:43:17,2026-06-27 11:05:17,Transfer,risk_review_failed,Email,France,Android,5.9
+SUP0000207,USR007069,2026-07-01 12:01:17,2026-07-01 12:52:17,Transfer,technical_error,Chat,United Kingdom,Android,6.0
+SUP0000208,USR007082,2026-06-14 16:58:04,2026-06-14 18:56:04,Verification,identity_mismatch,Chat,Estonia,Android,6.0
+SUP0000209,USR007210,2026-06-14 08:17:44,2026-06-14 10:18:44,Verification,document_upload_error,Chat,Italy,Android,6.0
+SUP0000210,USR007233,2026-05-23 16:06:09,2026-05-23 18:13:09,Verification,document_expired,Chat,United Kingdom,iOS,9.5
+SUP0000211,USR007248,2026-07-01 15:53:10,2026-07-01 18:35:10,Transfer,insufficient_funds,Chat,Italy,iOS,9.5
+SUP0000212,USR007328,2026-06-22 06:40:42,2026-06-22 07:49:42,Verification,document_not_supported,Chat,Germany,iOS,9.4
+SUP0000213,USR007339,2026-05-24 19:36:42,2026-05-24 20:17:42,Verification,document_expired,Email,Sweden,Android,5.8
+SUP0000214,USR007363,2026-06-27 18:39:04,2026-06-27 20:05:04,Verification,photo_quality_rejected,Chat,France,Android,6.0
+SUP0000215,USR007375,2026-06-01 15:34:09,2026-06-01 15:58:09,Verification,photo_quality_rejected,Email,Italy,Android,5.9
+SUP0000216,USR007397,2026-06-22 17:41:14,2026-06-22 19:10:14,Verification,camera_permission_error,Email,Netherlands,Android,6.0
+SUP0000217,USR007399,2026-06-16 11:22:09,2026-06-16 13:31:09,Verification,photo_quality_rejected,Email,Italy,Android,6.0
+SUP0000218,USR007431,2026-05-24 19:19:09,2026-05-24 20:24:09,Transfer,technical_error,Chat,Netherlands,iOS,9.5
+SUP0000219,USR007435,2026-05-20 22:20:23,2026-05-20 23:37:23,Transfer,insufficient_funds,Chat,Spain,Android,5.9
+SUP0000220,USR007503,2026-07-02 20:19:56,2026-07-02 22:54:56,Transfer,risk_review_failed,Email,Portugal,Android,6.0
+SUP0000221,USR007506,2026-06-30 20:21:29,2026-06-30 20:56:29,Verification,photo_quality_rejected,Email,United Kingdom,Android,6.0
+SUP0000222,USR007535,2026-06-12 11:12:52,2026-06-12 14:02:52,Verification,document_upload_error,Chat,Italy,Android,6.0
+SUP0000223,USR007599,2026-06-04 09:40:03,2026-06-04 10:33:03,Verification,photo_quality_rejected,Chat,Italy,Android,5.9
+SUP0000224,USR007605,2026-06-23 04:28:53,2026-06-23 05:46:53,Verification,photo_quality_rejected,Email,Italy,Android,6.0
+SUP0000225,USR007610,2026-05-21 20:01:59,2026-05-21 21:07:59,Verification,document_not_supported,Email,United Kingdom,iOS,9.4
+SUP0000226,USR007612,2026-05-03 04:15:15,2026-05-03 05:05:15,Transfer,payment_authorization_failed,Email,Netherlands,iOS,9.3
+SUP0000227,USR007622,2026-06-24 17:43:52,2026-06-24 19:05:52,Verification,bank_authentication_failed,Chat,United Kingdom,Android,6.0
+SUP0000228,USR007623,2026-06-23 11:33:12,2026-06-23 13:06:12,Verification,camera_permission_error,Chat,Netherlands,Android,6.0
+SUP0000229,USR007632,2026-06-27 16:37:35,2026-06-27 17:13:35,Verification,bank_authentication_failed,Email,Germany,Android,6.0
+SUP0000230,USR007680,2026-06-18 09:11:51,2026-06-18 10:24:51,Verification,document_upload_error,Email,Poland,Android,6.0
+SUP0000231,USR007696,2026-06-24 16:06:22,2026-06-24 16:42:22,Verification,photo_quality_rejected,Chat,Portugal,iOS,9.4
+SUP0000232,USR007704,2026-06-05 15:32:43,2026-06-05 18:14:43,Transfer,risk_review_failed,Chat,France,iOS,9.5
+SUP0000233,USR007820,2026-05-14 19:16:01,2026-05-14 20:55:01,Verification,identity_mismatch,Chat,Poland,Android,5.9
+SUP0000234,USR007872,2026-05-09 15:58:04,2026-05-09 16:27:04,Verification,identity_mismatch,Chat,Romania,Android,5.9
+SUP0000235,USR007929,2026-06-16 11:41:35,2026-06-16 12:55:35,Verification,identity_mismatch,Chat,Ireland,Android,6.0
+SUP0000236,USR007946,2026-06-11 08:03:51,2026-06-11 08:57:51,Verification,photo_quality_rejected,Chat,France,Android,5.9
+SUP0000237,USR007978,2026-06-23 21:03:31,2026-06-23 23:17:31,Verification,camera_permission_error,Chat,Italy,Android,6.0
+SUP0000238,USR007980,2026-06-18 08:37:10,2026-06-18 10:36:10,Verification,technical_error,Email,Spain,Android,6.0
+SUP0000239,USR008034,2026-06-21 10:44:10,2026-06-21 13:30:10,Transfer,bank_transfer_not_received,Chat,Netherlands,Android,5.9
+SUP0000240,USR008142,2026-06-20 17:29:29,2026-06-20 20:45:29,Transfer,bank_transfer_not_received,Chat,Spain,iOS,9.5
+SUP0000241,USR008160,2026-06-22 16:14:49,2026-06-22 17:20:49,Verification,photo_quality_rejected,Chat,Italy,Web,
+SUP0000242,USR008198,2026-06-27 15:24:30,2026-06-27 17:04:30,Verification,photo_quality_rejected,Chat,United Kingdom,Android,6.0
+SUP0000243,USR008202,2026-06-18 17:32:42,2026-06-18 18:36:42,Verification,document_upload_error,Chat,United Kingdom,Android,6.0
+SUP0000244,USR008231,2026-06-17 16:28:43,2026-06-17 17:40:43,Verification,document_upload_error,Email,Netherlands,Android,6.0
+SUP0000245,USR008266,2026-06-17 12:13:24,2026-06-17 14:09:24,Verification,document_not_supported,Chat,France,Android,6.0
+SUP0000246,USR008352,2026-06-23 12:37:46,2026-06-23 15:09:46,Verification,document_not_supported,Email,Spain,Web,
+SUP0000247,USR008439,2026-06-26 08:54:54,2026-06-26 09:45:54,Verification,document_upload_error,Chat,Poland,Android,6.0
+SUP0000248,USR008474,2026-04-11 16:41:34,2026-04-11 23:55:34,Transfer,risk_review_failed,Chat,France,Android,5.8
+SUP0000249,USR008485,2026-06-03 20:23:36,2026-06-03 23:08:36,Verification,identity_mismatch,Chat,United Kingdom,iOS,9.5
+SUP0000250,USR008566,2026-06-23 10:23:10,2026-06-23 11:43:10,Verification,identity_mismatch,Chat,United Kingdom,Android,6.0
+SUP0000251,USR008572,2026-06-29 09:50:07,2026-06-29 11:08:07,Verification,document_upload_error,Chat,France,Android,6.0
+SUP0000252,USR008591,2026-06-15 19:45:42,2026-06-15 20:55:42,Verification,document_upload_error,Chat,Netherlands,Android,6.0
+SUP0000253,USR008611,2026-05-21 09:09:41,2026-05-21 11:31:41,Verification,document_not_supported,Chat,United Kingdom,iOS,9.4
+SUP0000254,USR008655,2026-05-08 08:30:46,2026-05-08 10:44:46,Transfer,insufficient_funds,Chat,Netherlands,Android,5.8
+SUP0000255,USR008688,2026-06-01 11:14:01,2026-06-01 12:07:01,Verification,photo_quality_rejected,Chat,France,Android,5.9
+SUP0000256,USR008735,2026-05-19 12:44:16,2026-05-19 14:55:16,Verification,identity_mismatch,Chat,Portugal,iOS,9.5
+SUP0000257,USR008747,2026-05-26 11:42:02,2026-05-26 13:58:02,Verification,photo_quality_rejected,Email,Netherlands,Android,5.9
+SUP0000258,USR008760,2026-06-27 09:08:58,2026-06-27 11:37:58,Verification,technical_error,Chat,Spain,Android,6.0
+SUP0000259,USR008784,2026-04-20 11:42:17,2026-04-20 12:16:17,Verification,document_expired,Chat,Germany,iOS,9.4
+SUP0000260,USR008802,2026-05-30 15:59:04,2026-05-30 17:05:04,Verification,photo_quality_rejected,Email,Portugal,iOS,9.5
+SUP0000261,USR008847,2026-06-18 11:13:47,2026-06-18 11:40:47,Verification,photo_quality_rejected,Chat,Italy,Android,6.0
+SUP0000262,USR008935,2026-06-11 15:40:24,2026-06-11 16:19:24,Verification,identity_mismatch,Chat,France,Web,
+SUP0000263,USR008960,2026-06-14 03:09:50,2026-06-14 04:06:50,Verification,photo_quality_rejected,Chat,Spain,Android,6.0
+SUP0000264,USR008966,2026-06-17 14:22:07,2026-06-17 15:19:07,Verification,photo_quality_rejected,Email,Romania,Android,6.0
+SUP0000265,USR008984,2026-06-14 04:03:24,2026-06-14 05:07:24,Transfer,payment_authorization_failed,Chat,Spain,iOS,9.5
+SUP0000266,USR008993,2026-06-20 05:12:51,2026-06-20 05:42:51,Verification,photo_quality_rejected,Chat,Romania,iOS,9.5
+SUP0000267,USR009011,2026-05-09 05:54:31,2026-05-09 13:22:31,Transfer,risk_review_failed,Chat,Germany,iOS,9.3
+SUP0000268,USR009049,2026-06-16 16:17:58,2026-06-16 18:00:58,Verification,technical_error,Chat,Italy,Android,6.0
+SUP0000269,USR009061,2026-04-08 20:28:47,2026-04-08 21:34:47,Verification,document_not_supported,Chat,Poland,iOS,9.3
+SUP0000270,USR009091,2026-05-27 10:11:56,2026-05-27 16:07:56,Transfer,risk_review_failed,Chat,Germany,Android,5.9
+SUP0000271,USR009100,2026-06-13 14:58:31,2026-06-13 16:33:31,Verification,bank_authentication_failed,Email,United Kingdom,iOS,9.5
+SUP0000272,USR009155,2026-06-05 19:00:31,2026-06-05 19:40:31,Verification,identity_mismatch,Chat,United Kingdom,Android,6.0
+SUP0000273,USR009168,2026-06-25 14:13:55,2026-06-25 16:24:55,Verification,document_upload_error,Chat,Portugal,Android,6.0
+SUP0000274,USR009177,2026-06-16 21:06:23,2026-06-16 22:18:23,Verification,bank_authentication_failed,Email,United Kingdom,Android,6.0
+SUP0000275,USR009196,2026-06-02 14:17:03,2026-06-02 15:53:03,Verification,photo_quality_rejected,Chat,Romania,Android,5.9
+SUP0000276,USR009275,2026-05-04 19:27:04,2026-05-04 20:03:04,Verification,identity_mismatch,Chat,Romania,Android,5.9
+SUP0000277,USR009356,2026-04-30 22:09:32,2026-04-30 22:51:32,Verification,identity_mismatch,Chat,Germany,Android,5.8
+SUP0000278,USR009423,2026-06-29 02:38:13,2026-06-29 03:41:13,Verification,document_not_supported,Chat,United Kingdom,Android,5.9
+SUP0000279,USR009437,2026-06-06 14:50:57,2026-06-06 15:43:57,Verification,photo_quality_rejected,Chat,Germany,Android,6.0
+SUP0000280,USR009505,2026-06-21 19:22:06,2026-06-21 21:37:06,Verification,camera_permission_error,Chat,Romania,Android,6.0
+SUP0000281,USR009586,2026-06-07 08:58:49,2026-06-07 10:39:49,Verification,camera_permission_error,Chat,Estonia,Android,6.0
+SUP0000282,USR009625,2026-04-02 10:13:08,2026-04-02 10:52:08,Transfer,insufficient_funds,Chat,Poland,iOS,9.4
+SUP0000283,USR009759,2026-05-10 15:33:17,2026-05-10 16:19:17,Verification,identity_mismatch,Chat,United Kingdom,Android,5.9
+SUP0000284,USR009832,2026-06-26 14:26:20,2026-06-26 14:55:20,Verification,photo_quality_rejected,Chat,Estonia,Android,6.0
+SUP0000285,USR009852,2026-06-20 22:13:55,2026-06-20 22:28:55,Verification,bank_authentication_failed,Email,Italy,iOS,9.4
+SUP0000286,USR009857,2026-04-23 09:54:43,2026-04-23 12:22:43,Transfer,insufficient_funds,Email,United Kingdom,iOS,9.3
+SUP0000287,USR009906,2026-06-30 17:56:10,2026-06-30 18:18:10,Verification,technical_error,Chat,Poland,Android,6.0
+SUP0000288,USR009914,2026-06-19 08:04:08,2026-06-19 09:09:08,Verification,identity_mismatch,Chat,France,iOS,9.5
+SUP0000289,USR009984,2026-04-17 06:16:42,2026-04-17 06:59:42,Verification,identity_mismatch,Chat,Italy,Android,5.9
+SUP0000290,USR009999,2026-06-25 00:17:02,2026-06-25 01:24:02,Verification,document_expired,Chat,Netherlands,Android,6.0
+SUP0000291,USR010041,2026-06-11 08:19:34,2026-06-11 10:07:34,Transfer,transfer_limit_exceeded,Email,Spain,Android,5.9
+SUP0000292,USR010144,2026-05-10 17:53:35,2026-05-10 18:43:35,Transfer,payment_authorization_failed,Chat,Spain,Android,5.9
+SUP0000293,USR010150,2026-06-29 14:52:22,2026-06-29 15:14:22,Verification,photo_quality_rejected,Chat,France,Android,6.0
+SUP0000294,USR010163,2026-06-25 17:11:36,2026-06-25 17:53:36,Verification,document_not_supported,Chat,Germany,Android,6.0
+SUP0000295,USR010164,2026-06-10 08:53:05,2026-06-10 09:42:05,Verification,document_not_supported,Chat,United Kingdom,iOS,9.5
+SUP0000296,USR010181,2026-06-26 17:32:08,2026-06-26 18:12:08,Transfer,insufficient_funds,Chat,Netherlands,Android,6.0
+SUP0000297,USR010213,2026-06-28 12:21:46,2026-06-28 13:26:46,Verification,technical_error,Email,United Kingdom,Android,6.0
+SUP0000298,USR010262,2026-06-08 15:56:03,2026-06-08 23:05:03,Transfer,transfer_limit_exceeded,Chat,Ireland,iOS,9.4
+SUP0000299,USR010343,2026-05-28 15:51:23,2026-05-28 17:27:23,Verification,document_not_supported,Chat,France,iOS,9.5
+SUP0000300,USR010366,2026-06-06 22:35:40,2026-06-07 08:05:40,Transfer,risk_review_failed,Email,France,iOS,9.4
+SUP0000301,USR010371,2026-06-28 13:03:47,2026-06-28 16:02:47,Verification,technical_error,Chat,Italy,Web,
+SUP0000302,USR010375,2026-04-28 11:43:29,2026-04-28 13:14:29,Transfer,insufficient_funds,Chat,Spain,Android,5.9
+SUP0000303,USR010484,2026-06-07 14:19:05,2026-06-07 15:24:05,Verification,document_not_supported,Chat,United Kingdom,Android,6.0
+SUP0000304,USR010489,2026-06-27 10:03:44,2026-06-27 11:50:44,Verification,document_upload_error,Chat,United Kingdom,Android,6.0
+SUP0000305,USR010515,2026-04-01 21:07:50,2026-04-01 22:35:50,Transfer,payment_authorization_failed,Chat,Spain,Android,5.8
+SUP0000306,USR010523,2026-06-13 19:08:10,2026-06-13 22:11:10,Verification,document_upload_error,Chat,Poland,Android,6.0
+SUP0000307,USR010553,2026-06-26 21:46:59,2026-06-27 00:11:59,Verification,photo_quality_rejected,Chat,Ireland,Android,6.0
+SUP0000308,USR010619,2026-06-30 11:09:46,2026-06-30 14:25:46,Transfer,insufficient_funds,Chat,United Kingdom,Android,5.9
+SUP0000309,USR010621,2026-05-23 17:30:53,2026-05-23 18:42:53,Transfer,payment_authorization_failed,Chat,Spain,iOS,9.5
+SUP0000310,USR010659,2026-05-02 07:25:40,2026-05-02 09:39:40,Transfer,insufficient_funds,Chat,Poland,iOS,9.4
+SUP0000311,USR010698,2026-06-02 21:25:41,2026-06-03 02:53:41,Transfer,risk_review_failed,Email,France,Android,5.9
+SUP0000312,USR010704,2026-05-28 18:33:59,2026-05-28 19:06:59,Transfer,payment_authorization_failed,Chat,Spain,iOS,9.5
+SUP0000313,USR010734,2026-06-05 19:56:37,2026-06-05 22:19:37,Verification,identity_mismatch,Email,Estonia,iOS,9.5
+SUP0000314,USR010736,2026-05-28 20:31:12,2026-05-28 21:45:12,Verification,bank_authentication_failed,Chat,Netherlands,Android,5.9
+SUP0000315,USR010739,2026-06-03 22:52:56,2026-06-04 00:04:56,Verification,document_not_supported,Chat,United Kingdom,Android,5.9
+SUP0000316,USR010746,2026-06-09 09:10:59,2026-06-09 10:14:59,Verification,document_upload_error,Email,Ireland,Android,6.0
+SUP0000317,USR010783,2026-06-15 21:48:23,2026-06-15 22:15:23,Transfer,payment_authorization_failed,Chat,United Kingdom,iOS,9.4
+SUP0000318,USR010785,2026-05-18 14:47:34,2026-05-18 15:21:34,Transfer,bank_transfer_not_received,Chat,Spain,Android,5.9
+SUP0000319,USR010853,2026-06-19 20:54:17,2026-06-19 22:19:17,Verification,camera_permission_error,Chat,Portugal,Android,6.0
+SUP0000320,USR010875,2026-05-18 13:56:48,2026-05-18 16:08:48,Verification,technical_error,Chat,Portugal,Android,5.9
+SUP0000321,USR010879,2026-05-31 13:24:23,2026-05-31 16:00:23,Transfer,payment_authorization_failed,Chat,France,iOS,9.4
+SUP0000322,USR010908,2026-05-13 08:33:58,2026-05-13 11:30:58,Verification,technical_error,Chat,Romania,Web,
+SUP0000323,USR011001,2026-06-28 10:46:15,2026-06-28 12:27:15,Verification,photo_quality_rejected,Chat,United Kingdom,Android,6.0
+SUP0000324,USR011031,2026-06-16 22:54:02,2026-06-17 01:04:02,Transfer,insufficient_funds,Chat,Spain,iOS,9.4
+SUP0000325,USR011069,2026-06-27 20:52:05,2026-06-27 22:39:05,Verification,document_upload_error,Chat,United Kingdom,Android,6.0
+SUP0000326,USR011097,2026-06-26 07:37:56,2026-06-26 08:19:56,Verification,identity_mismatch,Chat,United Kingdom,Android,6.0
+SUP0000327,USR011140,2026-06-16 20:46:58,2026-06-16 21:18:58,Verification,photo_quality_rejected,Chat,United Kingdom,iOS,9.5
+SUP0000328,USR011144,2026-06-26 20:52:24,2026-06-26 22:06:24,Verification,document_expired,Chat,Portugal,Web,
+SUP0000329,USR011177,2026-06-08 13:16:57,2026-06-08 14:17:57,Verification,document_upload_error,Email,France,Android,6.0
+SUP0000330,USR011188,2026-06-18 14:29:29,2026-06-18 15:13:29,Verification,identity_mismatch,Chat,France,Android,5.9
+SUP0000331,USR011195,2026-04-18 17:07:28,2026-04-18 19:50:28,Transfer,risk_review_failed,Chat,United Kingdom,Android,5.8
+SUP0000332,USR011240,2026-06-27 17:29:40,2026-06-27 18:56:40,Verification,identity_mismatch,Chat,United Kingdom,Android,6.0
+SUP0000333,USR011264,2026-06-15 12:59:53,2026-06-15 15:46:53,Verification,camera_permission_error,Email,Ireland,Android,6.0
+SUP0000334,USR011290,2026-06-19 16:02:30,2026-06-19 18:01:30,Verification,camera_permission_error,Chat,Portugal,Android,6.0
+SUP0000335,USR011347,2026-05-15 14:03:39,2026-05-15 16:01:39,Transfer,payment_authorization_failed,Chat,Portugal,Android,5.9
+SUP0000336,USR011349,2026-06-01 22:31:57,2026-06-01 23:35:57,Verification,document_not_supported,Email,United Kingdom,Android,5.9
+SUP0000337,USR011366,2026-04-19 16:59:29,2026-04-19 19:50:29,Transfer,payment_authorization_failed,Email,Portugal,Android,5.8
+SUP0000338,USR011368,2026-06-21 18:18:08,2026-06-21 19:02:08,Verification,technical_error,Chat,Germany,Android,6.0
+SUP0000339,USR011381,2026-04-14 22:42:27,2026-04-14 23:24:27,Verification,document_expired,Chat,Ireland,Web,
+SUP0000340,USR011386,2026-06-19 18:44:01,2026-06-19 20:29:01,Transfer,risk_review_failed,Chat,Ireland,Web,
+SUP0000341,USR011394,2026-06-27 19:44:29,2026-06-27 20:51:29,Transfer,payment_authorization_failed,Chat,Italy,Android,6.0
+SUP0000342,USR011421,2026-05-28 22:47:41,2026-05-28 22:57:41,Verification,photo_quality_rejected,Chat,France,iOS,9.4
+SUP0000343,USR011423,2026-06-16 16:08:47,2026-06-16 17:59:47,Verification,document_upload_error,Chat,Italy,Android,6.0
+SUP0000344,USR011455,2026-04-10 00:52:50,2026-04-10 02:01:50,Verification,technical_error,Chat,Sweden,iOS,9.4
+SUP0000345,USR011497,2026-06-20 22:00:15,2026-06-21 01:15:15,Verification,document_upload_error,Chat,Ireland,Android,6.0
+SUP0000346,USR011530,2026-06-08 15:49:58,2026-06-08 16:51:58,Verification,bank_authentication_failed,Email,United Kingdom,Android,6.0
+SUP0000347,USR011576,2026-05-24 19:30:53,2026-05-24 20:17:53,Verification,photo_quality_rejected,Email,Estonia,Android,5.9
+SUP0000348,USR011653,2026-06-25 22:11:44,2026-06-26 02:53:44,Transfer,risk_review_failed,Chat,France,Android,6.0
+SUP0000349,USR011735,2026-04-14 17:48:42,2026-04-14 19:26:42,Verification,photo_quality_rejected,Chat,France,iOS,9.3
+SUP0000350,USR011752,2026-05-18 09:23:02,2026-05-18 12:29:02,Transfer,insufficient_funds,Chat,France,Android,5.9
+SUP0000351,USR011762,2026-06-17 16:25:23,2026-06-17 17:16:23,Verification,technical_error,Chat,Sweden,Android,6.0
+SUP0000352,USR011781,2026-06-30 15:34:39,2026-06-30 19:27:39,Verification,document_upload_error,Chat,Ireland,Android,6.0
+SUP0000353,USR011840,2026-06-25 20:44:31,2026-06-25 22:18:31,Verification,identity_mismatch,Chat,United Kingdom,iOS,9.4
+SUP0000354,USR011862,2026-06-29 10:20:31,2026-06-29 11:04:31,Verification,photo_quality_rejected,Chat,France,Android,6.0
+SUP0000355,USR011922,2026-06-23 22:39:14,2026-06-24 05:53:14,Transfer,risk_review_failed,Email,Ireland,iOS,9.5
+SUP0000356,USR011936,2026-05-23 21:01:38,2026-05-23 22:19:38,Transfer,insufficient_funds,Chat,United Kingdom,iOS,9.5
+SUP0000357,USR011941,2026-05-23 18:46:41,2026-05-23 22:23:41,Transfer,transfer_limit_exceeded,Chat,United Kingdom,Android,5.8
+SUP0000358,USR012012,2026-05-25 10:33:51,2026-05-25 11:04:51,Verification,technical_error,Chat,Germany,Android,5.9
+SUP0000359,USR012036,2026-06-29 15:56:16,2026-06-29 16:33:16,Verification,identity_mismatch,Email,Netherlands,Android,6.0
+SUP0000360,USR012037,2026-05-26 13:29:04,2026-05-26 17:43:04,Transfer,risk_review_failed,Email,United Kingdom,iOS,9.5
+SUP0000361,USR012058,2026-05-06 12:41:37,2026-05-06 13:39:37,Verification,identity_mismatch,Chat,Spain,Android,5.9
+SUP0000362,USR012139,2026-04-10 20:50:48,2026-04-10 22:07:48,Verification,document_expired,Email,United Kingdom,Web,
+SUP0000363,USR012202,2026-06-25 00:36:13,2026-06-25 02:36:13,Verification,document_upload_error,Chat,Ireland,Android,6.0
+SUP0000364,USR012218,2026-06-14 11:25:09,2026-06-14 12:09:09,Verification,document_not_supported,Chat,Germany,Android,5.9
+SUP0000365,USR012277,2026-05-12 13:00:03,2026-05-12 14:43:03,Verification,document_not_supported,Chat,Portugal,Android,5.8
+SUP0000366,USR012278,2026-06-23 04:09:13,2026-06-23 05:11:13,Verification,photo_quality_rejected,Chat,United Kingdom,iOS,9.5
+SUP0000367,USR012339,2026-06-27 15:21:45,2026-06-27 16:40:45,Verification,document_expired,Chat,Italy,iOS,9.5
+SUP0000368,USR012437,2026-06-07 00:02:30,2026-06-07 01:56:30,Transfer,insufficient_funds,Chat,Spain,Web,
+SUP0000369,USR012463,2026-06-29 10:00:26,2026-06-29 10:56:26,Verification,document_not_supported,Email,France,Android,6.0
+SUP0000370,USR012576,2026-04-29 14:26:54,2026-04-29 15:01:54,Verification,identity_mismatch,Email,Poland,Android,5.8
+SUP0000371,USR012577,2026-06-29 19:42:01,2026-06-29 21:52:01,Verification,technical_error,Email,Ireland,Android,6.0
+SUP0000372,USR012626,2026-06-20 12:09:00,2026-06-20 13:52:00,Verification,document_not_supported,Chat,France,Android,6.0
+SUP0000373,USR012655,2026-04-21 13:10:43,2026-04-21 17:23:43,Transfer,risk_review_failed,Email,Netherlands,Android,5.8
+SUP0000374,USR012657,2026-06-19 20:26:32,2026-06-19 21:12:32,Verification,camera_permission_error,Chat,Estonia,Android,6.0
+SUP0000375,USR012663,2026-06-23 17:04:37,2026-06-23 18:24:37,Verification,bank_authentication_failed,Email,Italy,Android,6.0
+SUP0000376,USR012673,2026-06-24 04:12:58,2026-06-24 06:48:58,Transfer,insufficient_funds,Chat,United Kingdom,Android,6.0
+SUP0000377,USR012678,2026-06-16 00:17:10,2026-06-16 02:19:10,Transfer,insufficient_funds,Chat,Spain,Android,5.9
+SUP0000378,USR012684,2026-05-23 16:23:59,2026-05-23 19:49:59,Transfer,insufficient_funds,Email,Italy,iOS,9.5
+SUP0000379,USR012688,2026-04-17 15:03:43,2026-04-17 15:49:43,Verification,photo_quality_rejected,Chat,Portugal,iOS,9.4
+SUP0000380,USR012777,2026-06-16 14:20:53,2026-06-16 15:32:53,Verification,technical_error,Email,United Kingdom,Android,6.0
+SUP0000381,USR012794,2026-06-15 08:35:00,2026-06-15 09:41:00,Verification,document_upload_error,Email,Germany,Android,6.0
+SUP0000382,USR012824,2026-06-13 09:16:54,2026-06-13 09:41:54,Verification,document_upload_error,Chat,Spain,Android,6.0
+SUP0000383,USR012829,2026-06-03 14:37:14,2026-06-03 15:11:14,Verification,identity_mismatch,Chat,France,iOS,9.5
+SUP0000384,USR012908,2026-06-28 02:32:21,2026-06-28 03:10:21,Verification,document_upload_error,Email,Portugal,Android,6.0
+SUP0000385,USR012918,2026-06-05 09:59:28,2026-06-05 12:14:28,Verification,document_expired,Chat,Portugal,Android,5.9
+SUP0000386,USR012943,2026-05-31 03:00:27,2026-05-31 03:34:27,Transfer,technical_error,Email,Germany,Android,5.9
+SUP0000387,USR012966,2026-06-17 18:42:19,2026-06-17 19:50:19,Verification,identity_mismatch,Chat,Portugal,Android,6.0
+SUP0000388,USR013116,2026-06-22 14:06:04,2026-06-22 16:11:04,Transfer,insufficient_funds,Email,Germany,iOS,9.4
+SUP0000389,USR013218,2026-05-18 16:49:10,2026-05-18 17:40:10,Verification,identity_mismatch,Email,Spain,Web,
+SUP0000390,USR013239,2026-06-25 11:54:24,2026-06-25 12:15:24,Verification,bank_authentication_failed,Chat,Italy,Android,6.0
+SUP0000391,USR013254,2026-06-14 11:42:23,2026-06-14 13:24:23,Verification,document_upload_error,Email,Netherlands,Android,6.0
+SUP0000392,USR013311,2026-06-28 13:28:48,2026-06-28 15:14:48,Verification,technical_error,Chat,Spain,Android,6.0
+SUP0000393,USR013337,2026-04-03 20:29:06,2026-04-03 21:24:06,Verification,identity_mismatch,Chat,Poland,Web,
+SUP0000394,USR013338,2026-06-26 14:43:14,2026-06-26 16:00:14,Verification,document_upload_error,Chat,Ireland,Android,6.0
+SUP0000395,USR013441,2026-06-10 13:27:24,2026-06-10 14:44:24,Verification,bank_authentication_failed,Email,France,Android,6.0
+SUP0000396,USR013446,2026-07-01 07:40:40,2026-07-01 13:37:40,Transfer,risk_review_failed,Chat,Spain,Android,5.9
+SUP0000397,USR013463,2026-06-17 10:55:35,2026-06-17 11:43:35,Transfer,payment_authorization_failed,Chat,Netherlands,Android,6.0
+SUP0000398,USR013481,2026-06-05 06:49:32,2026-06-05 07:26:32,Verification,document_not_supported,Chat,Italy,Android,6.0
+SUP0000399,USR013510,2026-06-26 11:25:32,2026-06-26 12:32:32,Verification,technical_error,Chat,United Kingdom,Web,
+SUP0000400,USR013518,2026-06-06 13:12:26,2026-06-06 15:40:26,Verification,document_upload_error,Email,Spain,Android,6.0
+SUP0000401,USR013700,2026-05-25 19:32:43,2026-05-25 20:13:43,Verification,photo_quality_rejected,Chat,France,Android,5.9
+SUP0000402,USR013732,2026-06-25 13:29:36,2026-06-25 15:47:36,Verification,document_expired,Chat,United Kingdom,iOS,9.5
+SUP0000403,USR013738,2026-06-16 20:16:00,2026-06-16 20:58:00,Verification,document_expired,Email,Romania,Android,6.0
+SUP0000404,USR013743,2026-05-07 17:04:31,2026-05-07 18:30:31,Verification,identity_mismatch,Chat,United Kingdom,Android,5.9
+SUP0000405,USR013745,2026-04-30 11:16:10,2026-04-30 12:26:10,Verification,document_expired,Chat,Italy,Android,5.8
+SUP0000406,USR013756,2026-06-15 14:25:20,2026-06-15 15:26:20,Verification,photo_quality_rejected,Email,Romania,iOS,9.5
+SUP0000407,USR013795,2026-06-08 08:05:29,2026-06-08 08:59:29,Verification,document_upload_error,Chat,Portugal,Android,6.0
+SUP0000408,USR013854,2026-06-30 13:21:35,2026-06-30 15:42:35,Verification,document_upload_error,Chat,Ireland,Android,6.0
+SUP0000409,USR013941,2026-04-20 14:07:59,2026-04-20 15:25:59,Verification,photo_quality_rejected,Email,Netherlands,Web,
+SUP0000410,USR013964,2026-06-01 04:44:19,2026-06-01 09:07:19,Transfer,risk_review_failed,Chat,Poland,Android,5.8
+SUP0000411,USR013999,2026-05-24 09:45:16,2026-05-24 11:50:16,Verification,identity_mismatch,Email,Netherlands,Android,5.9
+SUP0000412,USR014004,2026-05-22 16:39:24,2026-05-22 18:43:24,Verification,identity_mismatch,Chat,France,Android,5.9
+SUP0000413,USR014051,2026-05-07 13:29:18,2026-05-07 14:23:18,Verification,photo_quality_rejected,Chat,Netherlands,Web,
+SUP0000414,USR014099,2026-06-22 11:37:59,2026-06-22 12:15:59,Transfer,insufficient_funds,Chat,Germany,Web,
+SUP0000415,USR014145,2026-06-24 17:17:24,2026-06-24 18:14:24,Transfer,payment_authorization_failed,Chat,Italy,Android,5.9
+SUP0000416,USR014165,2026-06-24 06:32:49,2026-06-24 09:13:49,Verification,camera_permission_error,Chat,Romania,Android,6.0
+SUP0000417,USR014215,2026-06-12 12:49:51,2026-06-12 14:35:51,Verification,document_not_supported,Chat,Estonia,Web,
+SUP0000418,USR014218,2026-06-23 14:41:33,2026-06-23 15:57:33,Verification,photo_quality_rejected,Chat,Poland,Android,6.0
+SUP0000419,USR014219,2026-04-09 07:22:54,2026-04-09 09:54:54,Transfer,insufficient_funds,Chat,United Kingdom,iOS,9.4
+SUP0000420,USR014220,2026-06-02 06:23:47,2026-06-02 07:48:47,Verification,identity_mismatch,Chat,United Kingdom,iOS,9.4
+SUP0000421,USR014299,2026-06-02 18:40:21,2026-06-02 20:09:21,Transfer,risk_review_failed,Email,United Kingdom,iOS,9.5
+SUP0000422,USR014312,2026-06-01 13:04:07,2026-06-01 14:51:07,Transfer,insufficient_funds,Email,Estonia,Android,5.9
+SUP0000423,USR014345,2026-06-30 15:52:44,2026-06-30 18:55:44,Verification,technical_error,Chat,Ireland,iOS,9.5
+SUP0000424,USR014370,2026-04-22 18:48:24,2026-04-22 20:58:24,Transfer,insufficient_funds,Chat,France,Web,
+SUP0000425,USR014375,2026-06-17 17:21:35,2026-06-17 19:03:35,Verification,camera_permission_error,Chat,Germany,Android,6.0
+SUP0000426,USR014377,2026-06-16 22:04:06,2026-06-16 23:35:06,Verification,photo_quality_rejected,Email,United Kingdom,iOS,9.5
+SUP0000427,USR014474,2026-06-26 16:28:28,2026-06-26 16:54:28,Verification,document_not_supported,Chat,Germany,Web,
+SUP0000428,USR014487,2026-06-14 16:19:45,2026-06-14 17:07:45,Verification,technical_error,Email,United Kingdom,Web,
+SUP0000429,USR014531,2026-06-17 12:29:49,2026-06-17 13:58:49,Verification,document_upload_error,Chat,United Kingdom,Android,6.0
+SUP0000430,USR014589,2026-05-13 13:13:43,2026-05-13 14:41:43,Transfer,insufficient_funds,Chat,Ireland,Android,5.9
+SUP0000431,USR014612,2026-06-21 11:05:39,2026-06-21 12:32:39,Verification,photo_quality_rejected,Chat,Ireland,Android,6.0
+SUP0000432,USR014632,2026-06-28 13:18:52,2026-06-28 14:26:52,Verification,technical_error,Chat,Netherlands,iOS,9.4
+SUP0000433,USR014636,2026-06-18 19:08:01,2026-06-18 19:58:01,Verification,technical_error,Chat,United Kingdom,Android,6.0
+SUP0000434,USR014654,2026-05-09 21:53:08,2026-05-09 22:29:08,Verification,identity_mismatch,Email,Italy,iOS,9.3
+SUP0000435,USR014668,2026-04-23 14:15:18,2026-04-23 16:13:18,Verification,identity_mismatch,Chat,Poland,Web,
+SUP0000436,USR014696,2026-04-28 17:01:11,2026-04-28 17:47:11,Verification,document_not_supported,Chat,Netherlands,iOS,9.3
+SUP0000437,USR014709,2026-06-21 23:00:27,2026-06-22 00:04:27,Verification,photo_quality_rejected,Chat,Spain,Android,6.0
+SUP0000438,USR014723,2026-05-09 13:07:29,2026-05-09 17:09:29,Transfer,risk_review_failed,Chat,France,Android,5.9
+SUP0000439,USR014810,2026-06-30 17:13:34,2026-06-30 18:11:34,Verification,document_upload_error,Chat,France,Android,6.0
+SUP0000440,USR014868,2026-07-01 01:05:16,2026-07-01 04:35:16,Transfer,technical_error,Chat,Sweden,Android,6.0
+SUP0000441,USR014881,2026-05-27 07:36:05,2026-05-27 08:41:05,Verification,identity_mismatch,Email,Germany,Android,5.9
+SUP0000442,USR014918,2026-04-18 12:46:04,2026-04-18 14:21:04,Transfer,technical_error,Chat,France,iOS,9.4
+SUP0000443,USR014961,2026-05-23 05:05:57,2026-05-23 06:40:57,Transfer,bank_transfer_not_received,Email,Germany,Android,5.9
+SUP0000444,USR014974,2026-06-11 20:07:43,2026-06-11 21:07:43,Verification,camera_permission_error,Chat,France,Android,6.0
+SUP0000445,USR015010,2026-06-17 17:18:37,2026-06-17 19:39:37,Verification,camera_permission_error,Email,Estonia,Android,6.0
+SUP0000446,USR015023,2026-05-27 19:07:53,2026-05-27 20:37:53,Verification,technical_error,Email,Spain,Android,5.9
+SUP0000447,USR015081,2026-06-08 20:56:05,2026-06-08 22:20:05,Verification,camera_permission_error,Chat,Netherlands,Android,6.0
+SUP0000448,USR015139,2026-05-05 16:33:20,2026-05-05 17:19:20,Transfer,technical_error,Chat,Portugal,iOS,9.3
+SUP0000449,USR015165,2026-06-15 01:11:31,2026-06-15 02:46:31,Verification,document_upload_error,Chat,Italy,Android,6.0
+SUP0000450,USR015248,2026-05-25 04:54:56,2026-05-25 07:58:56,Transfer,payment_authorization_failed,Chat,United Kingdom,Android,5.8
+SUP0000451,USR015273,2026-05-08 20:09:29,2026-05-08 21:29:29,Verification,photo_quality_rejected,Email,France,iOS,9.3
+SUP0000452,USR015378,2026-06-16 15:39:19,2026-06-16 16:31:19,Verification,document_upload_error,Chat,Poland,Android,6.0
+SUP0000453,USR015379,2026-07-01 06:29:59,2026-07-01 08:29:59,Transfer,insufficient_funds,Chat,Italy,Web,
+SUP0000454,USR015415,2026-04-18 01:21:25,2026-04-18 02:29:25,Verification,document_expired,Chat,Romania,Android,5.8
+SUP0000455,USR015424,2026-06-17 17:21:46,2026-06-17 18:46:46,Verification,technical_error,Chat,Italy,Android,6.0
+SUP0000456,USR015449,2026-06-22 13:04:58,2026-06-22 13:24:58,Verification,document_not_supported,Email,United Kingdom,Android,6.0
+SUP0000457,USR015501,2026-06-13 23:47:47,2026-06-14 01:13:47,Verification,document_upload_error,Chat,France,Android,6.0
+SUP0000458,USR015524,2026-06-20 13:33:28,2026-06-20 15:27:28,Verification,document_not_supported,Chat,Ireland,Android,6.0
+SUP0000459,USR015533,2026-06-30 18:53:59,2026-06-30 19:33:59,Transfer,insufficient_funds,Chat,Ireland,Android,6.0
+SUP0000460,USR015544,2026-04-07 14:50:18,2026-04-07 16:22:18,Verification,photo_quality_rejected,Chat,Germany,Android,5.8
+SUP0000461,USR015564,2026-05-12 16:31:23,2026-05-12 18:14:23,Verification,technical_error,Chat,France,iOS,9.4
+SUP0000462,USR015607,2026-05-23 09:30:38,2026-05-23 20:24:38,Transfer,risk_review_failed,Chat,Romania,iOS,9.5
+SUP0000463,USR015685,2026-06-24 13:12:39,2026-06-24 14:33:39,Transfer,payment_authorization_failed,Chat,Poland,iOS,9.4
+SUP0000464,USR015764,2026-04-17 15:10:06,2026-04-17 18:28:06,Transfer,insufficient_funds,Chat,United Kingdom,Android,5.8
+SUP0000465,USR015838,2026-06-14 23:51:39,2026-06-15 01:55:39,Verification,document_not_supported,Chat,Netherlands,Android,6.0
+SUP0000466,USR015848,2026-05-24 22:14:42,2026-05-24 23:49:42,Verification,identity_mismatch,Email,France,iOS,9.5
+SUP0000467,USR015865,2026-06-28 14:10:20,2026-06-28 16:02:20,Verification,photo_quality_rejected,Email,Poland,Android,5.9
+SUP0000468,USR015920,2026-05-04 19:06:38,2026-05-05 01:49:38,Transfer,risk_review_failed,Chat,Portugal,iOS,9.3
+SUP0000469,USR015930,2026-06-10 18:26:21,2026-06-10 19:10:21,Verification,identity_mismatch,Chat,United Kingdom,iOS,9.5
+SUP0000470,USR015933,2026-06-15 13:02:11,2026-06-15 14:07:11,Verification,document_upload_error,Chat,Spain,Android,6.0
+SUP0000471,USR015941,2026-06-28 16:17:03,2026-06-28 17:46:03,Transfer,payment_authorization_failed,Email,Portugal,Android,6.0
+SUP0000472,USR016016,2026-05-24 07:20:13,2026-05-24 09:10:13,Verification,document_not_supported,Chat,France,Android,5.9
+SUP0000473,USR016047,2026-06-12 04:41:10,2026-06-12 06:47:10,Transfer,technical_error,Chat,Spain,Android,6.0
+SUP0000474,USR016052,2026-06-26 08:55:30,2026-06-26 09:57:30,Verification,bank_authentication_failed,Chat,Ireland,Android,6.0
+SUP0000475,USR016089,2026-06-09 15:59:39,2026-06-09 16:53:39,Verification,bank_authentication_failed,Email,Portugal,iOS,9.4
+SUP0000476,USR016092,2026-06-28 14:39:12,2026-06-28 17:11:12,Verification,document_upload_error,Chat,United Kingdom,Android,6.0
+SUP0000477,USR016107,2026-06-23 17:49:03,2026-06-23 18:22:03,Verification,photo_quality_rejected,Chat,United Kingdom,Android,6.0
+SUP0000478,USR016113,2026-06-22 15:02:51,2026-06-22 16:40:51,Verification,document_upload_error,Email,Italy,Android,6.0
+SUP0000479,USR016129,2026-04-10 20:51:08,2026-04-10 21:10:08,Verification,bank_authentication_failed,Chat,Germany,iOS,9.4
+SUP0000480,USR016180,2026-05-29 09:18:45,2026-05-29 10:53:45,Transfer,payment_authorization_failed,Email,Italy,Web,
+SUP0000481,USR016247,2026-04-23 20:01:35,2026-04-23 22:07:35,Verification,identity_mismatch,Chat,Romania,Android,5.9
+SUP0000482,USR016248,2026-06-05 23:37:09,2026-06-06 00:52:09,Verification,document_upload_error,Email,Italy,Android,6.0
+SUP0000483,USR016433,2026-06-19 16:28:40,2026-06-19 19:12:40,Verification,identity_mismatch,Chat,Romania,Android,6.0
+SUP0000484,USR016513,2026-06-29 17:47:26,2026-06-29 18:12:26,Transfer,payment_authorization_failed,Chat,Portugal,Android,6.0
+SUP0000485,USR016544,2026-06-28 09:32:33,2026-06-28 11:50:33,Transfer,payment_authorization_failed,Email,Poland,iOS,9.4
+SUP0000486,USR016627,2026-06-26 15:41:48,2026-06-26 17:52:48,Transfer,insufficient_funds,Chat,Ireland,Android,6.0
+SUP0000487,USR016631,2026-05-18 19:57:42,2026-05-18 22:11:42,Verification,technical_error,Chat,Spain,iOS,9.5
+SUP0000488,USR016656,2026-06-24 18:52:01,2026-06-24 21:01:01,Verification,camera_permission_error,Chat,Italy,Android,6.0
+SUP0000489,USR016659,2026-06-22 01:12:13,2026-06-22 03:06:13,Verification,bank_authentication_failed,Chat,United Kingdom,Android,6.0
+SUP0000490,USR016718,2026-06-15 01:14:30,2026-06-15 02:25:30,Verification,document_expired,Chat,Ireland,Android,6.0
+SUP0000491,USR016802,2026-06-24 14:09:31,2026-06-24 14:49:31,Verification,technical_error,Chat,France,Android,6.0
+SUP0000492,USR016855,2026-06-26 08:46:08,2026-06-26 10:47:08,Verification,camera_permission_error,Chat,Spain,Android,6.0
+SUP0000493,USR016884,2026-05-23 01:59:41,2026-05-23 05:01:41,Transfer,payment_authorization_failed,Email,Germany,iOS,9.5
+SUP0000494,USR016916,2026-06-05 13:27:03,2026-06-05 16:28:03,Transfer,insufficient_funds,Chat,Ireland,Web,
+SUP0000495,USR016954,2026-06-20 23:24:04,2026-06-21 00:31:04,Transfer,payment_authorization_failed,Chat,France,Android,6.0
+SUP0000496,USR016963,2026-06-07 18:46:18,2026-06-07 20:17:18,Transfer,technical_error,Email,Germany,iOS,9.4
+SUP0000497,USR016971,2026-05-13 09:02:27,2026-05-13 10:12:27,Transfer,insufficient_funds,Chat,United Kingdom,Android,5.8
+SUP0000498,USR016973,2026-06-17 19:16:37,2026-06-17 21:41:37,Verification,identity_mismatch,Email,Germany,Android,6.0
+SUP0000499,USR016992,2026-06-15 07:54:56,2026-06-15 09:25:56,Transfer,insufficient_funds,Email,France,Android,6.0
+SUP0000500,USR017007,2026-06-11 19:48:04,2026-06-11 21:14:04,Verification,technical_error,Chat,United Kingdom,Android,6.0
+SUP0000501,USR017015,2026-06-20 11:17:38,2026-06-20 11:40:38,Verification,technical_error,Chat,United Kingdom,Android,6.0
+SUP0000502,USR017020,2026-06-29 19:07:57,2026-06-29 21:34:57,Verification,document_upload_error,Chat,Germany,Android,6.0
+SUP0000503,USR017069,2026-05-04 02:26:54,2026-05-04 10:20:54,Transfer,risk_review_failed,Chat,Germany,Android,5.9
+SUP0000504,USR017144,2026-06-08 13:04:40,2026-06-08 13:40:40,Transfer,insufficient_funds,Chat,Estonia,Android,6.0
+SUP0000505,USR017205,2026-06-24 16:49:17,2026-06-24 19:32:17,Verification,camera_permission_error,Email,United Kingdom,Android,6.0
+SUP0000506,USR017225,2026-05-18 11:48:58,2026-05-18 13:48:58,Verification,document_not_supported,Chat,Ireland,Android,5.8
+SUP0000507,USR017272,2026-06-14 19:06:24,2026-06-14 20:23:24,Verification,bank_authentication_failed,Chat,Italy,Android,6.0
+SUP0000508,USR017298,2026-06-22 19:27:40,2026-06-22 19:56:40,Verification,document_not_supported,Chat,Netherlands,Android,6.0
+SUP0000509,USR017314,2026-06-08 13:00:20,2026-06-08 15:05:20,Verification,technical_error,Chat,France,Android,6.0
+SUP0000510,USR017429,2026-06-25 09:13:45,2026-06-25 10:14:45,Verification,camera_permission_error,Chat,France,Android,6.0
+SUP0000511,USR017435,2026-06-30 17:32:53,2026-06-30 18:24:53,Verification,photo_quality_rejected,Chat,Spain,Android,6.0
+SUP0000512,USR017507,2026-06-10 00:11:05,2026-06-10 05:47:05,Transfer,risk_review_failed,Chat,France,Web,
+SUP0000513,USR017548,2026-06-30 17:39:24,2026-06-30 18:58:24,Verification,photo_quality_rejected,Email,Germany,iOS,9.5
+SUP0000514,USR017569,2026-06-26 22:10:12,2026-06-26 23:11:12,Verification,photo_quality_rejected,Chat,Netherlands,Android,6.0
+SUP0000515,USR017616,2026-04-30 19:57:49,2026-04-30 21:58:49,Verification,identity_mismatch,Chat,Estonia,Android,5.8
+SUP0000516,USR017630,2026-04-13 22:32:19,2026-04-14 04:18:19,Transfer,risk_review_failed,Chat,Spain,Android,5.8
+SUP0000517,USR017667,2026-06-17 15:16:19,2026-06-17 17:21:19,Transfer,transfer_limit_exceeded,Chat,Ireland,iOS,9.5
+SUP0000518,USR017774,2026-06-30 14:23:47,2026-06-30 16:18:47,Verification,technical_error,Chat,Poland,iOS,9.5
+SUP0000519,USR017821,2026-04-26 20:54:38,2026-04-26 22:18:38,Transfer,payment_authorization_failed,Chat,France,Web,
+SUP0000520,USR017856,2026-06-18 06:15:57,2026-06-18 06:41:57,Verification,technical_error,Chat,Ireland,Android,6.0
+SUP0000521,USR017892,2026-06-10 14:17:37,2026-06-10 15:00:37,Verification,photo_quality_rejected,Email,Germany,Android,6.0
+SUP0000522,USR017936,2026-06-11 15:57:03,2026-06-11 16:58:03,Verification,identity_mismatch,Chat,Ireland,iOS,9.5
+SUP0000523,USR017956,2026-06-30 14:36:24,2026-06-30 15:12:24,Verification,bank_authentication_failed,Email,Sweden,Android,6.0
+SUP0000524,USR017958,2026-06-20 11:27:41,2026-06-20 12:11:41,Verification,technical_error,Chat,United Kingdom,Android,6.0
+SUP0000525,USR017972,2026-06-23 19:29:19,2026-06-23 21:07:19,Verification,document_upload_error,Chat,Romania,Android,6.0
+SUP0000526,USR017989,2026-06-19 14:44:25,2026-06-19 17:14:25,Verification,photo_quality_rejected,Chat,Spain,Android,6.0
+SUP0000527,USR017994,2026-06-25 18:04:04,2026-06-25 19:33:04,Verification,identity_mismatch,Chat,United Kingdom,iOS,9.4
+SUP0000528,USR017995,2026-05-08 16:59:22,2026-05-08 19:23:22,Transfer,risk_review_failed,Chat,Italy,iOS,9.4
+SUP0000529,USR018019,2026-04-16 15:18:48,2026-04-16 17:48:48,Verification,photo_quality_rejected,Chat,Romania,Android,5.8
+SUP0000530,USR018082,2026-05-12 15:44:21,2026-05-12 18:22:21,Transfer,risk_review_failed,Chat,France,Android,5.9
+SUP0000531,USR018102,2026-06-24 15:51:29,2026-06-24 16:28:29,Verification,technical_error,Email,France,Android,6.0
+SUP0000532,USR018127,2026-05-07 22:36:26,2026-05-08 05:01:26,Transfer,risk_review_failed,Chat,Netherlands,Web,
+SUP0000533,USR018176,2026-06-24 14:18:16,2026-06-24 15:12:16,Verification,document_upload_error,Email,France,Android,6.0
+SUP0000534,USR018182,2026-05-26 20:44:23,2026-05-26 21:27:23,Transfer,payment_authorization_failed,Chat,Italy,Android,5.9
+SUP0000535,USR018185,2026-05-27 17:24:09,2026-05-27 18:09:09,Verification,photo_quality_rejected,Email,Portugal,Android,5.9
+SUP0000536,USR018186,2026-06-27 07:29:10,2026-06-27 08:38:10,Verification,photo_quality_rejected,Chat,Netherlands,Android,6.0
+SUP0000537,USR018235,2026-05-21 14:04:07,2026-05-21 16:09:07,Verification,photo_quality_rejected,Chat,Germany,iOS,9.4
+SUP0000538,USR018251,2026-06-18 19:58:16,2026-06-18 21:53:16,Transfer,technical_error,Chat,Italy,iOS,9.5
+SUP0000539,USR018253,2026-05-02 10:33:55,2026-05-02 11:04:55,Verification,identity_mismatch,Chat,Germany,Android,5.9
+SUP0000540,USR018272,2026-06-20 00:46:16,2026-06-20 02:23:16,Verification,document_upload_error,Chat,United Kingdom,Android,6.0
+SUP0000541,USR018284,2026-06-06 16:12:27,2026-06-06 16:56:27,Verification,technical_error,Chat,Netherlands,Web,
+SUP0000542,USR018326,2026-04-09 14:42:21,2026-04-09 15:40:21,Transfer,technical_error,Chat,Sweden,Android,5.8
+SUP0000543,USR018336,2026-06-30 09:50:13,2026-06-30 12:19:13,Verification,technical_error,Chat,United Kingdom,Android,6.0
+SUP0000544,USR018343,2026-06-25 20:54:19,2026-06-25 22:10:19,Verification,photo_quality_rejected,Chat,Italy,Web,
+SUP0000545,USR018355,2026-06-24 18:20:37,2026-06-24 18:53:37,Verification,document_upload_error,Email,Romania,Android,6.0
+SUP0000546,USR018373,2026-06-11 17:09:28,2026-06-11 17:43:28,Verification,document_upload_error,Email,Romania,Android,6.0
+SUP0000547,USR018425,2026-06-18 14:05:50,2026-06-18 16:40:50,Verification,camera_permission_error,Email,France,Android,6.0
+SUP0000548,USR018467,2026-06-27 22:29:23,2026-06-27 23:27:23,Transfer,payment_authorization_failed,Chat,United Kingdom,iOS,9.5
+SUP0000549,USR018513,2026-06-08 18:02:54,2026-06-08 20:06:54,Verification,identity_mismatch,Chat,Estonia,Android,6.0
+SUP0000550,USR018545,2026-06-15 16:43:28,2026-06-15 20:54:28,Transfer,risk_review_failed,Chat,France,Android,6.0
+SUP0000551,USR018557,2026-06-23 18:50:56,2026-06-23 20:16:56,Verification,document_upload_error,Email,Spain,Android,6.0
+SUP0000552,USR018604,2026-05-22 01:55:18,2026-05-22 02:23:18,Verification,technical_error,Email,Poland,Android,5.8
+SUP0000553,USR018655,2026-06-06 18:23:51,2026-06-06 19:23:51,Verification,identity_mismatch,Email,Portugal,Android,5.9
+SUP0000554,USR018699,2026-06-06 23:56:00,2026-06-07 01:34:00,Verification,document_upload_error,Chat,Poland,Android,6.0
+SUP0000555,USR018781,2026-04-20 18:28:01,2026-04-20 20:12:01,Transfer,insufficient_funds,Email,France,iOS,9.3
+SUP0000556,USR018786,2026-06-22 10:01:37,2026-06-22 12:25:37,Verification,photo_quality_rejected,Email,Spain,iOS,9.5
+SUP0000557,USR018836,2026-05-08 10:29:59,2026-05-08 11:56:59,Verification,identity_mismatch,Email,France,Web,
+SUP0000558,USR018890,2026-06-26 15:52:01,2026-06-26 16:32:01,Verification,technical_error,Email,Italy,Android,6.0
+SUP0000559,USR018900,2026-06-20 03:39:22,2026-06-20 04:05:22,Verification,camera_permission_error,Chat,Italy,Android,6.0
+SUP0000560,USR018953,2026-06-27 09:25:27,2026-06-27 10:55:27,Verification,document_upload_error,Email,United Kingdom,Android,6.0
+SUP0000561,USR018970,2026-06-10 13:21:39,2026-06-10 15:22:39,Verification,document_not_supported,Chat,United Kingdom,Android,6.0
+SUP0000562,USR019001,2026-06-30 10:15:05,2026-06-30 11:45:05,Verification,camera_permission_error,Email,Spain,Android,6.0
+SUP0000563,USR019061,2026-06-22 17:02:18,2026-06-22 17:28:18,Verification,photo_quality_rejected,Chat,Italy,Android,5.9
+SUP0000564,USR019064,2026-06-18 22:33:11,2026-06-18 23:59:11,Verification,technical_error,Chat,Poland,Android,6.0
+SUP0000565,USR019079,2026-05-27 13:41:47,2026-05-27 14:44:47,Transfer,insufficient_funds,Chat,Italy,Android,5.9
+SUP0000566,USR019102,2026-06-20 11:14:58,2026-06-20 12:58:58,Verification,photo_quality_rejected,Chat,Romania,iOS,9.4
+SUP0000567,USR019124,2026-06-25 17:06:22,2026-06-25 19:51:22,Verification,document_upload_error,Chat,Poland,Android,6.0
+SUP0000568,USR019158,2026-06-12 16:32:31,2026-06-12 17:54:31,Transfer,bank_transfer_not_received,Chat,Italy,iOS,9.4
+SUP0000569,USR019202,2026-07-01 18:49:15,2026-07-01 19:47:15,Transfer,insufficient_funds,Chat,Germany,iOS,9.5
+SUP0000570,USR019204,2026-05-15 02:37:44,2026-05-15 03:03:44,Verification,bank_authentication_failed,Email,Germany,Android,5.8
+SUP0000571,USR019231,2026-06-05 16:22:51,2026-06-05 16:56:51,Verification,technical_error,Chat,Netherlands,iOS,9.4
+SUP0000572,USR019259,2026-05-31 00:01:39,2026-05-31 03:25:39,Transfer,technical_error,Chat,Italy,Android,5.9
+SUP0000573,USR019263,2026-06-18 10:35:57,2026-06-18 12:50:57,Verification,identity_mismatch,Chat,Italy,Android,6.0
+SUP0000574,USR019392,2026-06-11 09:03:08,2026-06-11 10:47:08,Verification,camera_permission_error,Chat,Ireland,Android,6.0
+SUP0000575,USR019411,2026-06-05 10:02:16,2026-06-05 12:01:16,Verification,identity_mismatch,Chat,Spain,Android,6.0
+SUP0000576,USR019482,2026-06-06 17:38:49,2026-06-06 19:27:49,Verification,document_upload_error,Chat,Sweden,Android,6.0
+SUP0000577,USR019511,2026-06-10 04:47:30,2026-06-10 05:24:30,Transfer,insufficient_funds,Chat,France,Android,6.0
+SUP0000578,USR019624,2026-06-07 15:01:12,2026-06-07 16:11:12,Verification,camera_permission_error,Chat,Germany,Android,6.0
+SUP0000579,USR019729,2026-06-25 13:02:56,2026-06-25 15:48:56,Verification,identity_mismatch,Email,France,Android,6.0
+SUP0000580,USR019754,2026-05-17 08:38:57,2026-05-17 09:45:57,Verification,technical_error,Email,Sweden,Android,5.9
+SUP0000581,USR019830,2026-05-31 02:40:09,2026-05-31 06:40:09,Transfer,risk_review_failed,Chat,United Kingdom,Android,5.9
+SUP0000582,USR019850,2026-04-27 22:13:08,2026-04-27 22:56:08,Verification,identity_mismatch,Chat,Spain,iOS,9.3
+SUP0000583,USR019857,2026-06-16 21:26:07,2026-06-16 22:28:07,Verification,camera_permission_error,Chat,Netherlands,Android,6.0
+SUP0000584,USR019865,2026-06-19 15:20:10,2026-06-19 15:58:10,Verification,document_not_supported,Chat,Ireland,Android,6.0
+SUP0000585,USR019891,2026-06-15 21:15:35,2026-06-15 23:24:35,Verification,camera_permission_error,Email,Italy,Android,6.0
+SUP0000586,USR019908,2026-06-16 18:26:10,2026-06-16 19:13:10,Verification,camera_permission_error,Email,Spain,Android,6.0
+SUP0000587,USR019928,2026-05-10 17:36:35,2026-05-10 18:22:35,Transfer,insufficient_funds,Chat,Romania,iOS,9.3
+SUP0000588,USR019947,2026-06-05 10:54:39,2026-06-05 11:10:39,Verification,document_not_supported,Email,United Kingdom,Android,6.0
+SUP0000589,USR019969,2026-06-19 23:30:50,2026-06-20 00:49:50,Verification,technical_error,Chat,Portugal,Android,6.0
+SUP0000590,USR020013,2026-06-26 15:27:47,2026-06-26 16:07:47,Verification,bank_authentication_failed,Chat,France,Android,6.0
+SUP0000591,USR020098,2026-06-20 23:44:37,2026-06-21 03:33:37,Transfer,transfer_limit_exceeded,Chat,United Kingdom,iOS,9.5
+SUP0000592,USR020251,2026-04-22 02:50:44,2026-04-22 04:15:44,Transfer,payment_authorization_failed,Email,United Kingdom,Android,5.9
+SUP0000593,USR020272,2026-06-17 11:13:18,2026-06-17 12:07:18,Verification,bank_authentication_failed,Chat,Poland,Android,6.0
+SUP0000594,USR020288,2026-05-22 19:02:03,2026-05-22 21:02:03,Verification,document_expired,Chat,France,Android,5.9
+SUP0000595,USR020296,2026-06-29 05:50:53,2026-06-29 06:44:53,Verification,photo_quality_rejected,Email,Portugal,Android,6.0
+SUP0000596,USR020314,2026-06-04 16:39:33,2026-06-04 17:39:33,Transfer,payment_authorization_failed,Chat,Italy,Android,5.8
+SUP0000597,USR020349,2026-06-08 18:55:58,2026-06-08 20:41:58,Transfer,payment_authorization_failed,Chat,United Kingdom,Web,
+SUP0000598,USR020430,2026-06-19 03:32:34,2026-06-19 04:33:34,Verification,identity_mismatch,Chat,United Kingdom,Web,
+SUP0000599,USR020491,2026-06-20 14:10:25,2026-06-20 15:38:25,Transfer,technical_error,Chat,United Kingdom,Android,5.9
+SUP0000600,USR020567,2026-06-19 11:43:02,2026-06-19 13:53:02,Verification,photo_quality_rejected,Chat,United Kingdom,Android,6.0
+SUP0000601,USR020571,2026-06-03 09:15:39,2026-06-03 10:55:39,Verification,photo_quality_rejected,Chat,Estonia,Android,5.9
+SUP0000602,USR020619,2026-06-20 15:04:00,2026-06-20 17:37:00,Verification,camera_permission_error,Chat,Poland,Android,6.0
+SUP0000603,USR020631,2026-06-11 10:01:59,2026-06-11 10:21:59,Transfer,insufficient_funds,Chat,Sweden,Web,
+SUP0000604,USR020646,2026-06-14 08:29:32,2026-06-14 10:40:32,Transfer,bank_transfer_not_received,Email,Netherlands,Web,
+SUP0000605,USR020709,2026-04-06 23:09:33,2026-04-07 05:12:33,Transfer,risk_review_failed,Chat,Romania,Android,5.9
+SUP0000606,USR020865,2026-06-16 15:41:32,2026-06-16 17:03:32,Verification,technical_error,Chat,Spain,Android,6.0
+SUP0000607,USR020875,2026-06-19 10:26:10,2026-06-19 11:45:10,Transfer,insufficient_funds,Chat,Ireland,Android,5.9
+SUP0000608,USR020948,2026-06-17 21:44:30,2026-06-18 04:20:30,Transfer,risk_review_failed,Chat,France,Web,
+SUP0000609,USR020950,2026-06-28 13:39:27,2026-06-28 14:27:27,Verification,bank_authentication_failed,Chat,Spain,Android,6.0
+SUP0000610,USR020972,2026-06-19 14:04:01,2026-06-19 17:34:01,Transfer,risk_review_failed,Chat,Spain,Android,6.0
+SUP0000611,USR020987,2026-05-19 09:36:45,2026-05-19 12:06:45,Verification,photo_quality_rejected,Email,Portugal,Android,5.9
+SUP0000612,USR021002,2026-06-20 18:28:58,2026-06-20 20:01:58,Verification,bank_authentication_failed,Chat,United Kingdom,Android,6.0
+SUP0000613,USR021016,2026-06-06 08:25:09,2026-06-06 09:47:09,Verification,bank_authentication_failed,Chat,France,Android,5.9
+SUP0000614,USR021036,2026-06-29 17:53:20,2026-06-29 19:19:20,Verification,identity_mismatch,Email,Sweden,iOS,9.5
+SUP0000615,USR021165,2026-06-17 10:18:40,2026-06-17 11:57:40,Verification,technical_error,Chat,Germany,Android,6.0
+SUP0000616,USR021230,2026-06-28 15:28:40,2026-06-28 16:16:40,Verification,photo_quality_rejected,Email,Netherlands,Android,6.0
+SUP0000617,USR021300,2026-06-28 19:15:11,2026-06-28 20:20:11,Verification,document_upload_error,Chat,Estonia,Android,6.0
+SUP0000618,USR021325,2026-06-27 14:14:21,2026-06-27 15:15:21,Verification,photo_quality_rejected,Email,Poland,Android,6.0
+SUP0000619,USR021329,2026-06-17 20:31:52,2026-06-17 21:32:52,Verification,camera_permission_error,Chat,Spain,Android,6.0
+SUP0000620,USR021396,2026-05-19 16:19:41,2026-05-19 18:55:41,Transfer,payment_authorization_failed,Chat,Romania,Web,
+SUP0000621,USR021429,2026-06-05 11:12:42,2026-06-05 12:05:42,Verification,photo_quality_rejected,Chat,United Kingdom,Android,6.0
+SUP0000622,USR021457,2026-04-29 18:15:57,2026-04-29 19:04:57,Transfer,payment_authorization_failed,Chat,Estonia,iOS,9.4
+SUP0000623,USR021467,2026-06-20 12:25:46,2026-06-20 13:06:46,Verification,bank_authentication_failed,Chat,Germany,Android,6.0
+SUP0000624,USR021511,2026-06-26 16:14:54,2026-06-26 20:16:54,Transfer,risk_review_failed,Chat,Germany,iOS,9.5
+SUP0000625,USR021577,2026-05-15 04:31:45,2026-05-15 05:39:45,Transfer,payment_authorization_failed,Email,Germany,Web,
+SUP0000626,USR021597,2026-06-25 09:16:52,2026-06-25 10:04:52,Verification,bank_authentication_failed,Email,Portugal,iOS,9.5
+SUP0000627,USR021614,2026-06-06 18:57:06,2026-06-06 20:51:06,Verification,photo_quality_rejected,Email,United Kingdom,Android,6.0
+SUP0000628,USR021641,2026-06-23 11:00:52,2026-06-23 12:26:52,Verification,technical_error,Chat,Germany,Android,6.0
+SUP0000629,USR021671,2026-05-28 13:44:39,2026-05-28 16:51:39,Transfer,risk_review_failed,Email,Romania,iOS,9.5
+SUP0000630,USR021678,2026-06-17 13:55:46,2026-06-17 14:15:46,Verification,document_not_supported,Email,Netherlands,Android,6.0
+SUP0000631,USR021859,2026-06-27 07:27:03,2026-06-27 09:42:03,Verification,document_upload_error,Chat,Romania,Android,6.0
+SUP0000632,USR021892,2026-06-17 13:26:00,2026-06-17 14:26:00,Verification,technical_error,Email,United Kingdom,Android,6.0
+SUP0000633,USR021899,2026-04-03 16:40:17,2026-04-03 17:24:17,Verification,identity_mismatch,Chat,Netherlands,Web,
+SUP0000634,USR021905,2026-06-15 17:06:33,2026-06-15 18:02:33,Verification,document_upload_error,Chat,Ireland,Android,6.0
+SUP0000635,USR021932,2026-06-28 07:24:23,2026-06-28 08:13:23,Verification,identity_mismatch,Email,France,Android,6.0
+SUP0000636,USR021950,2026-06-10 17:24:13,2026-06-11 04:54:13,Transfer,risk_review_failed,Email,France,iOS,9.4
+SUP0000637,USR021972,2026-06-13 15:37:07,2026-06-13 17:45:07,Verification,document_expired,Chat,Romania,iOS,9.4
+SUP0000638,USR021980,2026-06-13 21:12:54,2026-06-13 23:30:54,Verification,document_upload_error,Chat,Poland,Android,6.0
+SUP0000639,USR021987,2026-05-29 12:35:51,2026-05-29 13:19:51,Verification,photo_quality_rejected,Email,Ireland,iOS,9.4
+SUP0000640,USR021989,2026-06-06 09:48:52,2026-06-06 12:23:52,Verification,document_upload_error,Chat,Italy,Android,6.0
+SUP0000641,USR022008,2026-06-25 10:22:55,2026-06-25 11:49:55,Verification,document_upload_error,Chat,United Kingdom,Android,6.0
+SUP0000642,USR022082,2026-04-18 17:47:56,2026-04-18 19:54:56,Verification,identity_mismatch,Chat,Portugal,Web,
+SUP0000643,USR022111,2026-06-27 13:55:15,2026-06-27 14:54:15,Verification,photo_quality_rejected,Chat,Ireland,Android,6.0
+SUP0000644,USR022200,2026-06-07 19:26:41,2026-06-07 20:37:41,Verification,identity_mismatch,Chat,Germany,Android,5.9
+SUP0000645,USR022210,2026-07-02 15:58:06,2026-07-02 16:28:06,Transfer,payment_authorization_failed,Chat,Spain,Android,5.9
+SUP0000646,USR022229,2026-04-02 00:29:15,2026-04-02 02:20:15,Verification,photo_quality_rejected,Email,Romania,Web,
+SUP0000647,USR022265,2026-06-20 09:12:32,2026-06-20 09:42:32,Verification,identity_mismatch,Email,Portugal,iOS,9.4
+SUP0000648,USR022326,2026-06-22 22:53:44,2026-06-22 23:32:44,Verification,document_not_supported,Chat,Ireland,Android,6.0
+SUP0000649,USR022328,2026-06-04 02:08:54,2026-06-04 03:13:54,Verification,identity_mismatch,Chat,United Kingdom,Android,5.9
+SUP0000650,USR022376,2026-04-05 13:37:28,2026-04-05 14:05:28,Verification,bank_authentication_failed,Email,Poland,Android,5.9
+SUP0000651,USR022397,2026-06-20 16:03:20,2026-06-20 16:31:20,Verification,document_expired,Email,Italy,iOS,9.4
+SUP0000652,USR022439,2026-06-15 03:54:06,2026-06-15 04:16:06,Transfer,payment_authorization_failed,Chat,United Kingdom,iOS,9.5
+SUP0000653,USR022492,2026-06-18 07:35:03,2026-06-18 08:59:03,Verification,camera_permission_error,Chat,United Kingdom,Android,6.0
+SUP0000654,USR022499,2026-06-08 15:07:11,2026-06-08 16:56:11,Verification,document_upload_error,Chat,Poland,Android,6.0
+SUP0000655,USR022523,2026-06-02 21:21:20,2026-06-02 21:42:20,Verification,identity_mismatch,Email,Germany,Web,
+SUP0000656,USR022538,2026-06-22 16:25:02,2026-06-22 19:06:02,Transfer,payment_authorization_failed,Email,Poland,Android,6.0
+SUP0000657,USR022555,2026-06-26 01:25:22,2026-06-26 03:01:22,Verification,photo_quality_rejected,Chat,Poland,Android,6.0
+SUP0000658,USR022593,2026-06-16 15:12:23,2026-06-16 16:11:23,Verification,technical_error,Chat,United Kingdom,Android,6.0
+SUP0000659,USR022610,2026-06-04 18:29:28,2026-06-04 19:43:28,Transfer,technical_error,Email,Germany,Web,
+SUP0000660,USR022654,2026-06-27 21:28:48,2026-06-27 22:18:48,Transfer,technical_error,Chat,Poland,iOS,9.4
+SUP0000661,USR022687,2026-05-20 18:11:49,2026-05-20 19:51:49,Verification,photo_quality_rejected,Chat,Germany,Android,5.9
+SUP0000662,USR022701,2026-06-19 19:57:09,2026-06-19 20:24:09,Verification,identity_mismatch,Chat,Portugal,Android,6.0
+SUP0000663,USR022714,2026-06-16 20:19:45,2026-06-16 21:03:45,Verification,document_upload_error,Chat,United Kingdom,Android,6.0
+SUP0000664,USR022744,2026-05-26 14:00:40,2026-05-26 14:47:40,Verification,photo_quality_rejected,Chat,Germany,Web,
+SUP0000665,USR022759,2026-04-29 11:26:02,2026-04-29 12:31:02,Transfer,payment_authorization_failed,Chat,Netherlands,Android,5.8
+SUP0000666,USR022760,2026-06-25 23:43:41,2026-06-26 01:40:41,Verification,technical_error,Chat,United Kingdom,Android,6.0
+SUP0000667,USR022824,2026-04-04 16:45:58,2026-04-04 19:59:58,Transfer,risk_review_failed,Chat,Ireland,iOS,9.3
+SUP0000668,USR022842,2026-06-26 20:31:09,2026-06-26 21:54:09,Verification,photo_quality_rejected,Chat,Portugal,iOS,9.5
+SUP0000669,USR022867,2026-06-22 10:09:10,2026-06-22 10:54:10,Verification,document_upload_error,Chat,France,Android,6.0
+SUP0000670,USR022887,2026-05-23 03:05:14,2026-05-23 06:48:14,Transfer,risk_review_failed,Chat,Italy,Android,5.9
+SUP0000671,USR022893,2026-06-09 19:58:14,2026-06-09 20:48:14,Verification,photo_quality_rejected,Chat,United Kingdom,Android,6.0
+SUP0000672,USR022978,2026-04-24 20:38:09,2026-04-24 22:28:09,Transfer,technical_error,Chat,France,Web,
+SUP0000673,USR023008,2026-05-16 07:37:46,2026-05-16 08:46:46,Verification,identity_mismatch,Chat,Portugal,Android,5.9
+SUP0000674,USR023008,2026-05-18 09:28:11,2026-05-18 12:34:11,Transfer,technical_error,Chat,Portugal,Android,5.9
+SUP0000675,USR023019,2026-04-11 19:49:36,2026-04-11 23:03:36,Transfer,payment_authorization_failed,Chat,United Kingdom,Android,5.8
+SUP0000676,USR023214,2026-05-20 11:13:36,2026-05-20 13:03:36,Verification,document_expired,Email,Portugal,Android,5.9
+SUP0000677,USR023279,2026-04-04 09:25:35,2026-04-04 10:03:35,Verification,photo_quality_rejected,Email,Portugal,Android,5.8
+SUP0000678,USR023292,2026-04-17 14:56:17,2026-04-17 16:42:17,Verification,bank_authentication_failed,Email,Portugal,Web,
+SUP0000679,USR023303,2026-05-14 21:20:29,2026-05-14 22:16:29,Transfer,bank_transfer_not_received,Chat,France,Android,5.8
+SUP0000680,USR023330,2026-06-27 18:50:31,2026-06-27 20:15:31,Verification,document_upload_error,Chat,France,Android,6.0
+SUP0000681,USR023433,2026-06-22 14:29:19,2026-06-22 15:07:19,Verification,photo_quality_rejected,Email,Spain,Android,6.0
+SUP0000682,USR023453,2026-06-17 15:49:34,2026-06-17 16:53:34,Verification,document_upload_error,Chat,United Kingdom,Android,6.0
+SUP0000683,USR023558,2026-06-28 00:31:50,2026-06-28 01:07:50,Verification,identity_mismatch,Chat,Estonia,Android,6.0
+SUP0000684,USR023647,2026-04-24 15:20:43,2026-04-24 17:18:43,Verification,technical_error,Chat,United Kingdom,Android,5.8
+SUP0000685,USR023657,2026-06-23 18:36:14,2026-06-23 19:05:14,Verification,photo_quality_rejected,Chat,Germany,iOS,9.4
+SUP0000686,USR023673,2026-05-07 07:29:41,2026-05-07 09:13:41,Transfer,payment_authorization_failed,Email,United Kingdom,Web,
+SUP0000687,USR023687,2026-06-12 16:52:36,2026-06-12 18:19:36,Verification,document_not_supported,Chat,Netherlands,Android,6.0
+SUP0000688,USR023741,2026-06-02 04:10:06,2026-06-02 10:12:06,Transfer,transfer_limit_exceeded,Chat,United Kingdom,Android,5.9
+SUP0000689,USR023756,2026-06-30 11:05:50,2026-06-30 12:55:50,Verification,camera_permission_error,Chat,Portugal,Android,6.0
+SUP0000690,USR023855,2026-06-07 10:46:05,2026-06-07 11:15:05,Verification,technical_error,Chat,Poland,Android,6.0
+SUP0000691,USR023861,2026-06-08 17:56:03,2026-06-08 18:36:03,Verification,technical_error,Email,United Kingdom,Android,6.0
+SUP0000692,USR023890,2026-04-20 10:46:35,2026-04-20 11:35:35,Verification,bank_authentication_failed,Chat,Sweden,iOS,9.3
+SUP0000693,USR023949,2026-06-25 21:59:31,2026-06-25 23:12:31,Transfer,insufficient_funds,Chat,Germany,iOS,9.4
+SUP0000694,USR023999,2026-05-22 11:21:15,2026-05-22 12:44:15,Verification,technical_error,Chat,United Kingdom,Android,5.9
+SUP0000695,USR024000,2026-05-01 09:34:30,2026-05-01 12:16:30,Verification,technical_error,Chat,United Kingdom,iOS,9.3
+SUP0000696,USR024017,2026-06-17 17:14:21,2026-06-17 17:43:21,Verification,technical_error,Chat,Ireland,Android,6.0
+SUP0000697,USR024031,2026-06-17 11:37:36,2026-06-17 13:47:36,Verification,document_not_supported,Chat,Portugal,Android,6.0
+SUP0000698,USR024047,2026-06-18 12:15:44,2026-06-18 14:39:44,Verification,identity_mismatch,Chat,France,Android,6.0
+SUP0000699,USR024070,2026-06-26 14:55:35,2026-06-26 16:48:35,Verification,bank_authentication_failed,Chat,Germany,Android,6.0
+SUP0000700,USR024077,2026-06-01 10:43:43,2026-06-01 11:40:43,Verification,technical_error,Chat,Netherlands,iOS,9.5
+SUP0000701,USR024099,2026-05-14 10:55:13,2026-05-14 11:39:13,Verification,technical_error,Chat,Netherlands,iOS,9.3
+SUP0000702,USR024125,2026-06-24 17:30:14,2026-06-24 18:32:14,Verification,photo_quality_rejected,Chat,Estonia,Android,6.0
+SUP0000703,USR024198,2026-06-17 10:31:56,2026-06-17 11:27:56,Verification,document_upload_error,Chat,Portugal,Android,6.0
+SUP0000704,USR024264,2026-06-10 03:08:05,2026-06-10 04:46:05,Transfer,payment_authorization_failed,Email,Ireland,iOS,9.5
+SUP0000705,USR024297,2026-06-30 18:43:09,2026-06-30 20:39:09,Verification,technical_error,Email,United Kingdom,Android,6.0
+SUP0000706,USR024317,2026-06-21 12:34:07,2026-06-21 13:19:07,Verification,document_not_supported,Email,Romania,Android,6.0
+SUP0000707,USR024343,2026-06-13 02:29:08,2026-06-13 03:22:08,Transfer,technical_error,Email,Germany,Web,
+SUP0000708,USR024350,2026-06-10 12:40:11,2026-06-10 14:47:11,Verification,identity_mismatch,Chat,Spain,Android,5.9
+SUP0000709,USR024352,2026-06-30 17:47:43,2026-06-30 19:52:43,Verification,technical_error,Email,Ireland,Android,5.9
+SUP0000710,USR024357,2026-06-05 07:18:56,2026-06-05 10:11:56,Transfer,risk_review_failed,Chat,United Kingdom,Web,
+SUP0000711,USR024438,2026-05-13 04:26:31,2026-05-13 05:25:31,Verification,identity_mismatch,Chat,Germany,Android,5.9
+SUP0000712,USR024464,2026-05-15 17:54:35,2026-05-15 18:57:35,Verification,document_expired,Chat,United Kingdom,Android,5.9
+SUP0000713,USR024465,2026-06-17 17:56:40,2026-06-17 19:05:40,Verification,document_not_supported,Email,Ireland,Android,6.0
+SUP0000714,USR024494,2026-06-18 20:12:44,2026-06-18 21:09:44,Verification,identity_mismatch,Chat,Germany,Android,6.0
+SUP0000715,USR024610,2026-05-04 01:08:05,2026-05-04 01:42:05,Transfer,payment_authorization_failed,Email,Romania,iOS,9.3
+SUP0000716,USR024675,2026-06-22 16:21:15,2026-06-22 19:14:15,Verification,camera_permission_error,Chat,Italy,Android,6.0
+SUP0000717,USR024715,2026-05-23 01:39:25,2026-05-23 02:46:25,Transfer,insufficient_funds,Chat,Germany,iOS,9.5
+SUP0000718,USR024756,2026-04-11 23:05:44,2026-04-12 00:01:44,Verification,identity_mismatch,Chat,France,Web,
+SUP0000719,USR024762,2026-06-01 18:08:20,2026-06-01 21:24:20,Transfer,technical_error,Email,Portugal,Android,5.8
+SUP0000720,USR024811,2026-06-25 10:18:52,2026-06-25 11:23:52,Verification,document_expired,Chat,Netherlands,Android,6.0
+SUP0000721,USR024822,2026-06-09 17:02:47,2026-06-09 18:43:47,Transfer,technical_error,Email,Portugal,iOS,9.5
+SUP0000722,USR024885,2026-05-13 12:01:12,2026-05-13 13:28:12,Transfer,insufficient_funds,Chat,Portugal,iOS,9.3
+SUP0000723,USR024892,2026-04-18 01:05:43,2026-04-18 02:00:43,Transfer,technical_error,Email,Germany,Android,5.9
+SUP0000724,USR024924,2026-06-18 09:51:17,2026-06-18 11:31:17,Verification,document_not_supported,Chat,Netherlands,Android,6.0
+SUP0000725,USR024946,2026-04-15 10:28:30,2026-04-15 13:33:30,Transfer,bank_transfer_not_received,Chat,Poland,iOS,9.3
+SUP0000726,USR024988,2026-06-15 09:57:52,2026-06-15 12:15:52,Transfer,payment_authorization_failed,Chat,Italy,Android,6.0
+SUP0000727,USR025008,2026-06-19 15:53:39,2026-06-19 17:58:39,Verification,identity_mismatch,Chat,Spain,Android,6.0
+SUP0000728,USR025046,2026-06-25 13:01:15,2026-06-25 14:59:15,Verification,camera_permission_error,Chat,Spain,Android,6.0
+SUP0000729,USR025085,2026-06-09 17:40:49,2026-06-09 19:20:49,Verification,bank_authentication_failed,Chat,Poland,iOS,9.4
+SUP0000730,USR025131,2026-05-03 19:48:18,2026-05-03 21:48:18,Transfer,risk_review_failed,Chat,France,Android,5.9
+SUP0000731,USR025146,2026-06-27 12:09:47,2026-06-27 13:08:47,Verification,technical_error,Email,Spain,Android,6.0
+SUP0000732,USR025184,2026-06-29 06:54:16,2026-06-29 09:13:16,Verification,technical_error,Chat,Italy,Android,6.0
+SUP0000733,USR025208,2026-06-24 05:45:38,2026-06-24 12:00:38,Transfer,risk_review_failed,Chat,Sweden,Android,6.0
+SUP0000734,USR025238,2026-06-10 13:33:15,2026-06-10 22:36:15,Transfer,risk_review_failed,Email,United Kingdom,Web,
+SUP0000735,USR025241,2026-05-30 16:13:10,2026-05-30 17:01:10,Verification,document_expired,Email,Ireland,iOS,9.5
+SUP0000736,USR025320,2026-05-14 11:08:28,2026-05-14 11:52:28,Verification,photo_quality_rejected,Chat,Estonia,Web,
+SUP0000737,USR025324,2026-05-18 13:35:51,2026-05-18 15:20:51,Verification,document_not_supported,Chat,Netherlands,Android,5.9
+SUP0000738,USR025380,2026-06-03 16:07:09,2026-06-03 17:18:09,Verification,identity_mismatch,Email,Ireland,Android,5.9
+SUP0000739,USR025382,2026-06-20 16:13:21,2026-06-20 18:00:21,Verification,document_upload_error,Chat,France,Android,6.0
+SUP0000740,USR025395,2026-06-28 02:14:06,2026-06-28 03:12:06,Transfer,payment_authorization_failed,Chat,Romania,iOS,9.5
+SUP0000741,USR025403,2026-06-09 08:27:31,2026-06-09 10:10:31,Verification,technical_error,Chat,United Kingdom,Android,6.0
+SUP0000742,USR025406,2026-06-05 17:58:22,2026-06-05 19:47:22,Transfer,payment_authorization_failed,Chat,Romania,iOS,9.5
+SUP0000743,USR025450,2026-06-30 03:04:38,2026-06-30 03:59:38,Verification,document_expired,Chat,Poland,iOS,9.4
+SUP0000744,USR025508,2026-06-16 15:17:08,2026-06-16 17:58:08,Transfer,insufficient_funds,Chat,France,iOS,9.5
+SUP0000745,USR025552,2026-06-14 16:36:05,2026-06-14 19:37:05,Transfer,bank_transfer_not_received,Chat,Germany,iOS,9.4
+SUP0000746,USR025553,2026-05-17 15:18:21,2026-05-17 18:09:21,Transfer,risk_review_failed,Chat,France,iOS,9.4
+SUP0000747,USR025564,2026-06-25 17:15:54,2026-06-25 20:01:54,Verification,identity_mismatch,Chat,France,iOS,9.5
+SUP0000748,USR025576,2026-06-20 16:16:19,2026-06-20 16:50:19,Verification,photo_quality_rejected,Chat,Ireland,Android,6.0
+SUP0000749,USR025586,2026-05-14 12:37:13,2026-05-14 13:51:13,Transfer,bank_transfer_not_received,Chat,Germany,iOS,9.4
+SUP0000750,USR025627,2026-04-06 23:46:48,2026-04-07 07:27:48,Transfer,risk_review_failed,Email,Spain,iOS,9.4
+SUP0000751,USR025692,2026-06-28 09:28:00,2026-06-28 10:19:00,Verification,photo_quality_rejected,Chat,Romania,Android,6.0
+SUP0000752,USR025721,2026-06-10 00:16:58,2026-06-10 00:46:58,Verification,document_upload_error,Email,Germany,Android,6.0
+SUP0000753,USR025729,2026-06-02 21:08:03,2026-06-02 22:39:03,Verification,identity_mismatch,Email,Germany,iOS,9.4
+SUP0000754,USR025745,2026-06-25 07:48:38,2026-06-25 08:12:38,Verification,camera_permission_error,Email,Germany,Android,6.0
+SUP0000755,USR025751,2026-06-06 10:55:47,2026-06-06 13:12:47,Verification,photo_quality_rejected,Email,France,Android,6.0
+SUP0000756,USR025778,2026-04-10 11:30:52,2026-04-10 18:10:52,Transfer,risk_review_failed,Chat,Spain,Android,5.9
+SUP0000757,USR025781,2026-06-05 17:48:28,2026-06-05 18:52:28,Verification,bank_authentication_failed,Chat,Netherlands,Android,6.0
+SUP0000758,USR025869,2026-04-20 22:19:50,2026-04-21 04:43:50,Transfer,risk_review_failed,Email,United Kingdom,iOS,9.3
+SUP0000759,USR025892,2026-06-26 16:54:57,2026-06-26 21:20:57,Transfer,risk_review_failed,Email,Ireland,Web,
+SUP0000760,USR025909,2026-05-14 03:10:41,2026-05-14 04:41:41,Transfer,bank_transfer_not_received,Email,Netherlands,iOS,9.3
+SUP0000761,USR026026,2026-06-11 13:57:26,2026-06-11 16:20:26,Verification,document_upload_error,Email,Ireland,Android,6.0
+SUP0000762,USR026076,2026-04-14 14:13:41,2026-04-14 16:22:41,Verification,technical_error,Chat,Portugal,Android,5.9
+SUP0000763,USR026124,2026-06-26 20:01:33,2026-06-26 22:20:33,Verification,document_upload_error,Email,Germany,Android,6.0
+SUP0000764,USR026212,2026-05-28 08:21:55,2026-05-28 10:37:55,Transfer,risk_review_failed,Chat,Poland,iOS,9.5
+SUP0000765,USR026220,2026-06-13 09:38:30,2026-06-13 15:07:30,Transfer,transfer_limit_exceeded,Chat,Portugal,Android,6.0
+SUP0000766,USR026249,2026-05-27 13:09:36,2026-05-27 15:40:36,Verification,identity_mismatch,Chat,Portugal,Web,
+SUP0000767,USR026254,2026-04-30 07:09:18,2026-04-30 09:11:18,Verification,document_not_supported,Email,Ireland,Android,5.8
+SUP0000768,USR026273,2026-06-21 20:35:36,2026-06-21 22:33:36,Verification,camera_permission_error,Chat,Portugal,Android,6.0
+SUP0000769,USR026290,2026-05-23 19:49:53,2026-05-23 20:27:53,Verification,bank_authentication_failed,Chat,Sweden,Web,
+SUP0000770,USR026303,2026-06-30 21:02:19,2026-06-30 22:22:19,Verification,technical_error,Chat,Spain,Android,6.0
+SUP0000771,USR026356,2026-04-22 09:07:29,2026-04-22 09:48:29,Verification,identity_mismatch,Chat,United Kingdom,Web,
+SUP0000772,USR026392,2026-06-20 11:32:51,2026-06-20 12:39:51,Verification,document_upload_error,Chat,Germany,Android,6.0
+SUP0000773,USR026409,2026-06-16 15:49:26,2026-06-16 16:30:26,Verification,photo_quality_rejected,Chat,United Kingdom,Android,6.0
+SUP0000774,USR026417,2026-06-15 22:55:57,2026-06-16 00:10:57,Verification,photo_quality_rejected,Chat,Germany,Android,6.0
+SUP0000775,USR026446,2026-06-05 20:12:07,2026-06-05 23:06:07,Verification,camera_permission_error,Email,Germany,Android,6.0
+SUP0000776,USR026466,2026-05-30 15:13:38,2026-05-30 17:15:38,Transfer,technical_error,Email,Italy,Android,5.9
+SUP0000777,USR026508,2026-06-13 16:51:18,2026-06-13 18:53:18,Verification,document_not_supported,Chat,United Kingdom,Android,5.9
+SUP0000778,USR026539,2026-06-16 11:19:14,2026-06-16 19:54:14,Transfer,transfer_limit_exceeded,Chat,Italy,Android,5.9
+SUP0000779,USR026545,2026-06-22 18:57:14,2026-06-22 19:26:14,Verification,document_expired,Chat,France,iOS,9.5
+SUP0000780,USR026594,2026-06-26 12:56:01,2026-06-26 15:16:01,Verification,photo_quality_rejected,Chat,Portugal,Android,6.0
+SUP0000781,USR026605,2026-05-31 14:02:50,2026-05-31 15:18:50,Verification,document_not_supported,Chat,United Kingdom,Android,5.9
+SUP0000782,USR026617,2026-06-26 14:37:16,2026-06-26 15:16:16,Transfer,insufficient_funds,Chat,France,iOS,9.5
+SUP0000783,USR026730,2026-06-12 20:02:56,2026-06-12 20:40:56,Verification,identity_mismatch,Email,United Kingdom,Web,
+SUP0000784,USR026744,2026-04-04 22:06:18,2026-04-05 00:05:18,Verification,identity_mismatch,Email,Poland,iOS,9.3
+SUP0000785,USR026753,2026-04-16 12:07:06,2026-04-16 13:38:06,Verification,identity_mismatch,Chat,Spain,Android,5.8
+SUP0000786,USR026867,2026-06-22 12:15:54,2026-06-22 14:35:54,Verification,document_expired,Email,United Kingdom,iOS,9.4
+SUP0000787,USR026871,2026-06-20 14:40:55,2026-06-20 16:36:55,Verification,camera_permission_error,Chat,Romania,Android,6.0
+SUP0000788,USR026910,2026-04-27 17:07:44,2026-04-27 18:55:44,Verification,document_expired,Chat,France,Android,5.8
+SUP0000789,USR026967,2026-06-22 11:14:30,2026-06-22 11:29:30,Verification,photo_quality_rejected,Email,Spain,iOS,9.5
+SUP0000790,USR026980,2026-06-07 22:59:24,2026-06-08 00:42:24,Transfer,insufficient_funds,Chat,Spain,Web,
+SUP0000791,USR027053,2026-06-23 11:37:00,2026-06-23 12:47:00,Verification,document_upload_error,Chat,Germany,Android,6.0
+SUP0000792,USR027062,2026-06-03 13:51:34,2026-06-03 18:36:34,Transfer,risk_review_failed,Email,Germany,iOS,9.4
+SUP0000793,USR027084,2026-06-25 12:47:30,2026-06-25 13:24:30,Verification,technical_error,Email,Spain,Android,6.0
+SUP0000794,USR027087,2026-06-16 13:49:00,2026-06-16 16:30:00,Verification,camera_permission_error,Chat,Poland,Android,6.0
+SUP0000795,USR027166,2026-06-30 19:59:11,2026-06-30 22:00:11,Verification,technical_error,Email,United Kingdom,Web,
+SUP0000796,USR027197,2026-06-25 11:29:25,2026-06-25 15:31:25,Transfer,risk_review_failed,Chat,Spain,Android,6.0
+SUP0000797,USR027234,2026-05-13 19:19:34,2026-05-13 20:25:34,Verification,bank_authentication_failed,Chat,United Kingdom,iOS,9.4
+SUP0000798,USR027249,2026-06-04 01:59:04,2026-06-04 02:33:04,Verification,technical_error,Chat,United Kingdom,Web,
+SUP0000799,USR027331,2026-06-29 14:13:09,2026-06-29 14:56:09,Verification,camera_permission_error,Chat,Netherlands,Android,6.0
+SUP0000800,USR027334,2026-06-01 10:02:40,2026-06-01 11:43:40,Verification,document_not_supported,Chat,Portugal,iOS,9.4
+SUP0000801,USR027342,2026-06-25 14:35:50,2026-06-25 16:20:50,Verification,document_not_supported,Chat,Germany,Android,6.0
+SUP0000802,USR027346,2026-04-21 03:41:15,2026-04-21 05:02:15,Verification,identity_mismatch,Chat,United Kingdom,Android,5.8
+SUP0000803,USR027361,2026-05-05 12:17:51,2026-05-05 13:39:51,Verification,bank_authentication_failed,Chat,United Kingdom,iOS,9.3
+SUP0000804,USR027376,2026-06-19 23:06:59,2026-06-20 02:08:59,Transfer,risk_review_failed,Email,Romania,iOS,9.5
+SUP0000805,USR027433,2026-06-09 00:00:47,2026-06-09 02:31:47,Verification,technical_error,Chat,France,iOS,9.5
+SUP0000806,USR027434,2026-04-15 18:20:38,2026-04-15 20:37:38,Verification,document_not_supported,Chat,Romania,Android,5.8
+SUP0000807,USR027462,2026-06-02 09:11:25,2026-06-02 12:13:25,Verification,technical_error,Chat,United Kingdom,iOS,9.5
+SUP0000808,USR027507,2026-05-29 03:21:58,2026-05-29 04:06:58,Verification,document_not_supported,Email,Portugal,iOS,9.5
+SUP0000809,USR027530,2026-06-26 16:22:26,2026-06-26 17:25:26,Verification,document_upload_error,Chat,Portugal,Android,6.0
+SUP0000810,USR027532,2026-05-12 21:45:44,2026-05-13 01:22:44,Transfer,risk_review_failed,Email,United Kingdom,Android,5.9
+SUP0000811,USR027560,2026-05-30 08:24:03,2026-05-30 09:55:03,Transfer,payment_authorization_failed,Email,Poland,iOS,9.4
+SUP0000812,USR027561,2026-06-17 16:38:19,2026-06-17 20:23:19,Transfer,risk_review_failed,Chat,United Kingdom,iOS,9.5
+SUP0000813,USR027574,2026-06-19 04:48:20,2026-06-19 05:15:20,Transfer,insufficient_funds,Chat,Poland,iOS,9.4
+SUP0000814,USR027592,2026-05-21 22:27:48,2026-05-21 23:42:48,Transfer,technical_error,Chat,Portugal,iOS,9.5
+SUP0000815,USR027601,2026-06-26 20:34:00,2026-06-26 21:50:00,Verification,identity_mismatch,Chat,Ireland,Android,6.0
+SUP0000816,USR027671,2026-05-11 12:37:07,2026-05-11 14:56:07,Verification,technical_error,Email,United Kingdom,Android,5.8
+SUP0000817,USR027696,2026-06-28 08:59:32,2026-06-28 11:21:32,Verification,document_upload_error,Chat,Germany,Android,6.0
+SUP0000818,USR027719,2026-05-20 19:18:28,2026-05-20 21:32:28,Transfer,bank_transfer_not_received,Chat,Ireland,Web,
+SUP0000819,USR027742,2026-06-17 00:21:19,2026-06-17 01:17:19,Transfer,insufficient_funds,Email,United Kingdom,iOS,9.4
+SUP0000820,USR027750,2026-06-23 10:36:08,2026-06-23 11:28:08,Verification,identity_mismatch,Email,France,Android,6.0
+SUP0000821,USR027754,2026-06-14 13:21:18,2026-06-14 13:55:18,Verification,photo_quality_rejected,Chat,Germany,Android,6.0
+SUP0000822,USR027803,2026-04-14 17:31:24,2026-04-14 23:23:24,Transfer,transfer_limit_exceeded,Chat,Italy,Android,5.8
+SUP0000823,USR027817,2026-06-11 11:07:10,2026-06-11 13:00:10,Verification,bank_authentication_failed,Chat,Netherlands,Web,
+SUP0000824,USR027867,2026-06-26 11:40:03,2026-06-26 14:20:03,Verification,technical_error,Chat,Germany,Android,6.0
+SUP0000825,USR027881,2026-06-14 13:16:55,2026-06-14 17:47:55,Transfer,risk_review_failed,Chat,Netherlands,Android,5.9
+SUP0000826,USR027938,2026-04-15 13:30:16,2026-04-15 14:38:16,Verification,document_expired,Chat,Germany,iOS,9.3
+SUP0000827,USR028040,2026-06-16 20:06:29,2026-06-16 21:25:29,Verification,document_not_supported,Chat,United Kingdom,Android,6.0
+SUP0000828,USR028051,2026-06-14 09:57:43,2026-06-14 11:20:43,Verification,document_upload_error,Chat,United Kingdom,Android,6.0
+SUP0000829,USR028084,2026-05-26 08:54:17,2026-05-26 09:54:17,Verification,identity_mismatch,Chat,Estonia,Android,5.9
+SUP0000830,USR028095,2026-06-14 13:40:25,2026-06-14 15:09:25,Verification,document_upload_error,Chat,Poland,Android,6.0
+SUP0000831,USR028219,2026-06-19 19:53:59,2026-06-19 20:52:59,Verification,photo_quality_rejected,Chat,Germany,Android,6.0
+SUP0000832,USR028342,2026-06-12 10:03:18,2026-06-12 18:28:18,Transfer,risk_review_failed,Email,Poland,iOS,9.4
+SUP0000833,USR028344,2026-05-01 18:53:17,2026-05-01 21:20:17,Verification,technical_error,Chat,Germany,iOS,9.3
+SUP0000834,USR028463,2026-05-13 22:46:29,2026-05-13 23:42:29,Verification,document_not_supported,Chat,United Kingdom,Android,5.9
+SUP0000835,USR028478,2026-06-15 10:53:28,2026-06-15 11:51:28,Verification,camera_permission_error,Chat,Germany,Android,6.0
+SUP0000836,USR028499,2026-07-03 16:12:39,2026-07-03 18:09:39,Transfer,technical_error,Chat,United Kingdom,iOS,9.5
+SUP0000837,USR028546,2026-05-31 21:26:15,2026-06-01 06:37:15,Transfer,risk_review_failed,Chat,Germany,iOS,9.4
+SUP0000838,USR028547,2026-06-29 21:57:12,2026-06-29 23:44:12,Verification,photo_quality_rejected,Email,Germany,Android,6.0
+SUP0000839,USR028595,2026-06-27 13:27:46,2026-06-27 13:59:46,Verification,photo_quality_rejected,Email,Portugal,Android,6.0
+SUP0000840,USR028630,2026-06-25 10:41:22,2026-06-25 11:18:22,Verification,document_upload_error,Chat,Ireland,Android,6.0
+SUP0000841,USR028632,2026-06-29 21:02:23,2026-06-29 22:09:23,Verification,photo_quality_rejected,Chat,France,Android,6.0
+SUP0000842,USR028673,2026-06-24 11:42:48,2026-06-24 13:30:48,Transfer,payment_authorization_failed,Chat,Germany,Android,5.9
+SUP0000843,USR028690,2026-06-16 19:00:06,2026-06-16 19:48:06,Verification,document_expired,Chat,United Kingdom,Android,5.9
+SUP0000844,USR028709,2026-05-20 09:18:15,2026-05-20 10:02:15,Verification,bank_authentication_failed,Chat,Spain,iOS,9.5
+SUP0000845,USR028730,2026-06-05 03:04:13,2026-06-05 04:29:13,Transfer,insufficient_funds,Email,United Kingdom,iOS,9.4
+SUP0000846,USR028734,2026-06-20 13:00:23,2026-06-20 15:46:23,Transfer,risk_review_failed,Email,Poland,Android,5.9
+SUP0000847,USR028742,2026-06-22 12:50:44,2026-06-22 14:40:44,Verification,identity_mismatch,Chat,Germany,Android,6.0
+SUP0000848,USR028838,2026-05-29 17:41:34,2026-05-29 18:59:34,Verification,technical_error,Chat,Germany,Android,5.9
+SUP0000849,USR028917,2026-06-20 14:09:39,2026-06-20 14:41:39,Verification,photo_quality_rejected,Chat,Romania,Web,
+SUP0000850,USR028933,2026-06-15 15:38:58,2026-06-15 18:09:58,Verification,identity_mismatch,Chat,Sweden,Android,6.0
+SUP0000851,USR028943,2026-06-24 08:51:04,2026-06-24 10:43:04,Verification,bank_authentication_failed,Chat,Germany,Android,6.0
+SUP0000852,USR028961,2026-05-19 11:26:17,2026-05-19 14:04:17,Verification,photo_quality_rejected,Chat,Romania,Android,5.9
+SUP0000853,USR028963,2026-06-01 04:57:16,2026-06-01 06:23:16,Transfer,insufficient_funds,Chat,Poland,Android,5.8
+SUP0000854,USR028977,2026-06-11 22:16:36,2026-06-11 23:57:36,Transfer,payment_authorization_failed,Chat,Portugal,iOS,9.5
+SUP0000855,USR029021,2026-06-28 12:35:44,2026-06-28 13:39:44,Verification,identity_mismatch,Email,Sweden,iOS,9.4
+SUP0000856,USR029061,2026-06-16 16:52:12,2026-06-16 17:48:12,Verification,document_expired,Chat,Poland,iOS,9.5
+SUP0000857,USR029085,2026-06-20 18:21:09,2026-06-20 19:11:09,Transfer,bank_transfer_not_received,Chat,Spain,iOS,9.5
+SUP0000858,USR029127,2026-06-07 19:09:47,2026-06-07 19:50:47,Verification,technical_error,Chat,Italy,iOS,9.5
+SUP0000859,USR029135,2026-06-27 11:49:11,2026-06-27 14:08:11,Verification,document_upload_error,Chat,Portugal,Android,6.0
+SUP0000860,USR029149,2026-05-09 18:12:58,2026-05-09 18:44:58,Verification,identity_mismatch,Chat,Italy,iOS,9.3
+SUP0000861,USR029231,2026-06-05 15:45:17,2026-06-05 16:17:17,Transfer,payment_authorization_failed,Email,Spain,Android,6.0
+SUP0000862,USR029242,2026-06-27 22:39:20,2026-06-28 01:14:20,Verification,camera_permission_error,Chat,United Kingdom,Android,6.0
+SUP0000863,USR029257,2026-06-03 14:28:07,2026-06-03 15:39:07,Verification,identity_mismatch,Chat,Germany,iOS,9.5
+SUP0000864,USR029277,2026-06-27 04:40:59,2026-06-27 05:10:59,Transfer,insufficient_funds,Email,United Kingdom,iOS,9.4
+SUP0000865,USR029314,2026-06-13 16:52:23,2026-06-13 19:19:23,Verification,document_upload_error,Email,United Kingdom,Android,6.0
+SUP0000866,USR029315,2026-06-19 06:08:56,2026-06-19 07:48:56,Verification,document_upload_error,Chat,Estonia,Android,6.0
+SUP0000867,USR029338,2026-06-09 11:20:03,2026-06-09 13:37:03,Transfer,technical_error,Chat,Germany,iOS,9.5
+SUP0000868,USR029394,2026-06-22 22:19:34,2026-06-22 23:17:34,Verification,document_upload_error,Email,Romania,Android,6.0
+SUP0000869,USR029417,2026-06-24 15:31:21,2026-06-24 17:05:21,Verification,document_expired,Chat,United Kingdom,Web,
+SUP0000870,USR029447,2026-06-17 09:18:43,2026-06-17 10:49:43,Verification,photo_quality_rejected,Email,Italy,iOS,9.5
+SUP0000871,USR029451,2026-05-20 05:36:21,2026-05-20 06:16:21,Verification,identity_mismatch,Chat,France,Android,5.9
+SUP0000872,USR029490,2026-04-06 21:41:47,2026-04-06 22:50:47,Verification,identity_mismatch,Chat,Germany,Android,5.8
+SUP0000873,USR029624,2026-06-19 17:54:02,2026-06-19 18:29:02,Verification,camera_permission_error,Chat,France,Android,6.0
+SUP0000874,USR029712,2026-04-24 12:52:41,2026-04-24 13:22:41,Verification,technical_error,Email,Romania,Android,5.8
+SUP0000875,USR029741,2026-06-24 17:33:43,2026-06-24 18:36:43,Verification,technical_error,Chat,United Kingdom,Android,6.0
+SUP0000876,USR029753,2026-06-22 17:38:03,2026-06-22 18:48:03,Verification,camera_permission_error,Email,Sweden,Android,6.0
+SUP0000877,USR029774,2026-06-14 16:33:04,2026-06-14 19:11:04,Verification,photo_quality_rejected,Chat,Spain,Android,6.0
+SUP0000878,USR029787,2026-06-10 12:24:15,2026-06-10 15:00:15,Verification,identity_mismatch,Chat,France,Android,5.9
+SUP0000879,USR029797,2026-05-31 20:35:45,2026-05-31 23:00:45,Transfer,insufficient_funds,Email,Spain,Web,
+SUP0000880,USR029803,2026-06-28 17:28:29,2026-06-28 18:51:29,Verification,document_upload_error,Chat,Spain,Android,6.0
+SUP0000881,USR029805,2026-05-20 16:54:11,2026-05-20 17:35:11,Verification,identity_mismatch,Chat,Portugal,iOS,9.4
+SUP0000882,USR029811,2026-06-18 08:23:11,2026-06-18 09:51:11,Verification,photo_quality_rejected,Chat,United Kingdom,Android,6.0
+SUP0000883,USR029826,2026-05-31 08:17:17,2026-05-31 08:52:17,Transfer,technical_error,Chat,United Kingdom,iOS,9.4
+SUP0000884,USR029858,2026-06-26 17:48:22,2026-06-26 21:10:22,Verification,camera_permission_error,Chat,Romania,Android,6.0
+SUP0000885,USR029920,2026-05-04 05:15:12,2026-05-04 07:43:12,Transfer,risk_review_failed,Email,Netherlands,iOS,9.3
+SUP0000886,USR029957,2026-06-21 16:34:35,2026-06-21 18:49:35,Verification,photo_quality_rejected,Chat,Italy,Android,6.0
+SUP0000887,USR030033,2026-06-27 21:01:21,2026-06-27 21:30:21,Verification,identity_mismatch,Chat,Italy,Android,6.0
+SUP0000888,USR030051,2026-05-31 19:18:16,2026-05-31 20:21:16,Verification,identity_mismatch,Chat,United Kingdom,Web,
+SUP0000889,USR030053,2026-06-19 13:08:44,2026-06-19 14:55:44,Verification,document_not_supported,Chat,Italy,Android,6.0
+SUP0000890,USR030062,2026-06-23 08:28:14,2026-06-23 10:16:14,Verification,camera_permission_error,Email,Poland,Android,6.0
+SUP0000891,USR030131,2026-06-26 13:39:50,2026-06-26 14:34:50,Verification,identity_mismatch,Chat,Poland,Android,6.0
+SUP0000892,USR030160,2026-04-11 22:39:55,2026-04-12 00:07:55,Transfer,payment_authorization_failed,Chat,United Kingdom,iOS,9.3
+SUP0000893,USR030190,2026-04-19 20:30:07,2026-04-19 20:47:07,Verification,document_expired,Chat,Germany,iOS,9.4
+SUP0000894,USR030201,2026-05-24 13:10:51,2026-05-24 14:33:51,Verification,identity_mismatch,Email,Netherlands,iOS,9.5
+SUP0000895,USR030232,2026-06-13 13:25:05,2026-06-13 16:00:05,Verification,document_upload_error,Chat,Germany,Android,6.0
+SUP0000896,USR030242,2026-06-23 12:01:15,2026-06-23 13:04:15,Transfer,payment_authorization_failed,Chat,France,iOS,9.5
+SUP0000897,USR030275,2026-06-07 19:46:03,2026-06-07 22:49:03,Transfer,risk_review_failed,Email,Germany,Android,6.0
+SUP0000898,USR030339,2026-06-16 13:46:57,2026-06-16 15:45:57,Verification,bank_authentication_failed,Chat,France,Android,6.0
+SUP0000899,USR030447,2026-06-28 08:29:58,2026-06-28 09:00:58,Verification,document_upload_error,Chat,Spain,Android,6.0
+SUP0000900,USR030454,2026-06-16 15:00:37,2026-06-16 15:48:37,Verification,photo_quality_rejected,Chat,Estonia,Android,6.0
+SUP0000901,USR030457,2026-06-15 21:52:16,2026-06-16 01:07:16,Verification,document_upload_error,Chat,Italy,Android,6.0
+SUP0000902,USR030487,2026-06-17 04:34:03,2026-06-17 07:30:03,Verification,technical_error,Chat,Netherlands,Android,6.0
+SUP0000903,USR030522,2026-06-13 23:34:37,2026-06-14 00:40:37,Verification,document_not_supported,Chat,France,Android,5.9
+SUP0000904,USR030530,2026-04-20 08:56:35,2026-04-20 11:04:35,Transfer,bank_transfer_not_received,Chat,Poland,iOS,9.3
+SUP0000905,USR030540,2026-04-27 12:05:48,2026-04-27 13:11:48,Verification,document_expired,Chat,Sweden,Android,5.8
+SUP0000906,USR030554,2026-05-18 22:14:34,2026-05-19 01:06:34,Transfer,risk_review_failed,Email,France,Web,
+SUP0000907,USR030579,2026-05-12 19:55:35,2026-05-12 22:18:35,Transfer,bank_transfer_not_received,Chat,Germany,iOS,9.3
+SUP0000908,USR030582,2026-06-29 18:12:13,2026-06-29 19:36:13,Verification,identity_mismatch,Email,United Kingdom,Android,6.0
+SUP0000909,USR030599,2026-06-16 22:17:57,2026-06-17 00:15:57,Transfer,payment_authorization_failed,Chat,France,Android,6.0
+SUP0000910,USR030647,2026-06-20 11:34:03,2026-06-20 13:16:03,Verification,document_upload_error,Chat,Estonia,Android,6.0
+SUP0000911,USR030651,2026-06-16 06:47:08,2026-06-16 07:20:08,Verification,bank_authentication_failed,Email,France,iOS,9.5
+SUP0000912,USR030714,2026-06-15 12:57:19,2026-06-15 15:09:19,Verification,photo_quality_rejected,Chat,Netherlands,Android,5.9
+SUP0000913,USR030771,2026-06-22 15:12:31,2026-06-22 16:55:31,Verification,identity_mismatch,Chat,Spain,Web,
+SUP0000914,USR030837,2026-05-30 16:35:30,2026-05-30 18:49:30,Verification,technical_error,Chat,Portugal,Android,5.8
+SUP0000915,USR030840,2026-06-30 22:27:57,2026-06-30 23:06:57,Verification,photo_quality_rejected,Email,Germany,Android,6.0
+SUP0000916,USR030862,2026-06-15 13:12:29,2026-06-15 15:40:29,Verification,identity_mismatch,Chat,Italy,Web,
+SUP0000917,USR030878,2026-06-05 15:17:53,2026-06-05 16:52:53,Verification,camera_permission_error,Email,Estonia,Android,6.0
+SUP0000918,USR030908,2026-06-03 17:03:13,2026-06-03 17:24:13,Verification,identity_mismatch,Chat,United Kingdom,Web,
+SUP0000919,USR030977,2026-06-19 17:11:43,2026-06-19 19:49:43,Verification,document_upload_error,Chat,United Kingdom,Android,6.0
+SUP0000920,USR031041,2026-05-23 20:30:23,2026-05-23 22:06:23,Verification,document_not_supported,Chat,Germany,Android,5.9
+SUP0000921,USR031044,2026-06-28 12:30:38,2026-06-28 13:06:38,Verification,document_not_supported,Email,Poland,Web,
+SUP0000922,USR031077,2026-06-29 02:22:59,2026-06-29 03:36:59,Verification,technical_error,Chat,Italy,iOS,9.4
+SUP0000923,USR031079,2026-04-17 10:30:37,2026-04-17 11:36:37,Transfer,payment_authorization_failed,Email,United Kingdom,Web,
+SUP0000924,USR031140,2026-06-17 20:17:39,2026-06-17 20:52:39,Verification,bank_authentication_failed,Chat,Sweden,Android,6.0
+SUP0000925,USR031164,2026-04-21 16:55:16,2026-04-21 18:34:16,Verification,photo_quality_rejected,Chat,Estonia,iOS,9.3
+SUP0000926,USR031170,2026-04-10 12:38:15,2026-04-10 14:36:15,Verification,document_not_supported,Chat,Portugal,Android,5.8
+SUP0000927,USR031175,2026-06-08 15:26:36,2026-06-08 17:54:36,Verification,technical_error,Email,France,iOS,9.5
+SUP0000928,USR031253,2026-06-14 12:44:13,2026-06-14 13:06:13,Verification,document_upload_error,Chat,Portugal,Android,6.0
+SUP0000929,USR031281,2026-06-28 20:18:18,2026-06-28 21:16:18,Verification,document_upload_error,Chat,United Kingdom,Android,6.0
+SUP0000930,USR031294,2026-06-29 10:27:07,2026-06-29 11:15:07,Verification,document_upload_error,Chat,United Kingdom,Android,6.0
+SUP0000931,USR031350,2026-06-15 08:45:42,2026-06-15 09:52:42,Verification,document_upload_error,Email,Sweden,Android,6.0
+SUP0000932,USR031403,2026-06-20 10:00:22,2026-06-20 11:55:22,Verification,document_not_supported,Email,Italy,Android,6.0
+SUP0000933,USR031447,2026-06-22 17:54:53,2026-06-22 18:34:53,Verification,document_upload_error,Chat,Spain,Android,6.0
+SUP0000934,USR031458,2026-06-29 20:51:38,2026-06-29 21:20:38,Verification,photo_quality_rejected,Chat,Portugal,Android,6.0
+SUP0000935,USR031480,2026-06-19 09:22:20,2026-06-19 11:07:20,Transfer,payment_authorization_failed,Chat,Romania,iOS,9.4
+SUP0000936,USR031486,2026-04-07 10:03:21,2026-04-07 10:52:21,Transfer,technical_error,Chat,Italy,Android,5.9
+SUP0000937,USR031500,2026-06-26 10:40:52,2026-06-26 12:03:52,Verification,camera_permission_error,Chat,Poland,Android,6.0
+SUP0000938,USR031593,2026-06-29 19:27:15,2026-06-29 20:01:15,Verification,document_not_supported,Chat,Romania,Web,
+SUP0000939,USR031734,2026-06-22 05:19:38,2026-06-22 07:12:38,Verification,identity_mismatch,Chat,United Kingdom,Android,6.0
+SUP0000940,USR031866,2026-06-29 12:42:49,2026-06-29 14:59:49,Verification,document_upload_error,Email,France,Android,6.0
+SUP0000941,USR031976,2026-06-15 13:31:01,2026-06-15 14:49:01,Verification,document_expired,Chat,United Kingdom,iOS,9.4
+SUP0000942,USR031989,2026-06-02 22:09:11,2026-06-02 23:33:11,Verification,technical_error,Email,United Kingdom,Android,5.9
+SUP0000943,USR032079,2026-06-23 08:24:00,2026-06-23 10:26:00,Verification,photo_quality_rejected,Chat,Germany,Android,6.0
+SUP0000944,USR032085,2026-04-16 10:36:18,2026-04-16 13:18:18,Verification,technical_error,Email,Sweden,Web,
+SUP0000945,USR032094,2026-05-16 17:10:48,2026-05-16 19:03:48,Transfer,insufficient_funds,Chat,United Kingdom,iOS,9.5
+SUP0000946,USR032154,2026-06-05 20:42:24,2026-06-05 21:19:24,Verification,document_not_supported,Chat,Portugal,Web,
+SUP0000947,USR032175,2026-06-18 17:59:07,2026-06-18 18:35:07,Verification,document_upload_error,Chat,Poland,Android,6.0
+SUP0000948,USR032191,2026-06-29 07:01:41,2026-06-29 09:25:41,Transfer,technical_error,Chat,Estonia,Android,6.0
+SUP0000949,USR032207,2026-06-21 00:14:40,2026-06-21 01:50:40,Verification,document_expired,Chat,United Kingdom,Android,6.0
+SUP0000950,USR032219,2026-06-13 07:16:55,2026-06-13 09:36:55,Transfer,technical_error,Chat,France,iOS,9.5
+SUP0000951,USR032240,2026-06-28 16:22:48,2026-06-28 17:16:48,Verification,technical_error,Chat,United Kingdom,Android,6.0
+SUP0000952,USR032268,2026-06-25 20:50:23,2026-06-26 00:18:23,Transfer,technical_error,Chat,Netherlands,Android,5.9
+SUP0000953,USR032320,2026-05-21 10:28:56,2026-05-21 11:01:56,Verification,document_not_supported,Email,United Kingdom,Android,5.9
+SUP0000954,USR032347,2026-05-14 19:29:52,2026-05-14 20:23:52,Verification,bank_authentication_failed,Email,United Kingdom,Android,5.9
+SUP0000955,USR032354,2026-05-28 16:53:39,2026-05-28 20:31:39,Transfer,transfer_limit_exceeded,Chat,France,Android,5.9
+SUP0000956,USR032369,2026-06-22 09:18:22,2026-06-22 09:34:22,Verification,bank_authentication_failed,Chat,Germany,Android,6.0
+SUP0000957,USR032385,2026-05-11 04:57:24,2026-05-11 05:23:24,Transfer,payment_authorization_failed,Chat,Spain,Android,5.8
+SUP0000958,USR032529,2026-06-28 12:26:10,2026-06-28 13:23:10,Verification,photo_quality_rejected,Chat,Germany,Android,6.0
+SUP0000959,USR032542,2026-06-21 18:41:33,2026-06-21 20:22:33,Verification,document_not_supported,Chat,France,iOS,9.4
+SUP0000960,USR032548,2026-06-25 21:16:07,2026-06-26 00:04:07,Verification,document_upload_error,Email,Netherlands,Android,6.0
+SUP0000961,USR032552,2026-06-27 12:34:54,2026-06-27 13:33:54,Verification,document_upload_error,Chat,Italy,Android,6.0
+SUP0000962,USR032814,2026-06-20 00:18:45,2026-06-20 02:19:45,Transfer,insufficient_funds,Chat,France,Web,
+SUP0000963,USR032855,2026-06-20 19:34:12,2026-06-20 19:58:12,Verification,photo_quality_rejected,Chat,Portugal,iOS,9.5
+SUP0000964,USR032865,2026-06-25 02:54:20,2026-06-25 04:12:20,Verification,photo_quality_rejected,Chat,Italy,Android,6.0
+SUP0000965,USR032877,2026-06-14 08:36:33,2026-06-14 09:50:33,Verification,document_not_supported,Chat,Netherlands,Android,6.0
+SUP0000966,USR032888,2026-05-12 11:49:35,2026-05-12 12:59:35,Transfer,insufficient_funds,Email,United Kingdom,Android,5.9
+SUP0000967,USR032967,2026-06-17 05:26:36,2026-06-17 07:57:36,Verification,document_upload_error,Email,United Kingdom,Android,6.0
+SUP0000968,USR033104,2026-05-30 19:50:54,2026-05-30 20:36:54,Verification,technical_error,Email,United Kingdom,Web,
+SUP0000969,USR033128,2026-06-28 11:23:05,2026-06-28 11:43:05,Verification,document_not_supported,Email,Romania,iOS,9.4
+SUP0000970,USR033147,2026-06-26 17:48:29,2026-06-26 19:10:29,Verification,bank_authentication_failed,Chat,Portugal,Android,6.0
+SUP0000971,USR033204,2026-05-27 15:12:23,2026-05-27 16:10:23,Transfer,payment_authorization_failed,Chat,Spain,iOS,9.5
+SUP0000972,USR033211,2026-06-15 11:25:54,2026-06-15 13:07:54,Verification,document_not_supported,Email,Romania,Android,6.0
+SUP0000973,USR033253,2026-06-02 04:58:37,2026-06-02 07:21:37,Transfer,technical_error,Chat,Spain,Android,5.9
+SUP0000974,USR033299,2026-05-07 08:09:08,2026-05-07 12:22:08,Transfer,transfer_limit_exceeded,Chat,Italy,iOS,9.3
+SUP0000975,USR033314,2026-06-07 06:14:53,2026-06-07 07:24:53,Transfer,insufficient_funds,Chat,France,iOS,9.4
+SUP0000976,USR033359,2026-06-26 16:26:41,2026-06-26 17:47:41,Verification,document_upload_error,Email,Italy,Android,6.0
+SUP0000977,USR033410,2026-06-05 17:14:08,2026-06-05 17:38:08,Verification,identity_mismatch,Chat,Italy,Android,6.0
+SUP0000978,USR033530,2026-06-29 08:59:52,2026-06-29 10:51:52,Transfer,technical_error,Chat,Spain,Android,6.0
+SUP0000979,USR033545,2026-06-09 13:23:44,2026-06-09 14:08:44,Verification,photo_quality_rejected,Chat,Romania,Android,6.0
+SUP0000980,USR033550,2026-06-28 08:49:16,2026-06-28 09:50:16,Verification,photo_quality_rejected,Chat,Germany,Android,6.0
+SUP0000981,USR033555,2026-06-22 05:31:23,2026-06-22 06:48:23,Verification,camera_permission_error,Chat,Germany,Android,6.0
+SUP0000982,USR033563,2026-06-04 16:52:52,2026-06-04 18:03:52,Verification,document_not_supported,Chat,United Kingdom,iOS,9.4
+SUP0000983,USR033596,2026-06-30 22:54:34,2026-07-01 00:44:34,Verification,identity_mismatch,Chat,Germany,Android,6.0
+SUP0000984,USR033694,2026-04-03 08:34:05,2026-04-03 10:47:05,Verification,photo_quality_rejected,Chat,Portugal,iOS,9.4
+SUP0000985,USR033731,2026-06-08 11:33:44,2026-06-08 12:39:44,Verification,identity_mismatch,Email,Italy,Android,6.0
+SUP0000986,USR033771,2026-06-07 15:33:29,2026-06-07 16:52:29,Verification,photo_quality_rejected,Chat,France,Android,5.9
+SUP0000987,USR033809,2026-06-18 06:47:26,2026-06-18 07:47:26,Verification,document_upload_error,Email,Netherlands,Android,6.0
+SUP0000988,USR033823,2026-06-07 11:16:05,2026-06-07 12:25:05,Verification,bank_authentication_failed,Chat,Germany,Android,6.0
+SUP0000989,USR033828,2026-06-16 12:45:25,2026-06-16 18:39:25,Transfer,risk_review_failed,Chat,Italy,Android,5.9
+SUP0000990,USR033869,2026-05-07 18:21:30,2026-05-07 20:45:30,Verification,document_not_supported,Email,Portugal,iOS,9.4
+SUP0000991,USR033918,2026-06-21 09:41:58,2026-06-21 11:14:58,Verification,identity_mismatch,Chat,United Kingdom,iOS,9.5
+SUP0000992,USR033960,2026-04-04 16:28:38,2026-04-04 17:16:38,Transfer,payment_authorization_failed,Chat,United Kingdom,Android,5.8
+SUP0000993,USR034089,2026-05-05 22:46:14,2026-05-05 23:35:14,Verification,document_not_supported,Email,Ireland,iOS,9.4
+SUP0000994,USR034168,2026-06-01 18:00:42,2026-06-01 19:28:42,Transfer,payment_authorization_failed,Chat,Portugal,iOS,9.5
+SUP0000995,USR034210,2026-06-27 16:42:01,2026-06-27 17:12:01,Verification,bank_authentication_failed,Chat,Sweden,Android,6.0
+SUP0000996,USR034230,2026-06-18 03:19:40,2026-06-18 05:13:40,Transfer,payment_authorization_failed,Chat,Sweden,Android,6.0
+SUP0000997,USR034348,2026-05-11 18:40:30,2026-05-11 19:43:30,Verification,document_not_supported,Chat,Romania,Web,
+SUP0000998,USR034503,2026-04-21 08:23:17,2026-04-21 09:37:17,Verification,identity_mismatch,Email,Poland,iOS,9.3
+SUP0000999,USR034531,2026-05-25 04:54:21,2026-05-25 07:29:21,Transfer,bank_transfer_not_received,Chat,France,iOS,9.4
+SUP0001000,USR034566,2026-06-15 05:56:54,2026-06-15 06:23:54,Verification,camera_permission_error,Chat,France,Android,6.0
+SUP0001001,USR034572,2026-06-10 15:12:23,2026-06-10 16:54:23,Transfer,insufficient_funds,Email,Sweden,iOS,9.5
+SUP0001002,USR034607,2026-06-10 08:22:51,2026-06-10 17:11:51,Transfer,risk_review_failed,Chat,Romania,Android,5.9
+SUP0001003,USR034629,2026-06-13 18:20:34,2026-06-13 21:19:34,Verification,technical_error,Chat,United Kingdom,Android,6.0
+SUP0001004,USR034631,2026-06-16 08:53:48,2026-06-16 10:26:48,Verification,camera_permission_error,Chat,United Kingdom,Android,6.0
+SUP0001005,USR034816,2026-05-22 23:21:23,2026-05-23 00:43:23,Transfer,insufficient_funds,Email,Italy,Android,5.9
+SUP0001006,USR034821,2026-06-10 11:18:28,2026-06-10 13:20:28,Verification,identity_mismatch,Chat,Germany,iOS,9.4
+SUP0001007,USR034902,2026-05-27 14:46:05,2026-05-27 15:52:05,Verification,document_expired,Chat,Romania,iOS,9.4
+SUP0001008,USR034934,2026-06-21 02:14:11,2026-06-21 03:02:11,Transfer,risk_review_failed,Email,Estonia,Web,
+SUP0001009,USR034954,2026-04-04 07:02:18,2026-04-04 07:22:18,Verification,identity_mismatch,Chat,Estonia,iOS,9.3
+SUP0001010,USR034971,2026-06-21 16:50:47,2026-06-21 19:14:47,Verification,camera_permission_error,Email,United Kingdom,Android,6.0
+SUP0001011,USR035015,2026-06-07 21:03:37,2026-06-07 21:24:37,Verification,document_not_supported,Chat,United Kingdom,Android,6.0
+SUP0001012,USR035053,2026-06-19 17:30:33,2026-06-19 19:01:33,Verification,photo_quality_rejected,Email,Germany,Android,6.0
+SUP0001013,USR035145,2026-05-15 12:37:39,2026-05-15 13:25:39,Verification,photo_quality_rejected,Chat,Portugal,Android,5.9
+SUP0001014,USR035146,2026-06-14 15:16:25,2026-06-14 19:07:25,Transfer,payment_authorization_failed,Chat,Italy,iOS,9.4
+SUP0001015,USR035152,2026-05-19 23:59:12,2026-05-20 06:09:12,Transfer,risk_review_failed,Email,United Kingdom,Android,5.9
+SUP0001016,USR035166,2026-05-11 16:16:19,2026-05-11 21:17:19,Transfer,transfer_limit_exceeded,Chat,France,iOS,9.3
+SUP0001017,USR035181,2026-06-19 20:23:29,2026-06-19 20:44:29,Verification,document_not_supported,Email,Germany,Android,5.9
+SUP0001018,USR035233,2026-06-07 11:54:50,2026-06-07 12:21:50,Verification,document_upload_error,Chat,Spain,Android,6.0
+SUP0001019,USR035282,2026-06-06 22:00:07,2026-06-06 23:36:07,Verification,photo_quality_rejected,Chat,Spain,Android,6.0
+SUP0001020,USR035299,2026-05-21 20:12:01,2026-05-21 20:59:01,Verification,document_not_supported,Chat,United Kingdom,Web,
+SUP0001021,USR035333,2026-04-19 04:04:02,2026-04-19 06:15:02,Verification,identity_mismatch,Chat,Spain,Android,5.8
+SUP0001022,USR035462,2026-06-12 15:33:55,2026-06-12 16:50:55,Verification,document_upload_error,Chat,Poland,Android,6.0
+SUP0001023,USR035463,2026-06-11 13:40:01,2026-06-11 15:21:01,Verification,identity_mismatch,Chat,Portugal,Android,6.0
+SUP0001024,USR035465,2026-06-23 13:53:18,2026-06-23 14:24:18,Verification,photo_quality_rejected,Chat,Germany,Android,6.0
+SUP0001025,USR035478,2026-06-30 01:02:18,2026-06-30 02:30:18,Transfer,insufficient_funds,Email,United Kingdom,iOS,9.5
+SUP0001026,USR035505,2026-06-19 10:03:49,2026-06-19 12:34:49,Verification,photo_quality_rejected,Chat,Ireland,iOS,9.5
+SUP0001027,USR035551,2026-06-22 19:08:22,2026-06-22 21:32:22,Verification,document_upload_error,Chat,Portugal,Android,6.0
+SUP0001028,USR035563,2026-04-01 11:08:38,2026-04-01 12:48:38,Verification,identity_mismatch,Email,Portugal,Android,5.8
+SUP0001029,USR035690,2026-06-21 13:58:42,2026-06-21 15:13:42,Verification,photo_quality_rejected,Chat,Germany,Android,6.0
+SUP0001030,USR035712,2026-06-16 18:21:03,2026-06-16 20:55:03,Verification,photo_quality_rejected,Email,Netherlands,Web,
+SUP0001031,USR035770,2026-06-12 13:41:59,2026-06-12 15:35:59,Transfer,risk_review_failed,Chat,Ireland,Android,6.0
+SUP0001032,USR035773,2026-06-06 14:48:43,2026-06-06 15:49:43,Verification,bank_authentication_failed,Chat,Poland,Android,6.0
+SUP0001033,USR035810,2026-05-20 13:06:04,2026-05-20 14:00:04,Verification,technical_error,Chat,United Kingdom,iOS,9.5
+SUP0001034,USR035820,2026-04-22 22:46:31,2026-04-23 00:10:31,Verification,photo_quality_rejected,Chat,Germany,Android,5.8
+SUP0001035,USR035901,2026-06-17 13:44:29,2026-06-17 14:56:29,Verification,document_upload_error,Chat,Portugal,Android,6.0
+SUP0001036,USR035955,2026-06-25 12:56:38,2026-06-25 13:25:38,Verification,document_not_supported,Chat,Italy,Android,6.0
+SUP0001037,USR035974,2026-06-27 12:52:40,2026-06-27 14:33:40,Verification,camera_permission_error,Email,United Kingdom,Android,6.0
+SUP0001038,USR035976,2026-06-30 20:21:02,2026-07-01 04:52:02,Transfer,risk_review_failed,Chat,Poland,Android,6.0
+SUP0001039,USR035983,2026-05-22 21:32:33,2026-05-22 23:22:33,Verification,technical_error,Chat,Italy,Android,5.8
+SUP0001040,USR036002,2026-06-22 21:59:12,2026-06-23 00:08:12,Verification,bank_authentication_failed,Chat,France,Android,6.0
+SUP0001041,USR036007,2026-06-11 22:32:11,2026-06-12 00:49:11,Verification,camera_permission_error,Chat,Netherlands,Android,6.0
+SUP0001042,USR036084,2026-06-28 10:09:31,2026-06-28 13:46:31,Verification,technical_error,Email,United Kingdom,Android,6.0
+SUP0001043,USR036097,2026-06-13 17:21:45,2026-06-14 01:19:45,Transfer,risk_review_failed,Chat,Spain,Android,6.0
+SUP0001044,USR036117,2026-06-27 20:00:19,2026-06-27 21:31:19,Verification,document_upload_error,Chat,Germany,Android,6.0
+SUP0001045,USR036137,2026-06-18 18:53:42,2026-06-18 19:25:42,Verification,document_upload_error,Chat,Sweden,Android,6.0
+SUP0001046,USR036172,2026-06-19 19:41:15,2026-06-19 20:06:15,Verification,bank_authentication_failed,Chat,Germany,Android,6.0
+SUP0001047,USR036208,2026-04-01 21:21:02,2026-04-01 23:02:02,Transfer,payment_authorization_failed,Chat,United Kingdom,Android,5.8
+SUP0001048,USR036246,2026-05-24 10:24:38,2026-05-24 13:27:38,Verification,technical_error,Chat,United Kingdom,Android,5.8
+SUP0001049,USR036279,2026-06-18 19:22:37,2026-06-18 20:31:37,Transfer,bank_transfer_not_received,Chat,Spain,Android,6.0
+SUP0001050,USR036327,2026-06-28 16:37:26,2026-06-28 18:02:26,Verification,photo_quality_rejected,Chat,Poland,Android,6.0
+SUP0001051,USR036338,2026-06-29 22:18:12,2026-06-30 05:42:12,Transfer,risk_review_failed,Chat,United Kingdom,iOS,9.5
+SUP0001052,USR036339,2026-05-25 20:29:40,2026-05-25 22:28:40,Transfer,payment_authorization_failed,Chat,Poland,Android,5.9
+SUP0001053,USR036354,2026-05-24 20:02:58,2026-05-24 21:32:58,Verification,photo_quality_rejected,Chat,Germany,Web,
+SUP0001054,USR036380,2026-04-17 13:22:48,2026-04-17 13:43:48,Verification,photo_quality_rejected,Chat,Spain,Android,5.8
+SUP0001055,USR036455,2026-04-03 21:40:41,2026-04-04 08:30:41,Transfer,risk_review_failed,Chat,Netherlands,Android,5.8
+SUP0001056,USR036543,2026-06-29 14:06:59,2026-06-29 14:59:59,Verification,identity_mismatch,Chat,Sweden,iOS,9.5
+SUP0001057,USR036558,2026-06-21 14:41:33,2026-06-21 17:12:33,Verification,technical_error,Chat,Netherlands,iOS,9.5
+SUP0001058,USR036583,2026-06-23 09:30:21,2026-06-23 12:01:21,Verification,document_upload_error,Chat,Germany,Android,6.0
+SUP0001059,USR036621,2026-06-22 07:24:07,2026-06-22 08:36:07,Verification,camera_permission_error,Chat,Germany,Android,6.0
+SUP0001060,USR036623,2026-06-05 08:46:00,2026-06-05 10:39:00,Transfer,technical_error,Chat,Poland,iOS,9.4
+SUP0001061,USR036658,2026-06-12 12:30:00,2026-06-12 14:51:00,Transfer,technical_error,Chat,United Kingdom,Android,6.0
+SUP0001062,USR036664,2026-05-15 19:42:50,2026-05-15 21:09:50,Verification,identity_mismatch,Email,Poland,Web,
+SUP0001063,USR036721,2026-06-26 19:02:12,2026-06-26 21:19:12,Verification,identity_mismatch,Email,Estonia,iOS,9.5
+SUP0001064,USR036799,2026-05-29 12:54:27,2026-05-29 13:20:27,Verification,document_expired,Chat,Estonia,Android,5.9
+SUP0001065,USR036894,2026-06-28 13:10:09,2026-06-28 16:52:09,Transfer,insufficient_funds,Chat,Spain,iOS,9.5
+SUP0001066,USR036908,2026-04-05 13:41:06,2026-04-05 16:02:06,Verification,document_not_supported,Chat,Germany,iOS,9.3
+SUP0001067,USR036951,2026-05-23 18:18:43,2026-05-23 20:09:43,Verification,identity_mismatch,Email,Italy,Android,5.8
+SUP0001068,USR036967,2026-04-18 10:00:22,2026-04-18 12:01:22,Verification,identity_mismatch,Chat,Romania,Android,5.8
+SUP0001069,USR037087,2026-06-20 09:26:08,2026-06-20 11:16:08,Transfer,insufficient_funds,Email,Spain,Android,6.0
+SUP0001070,USR037127,2026-05-11 19:58:36,2026-05-11 22:26:36,Verification,identity_mismatch,Chat,Netherlands,iOS,9.3
+SUP0001071,USR037185,2026-06-17 23:41:01,2026-06-18 01:14:01,Transfer,payment_authorization_failed,Chat,Netherlands,Web,
+SUP0001072,USR037217,2026-06-29 10:23:51,2026-06-29 13:45:51,Verification,technical_error,Chat,Poland,Android,6.0
+SUP0001073,USR037218,2026-06-10 21:23:31,2026-06-10 22:17:31,Transfer,technical_error,Email,Germany,Android,6.0
+SUP0001074,USR037219,2026-06-22 17:12:35,2026-06-22 18:15:35,Verification,document_upload_error,Chat,Spain,Android,6.0
+SUP0001075,USR037278,2026-06-20 22:16:27,2026-06-20 23:05:27,Verification,identity_mismatch,Chat,United Kingdom,Android,6.0
+SUP0001076,USR037332,2026-06-21 07:39:09,2026-06-21 08:15:09,Verification,photo_quality_rejected,Chat,Spain,Android,6.0
+SUP0001077,USR037395,2026-06-27 11:36:23,2026-06-27 12:47:23,Verification,technical_error,Chat,United Kingdom,Android,6.0
+SUP0001078,USR037402,2026-06-14 13:21:29,2026-06-14 14:36:29,Verification,photo_quality_rejected,Chat,Poland,iOS,9.5
+SUP0001079,USR037425,2026-06-30 12:25:40,2026-06-30 15:25:40,Verification,camera_permission_error,Email,Spain,Android,6.0
+SUP0001080,USR037542,2026-04-14 12:01:25,2026-04-14 13:05:25,Transfer,technical_error,Chat,Romania,Android,5.8
+SUP0001081,USR037579,2026-05-01 05:28:43,2026-05-01 07:07:43,Transfer,risk_review_failed,Email,Germany,iOS,9.3
+SUP0001082,USR037597,2026-06-25 12:15:27,2026-06-25 13:30:27,Verification,identity_mismatch,Chat,France,Android,6.0
+SUP0001083,USR037613,2026-06-19 13:21:52,2026-06-19 15:55:52,Transfer,payment_authorization_failed,Chat,Germany,iOS,9.4
+SUP0001084,USR037640,2026-06-05 03:23:22,2026-06-05 04:02:22,Transfer,technical_error,Chat,United Kingdom,Web,
+SUP0001085,USR037684,2026-06-22 14:32:39,2026-06-22 15:47:39,Verification,photo_quality_rejected,Email,United Kingdom,Android,6.0
+SUP0001086,USR037698,2026-06-20 11:39:43,2026-06-20 12:52:43,Verification,photo_quality_rejected,Chat,France,Android,6.0
+SUP0001087,USR037702,2026-06-19 17:45:35,2026-06-19 19:34:35,Verification,document_upload_error,Chat,France,Android,6.0
+SUP0001088,USR037751,2026-06-29 03:01:45,2026-06-29 05:03:45,Verification,technical_error,Chat,Italy,Android,6.0
+SUP0001089,USR037779,2026-06-17 21:44:58,2026-06-17 22:54:58,Verification,photo_quality_rejected,Chat,France,Android,6.0
+SUP0001090,USR037869,2026-06-16 20:03:31,2026-06-16 20:34:31,Verification,bank_authentication_failed,Chat,United Kingdom,iOS,9.5
+SUP0001091,USR037927,2026-06-22 08:39:59,2026-06-22 09:56:59,Verification,document_not_supported,Chat,Romania,iOS,9.4
+SUP0001092,USR037928,2026-06-22 21:17:52,2026-06-22 23:13:52,Verification,bank_authentication_failed,Chat,Germany,Android,6.0
+SUP0001093,USR037952,2026-06-29 15:37:27,2026-06-29 16:37:27,Verification,technical_error,Chat,Netherlands,iOS,9.4
+SUP0001094,USR037965,2026-05-11 18:51:16,2026-05-11 20:56:16,Verification,bank_authentication_failed,Chat,Italy,iOS,9.4
+SUP0001095,USR037985,2026-06-24 17:27:20,2026-06-24 18:59:20,Verification,document_not_supported,Chat,France,Android,6.0
+SUP0001096,USR038007,2026-06-19 20:17:41,2026-06-19 21:38:41,Verification,technical_error,Chat,Romania,Android,5.9
+SUP0001097,USR038057,2026-06-15 20:20:26,2026-06-15 21:00:26,Verification,photo_quality_rejected,Chat,Romania,Android,6.0
+SUP0001098,USR038059,2026-06-07 20:30:41,2026-06-07 22:59:41,Verification,photo_quality_rejected,Chat,Portugal,Android,5.9
+SUP0001099,USR038094,2026-06-09 15:58:50,2026-06-09 17:10:50,Transfer,payment_authorization_failed,Chat,Germany,iOS,9.5
+SUP0001100,USR038225,2026-06-15 16:52:12,2026-06-15 17:20:12,Verification,camera_permission_error,Chat,Germany,Android,6.0
+SUP0001101,USR038243,2026-06-30 02:31:51,2026-06-30 03:33:51,Verification,technical_error,Chat,Spain,Android,6.0
+SUP0001102,USR038300,2026-06-14 17:09:25,2026-06-14 17:56:25,Verification,photo_quality_rejected,Email,Romania,Web,
+SUP0001103,USR038334,2026-06-01 18:41:07,2026-06-01 19:27:07,Transfer,payment_authorization_failed,Chat,Sweden,Android,5.9
+SUP0001104,USR038346,2026-06-30 12:53:22,2026-06-30 14:05:22,Verification,bank_authentication_failed,Chat,Italy,Android,6.0
+SUP0001105,USR038371,2026-06-27 14:05:01,2026-06-27 15:50:01,Verification,camera_permission_error,Chat,Germany,Android,6.0
+SUP0001106,USR038387,2026-06-25 17:30:13,2026-06-25 18:18:13,Verification,document_not_supported,Email,Germany,Android,6.0
+SUP0001107,USR038420,2026-06-29 20:19:54,2026-06-29 21:18:54,Verification,document_not_supported,Chat,Italy,Android,6.0
+SUP0001108,USR038423,2026-06-27 13:04:24,2026-06-27 15:34:24,Verification,technical_error,Chat,Portugal,Android,6.0
+SUP0001109,USR038440,2026-06-23 09:44:46,2026-06-23 11:56:46,Verification,document_not_supported,Chat,Spain,Android,6.0
+SUP0001110,USR038445,2026-06-09 11:04:01,2026-06-09 11:43:01,Verification,bank_authentication_failed,Email,United Kingdom,Android,5.9
+SUP0001111,USR038577,2026-06-14 18:29:56,2026-06-14 20:08:56,Verification,identity_mismatch,Email,Netherlands,Android,6.0
+SUP0001112,USR038624,2026-06-15 23:19:31,2026-06-16 00:25:31,Verification,camera_permission_error,Chat,Spain,Android,6.0
+SUP0001113,USR038699,2026-06-09 03:07:54,2026-06-09 05:07:54,Transfer,risk_review_failed,Chat,Spain,iOS,9.4
+SUP0001114,USR038738,2026-05-28 04:40:56,2026-05-28 06:21:56,Transfer,payment_authorization_failed,Email,Italy,Android,5.9
+SUP0001115,USR038744,2026-06-23 13:21:30,2026-06-23 14:59:30,Transfer,payment_authorization_failed,Chat,Italy,iOS,9.4
+SUP0001116,USR038804,2026-04-20 05:09:00,2026-04-20 14:55:00,Transfer,transfer_limit_exceeded,Chat,Sweden,iOS,9.3
+SUP0001117,USR038867,2026-06-28 22:23:11,2026-06-28 23:12:11,Verification,document_upload_error,Email,Portugal,Android,6.0
+SUP0001118,USR038906,2026-05-19 11:42:03,2026-05-19 13:49:03,Verification,document_not_supported,Chat,Romania,Android,5.9
+SUP0001119,USR038995,2026-06-30 08:27:49,2026-06-30 09:16:49,Verification,technical_error,Chat,Spain,Android,6.0
+SUP0001120,USR039053,2026-05-15 17:39:54,2026-05-15 19:44:54,Verification,document_not_supported,Email,Poland,iOS,9.5
+SUP0001121,USR039071,2026-06-21 19:05:07,2026-06-21 22:46:07,Verification,document_upload_error,Chat,Netherlands,Android,6.0
+SUP0001122,USR039165,2026-06-15 18:20:43,2026-06-15 20:59:43,Verification,photo_quality_rejected,Chat,Portugal,Android,5.9
+SUP0001123,USR039211,2026-06-01 13:34:10,2026-06-01 14:28:10,Transfer,insufficient_funds,Chat,France,Android,5.9
+SUP0001124,USR039233,2026-05-12 11:28:18,2026-05-12 14:07:18,Verification,technical_error,Chat,Poland,Android,5.9
+SUP0001125,USR039378,2026-04-07 07:48:30,2026-04-07 11:14:30,Transfer,transfer_limit_exceeded,Chat,Portugal,iOS,9.4
+SUP0001126,USR039442,2026-06-10 10:03:38,2026-06-10 12:35:38,Verification,photo_quality_rejected,Chat,Netherlands,Android,6.0
+SUP0001127,USR039461,2026-05-10 09:35:26,2026-05-10 10:48:26,Verification,document_expired,Chat,Portugal,Web,
+SUP0001128,USR039559,2026-06-17 21:32:57,2026-06-17 22:41:57,Verification,photo_quality_rejected,Email,United Kingdom,iOS,9.5
+SUP0001129,USR039604,2026-06-11 18:10:34,2026-06-11 19:25:34,Verification,document_upload_error,Chat,Italy,Android,6.0
+SUP0001130,USR039616,2026-06-30 18:26:00,2026-06-30 21:56:00,Verification,camera_permission_error,Chat,United Kingdom,Android,6.0
+SUP0001131,USR039621,2026-06-28 14:22:03,2026-06-28 17:40:03,Verification,technical_error,Chat,Italy,Android,6.0
+SUP0001132,USR039624,2026-06-03 15:31:28,2026-06-03 17:54:28,Verification,bank_authentication_failed,Chat,Spain,Android,5.8
+SUP0001133,USR039670,2026-06-06 13:02:47,2026-06-06 13:39:47,Verification,document_not_supported,Chat,Italy,Android,6.0
+SUP0001134,USR039672,2026-05-20 10:33:43,2026-05-20 12:10:43,Transfer,technical_error,Chat,Italy,Android,5.9
+SUP0001135,USR039755,2026-06-13 09:50:04,2026-06-13 10:45:04,Verification,identity_mismatch,Chat,France,Android,5.9
+SUP0001136,USR039765,2026-05-18 03:01:42,2026-05-18 03:52:42,Transfer,bank_transfer_not_received,Email,France,Android,5.9
+SUP0001137,USR039805,2026-06-16 10:19:29,2026-06-16 11:30:29,Transfer,insufficient_funds,Chat,Sweden,Web,
+SUP0001138,USR039827,2026-05-07 07:42:30,2026-05-07 09:02:30,Verification,identity_mismatch,Email,Portugal,iOS,9.4
+SUP0001139,USR039832,2026-06-17 12:39:20,2026-06-17 14:30:20,Verification,photo_quality_rejected,Email,Netherlands,Android,6.0
+SUP0001140,USR039842,2026-05-22 15:09:36,2026-05-22 15:29:36,Transfer,payment_authorization_failed,Email,Ireland,iOS,9.4
+SUP0001141,USR039846,2026-06-15 15:03:41,2026-06-15 16:37:41,Verification,photo_quality_rejected,Email,Netherlands,Android,6.0
+SUP0001142,USR039849,2026-05-02 10:40:04,2026-05-02 12:57:04,Transfer,payment_authorization_failed,Chat,Portugal,Web,
+SUP0001143,USR039854,2026-06-09 17:12:49,2026-06-09 19:06:49,Verification,bank_authentication_failed,Chat,Poland,Android,6.0
+SUP0001144,USR039855,2026-05-02 08:17:08,2026-05-02 10:52:08,Transfer,risk_review_failed,Email,Portugal,Android,5.9
+SUP0001145,USR039976,2026-04-08 08:30:01,2026-04-08 08:55:01,Verification,document_expired,Chat,Spain,iOS,9.4
+SUP0001146,USR040003,2026-06-11 06:51:23,2026-06-11 07:26:23,Verification,document_not_supported,Chat,Romania,iOS,9.5
+SUP0001147,USR040034,2026-05-14 09:04:13,2026-05-14 10:26:13,Transfer,risk_review_failed,Chat,Germany,iOS,9.3
+SUP0001148,USR040079,2026-06-29 12:24:10,2026-06-29 12:34:10,Verification,photo_quality_rejected,Chat,Sweden,Android,6.0
+SUP0001149,USR040094,2026-06-21 16:22:25,2026-06-21 17:26:25,Verification,photo_quality_rejected,Chat,Romania,Android,6.0
+SUP0001150,USR040204,2026-07-03 20:39:27,2026-07-03 21:45:27,Transfer,payment_authorization_failed,Chat,Germany,iOS,9.4
+SUP0001151,USR040213,2026-06-12 08:21:43,2026-06-12 09:43:43,Verification,document_not_supported,Chat,Portugal,iOS,9.5
+SUP0001152,USR040356,2026-06-05 22:24:02,2026-06-05 23:11:02,Verification,photo_quality_rejected,Chat,United Kingdom,Android,6.0
+SUP0001153,USR040369,2026-06-29 23:47:37,2026-06-30 00:18:37,Verification,technical_error,Email,Spain,Android,6.0
+SUP0001154,USR040380,2026-06-25 20:39:45,2026-06-25 21:57:45,Verification,document_expired,Chat,United Kingdom,iOS,9.5
+SUP0001155,USR040397,2026-06-17 09:01:12,2026-06-17 09:49:12,Verification,bank_authentication_failed,Chat,Germany,iOS,9.5
+SUP0001156,USR040435,2026-05-16 01:58:47,2026-05-16 02:32:47,Verification,bank_authentication_failed,Chat,Germany,Android,5.9
+SUP0001157,USR040436,2026-05-08 19:12:58,2026-05-08 22:20:58,Transfer,risk_review_failed,Chat,United Kingdom,Android,5.9
+SUP0001158,USR040527,2026-06-11 16:48:36,2026-06-11 18:48:36,Verification,technical_error,Chat,Germany,Android,6.0
+SUP0001159,USR040566,2026-06-27 17:44:10,2026-06-27 17:57:10,Verification,document_not_supported,Email,Portugal,iOS,9.4
+SUP0001160,USR040591,2026-05-07 13:31:12,2026-05-07 13:53:12,Verification,technical_error,Email,Sweden,Android,5.9
+SUP0001161,USR040610,2026-06-09 11:19:07,2026-06-09 12:26:07,Verification,document_not_supported,Email,Estonia,iOS,9.4
+SUP0001162,USR040627,2026-06-23 16:00:17,2026-06-23 17:06:17,Verification,identity_mismatch,Chat,Germany,Android,5.9
+SUP0001163,USR040697,2026-06-26 18:53:32,2026-06-26 21:55:32,Verification,camera_permission_error,Email,France,Android,6.0
+SUP0001164,USR040728,2026-06-11 17:14:51,2026-06-11 18:03:51,Verification,camera_permission_error,Chat,United Kingdom,Android,6.0
+SUP0001165,USR040755,2026-06-25 11:44:50,2026-06-25 14:12:50,Verification,photo_quality_rejected,Chat,France,Android,6.0
+SUP0001166,USR040793,2026-06-27 13:39:12,2026-06-27 14:36:12,Verification,document_not_supported,Chat,Italy,Android,6.0
+SUP0001167,USR040831,2026-06-27 18:36:15,2026-06-27 19:30:15,Verification,camera_permission_error,Chat,United Kingdom,Android,6.0
+SUP0001168,USR040942,2026-06-26 17:48:25,2026-06-26 19:08:25,Verification,document_upload_error,Email,Romania,Android,6.0
+SUP0001169,USR040963,2026-06-01 08:43:50,2026-06-01 10:30:50,Transfer,payment_authorization_failed,Chat,Portugal,Android,5.8
+SUP0001170,USR041015,2026-05-13 10:52:12,2026-05-13 16:12:12,Transfer,risk_review_failed,Chat,Italy,Android,5.9
+SUP0001171,USR041031,2026-06-24 06:58:13,2026-06-24 07:20:13,Verification,camera_permission_error,Chat,United Kingdom,Android,6.0
+SUP0001172,USR041134,2026-06-04 20:53:57,2026-06-04 23:09:57,Transfer,technical_error,Chat,Netherlands,Android,5.9
+SUP0001173,USR041147,2026-06-24 12:34:09,2026-06-24 14:57:09,Verification,document_upload_error,Chat,Netherlands,Android,6.0
+SUP0001174,USR041190,2026-06-15 22:22:54,2026-06-15 23:43:54,Verification,camera_permission_error,Chat,Italy,Android,6.0
+SUP0001175,USR041248,2026-06-11 17:38:31,2026-06-12 03:24:31,Transfer,risk_review_failed,Chat,Portugal,Android,5.9
+SUP0001176,USR041258,2026-06-09 22:23:27,2026-06-09 23:23:27,Transfer,insufficient_funds,Chat,Portugal,iOS,9.4
+SUP0001177,USR041266,2026-06-05 06:40:40,2026-06-05 08:01:40,Verification,identity_mismatch,Chat,Germany,Android,6.0
+SUP0001178,USR041267,2026-06-25 14:56:41,2026-06-25 16:19:41,Verification,identity_mismatch,Chat,France,Android,6.0
+SUP0001179,USR041291,2026-04-26 04:35:13,2026-04-26 06:29:13,Transfer,payment_authorization_failed,Chat,France,iOS,9.3
+SUP0001180,USR041370,2026-05-13 02:02:12,2026-05-13 03:07:12,Transfer,payment_authorization_failed,Chat,Poland,Web,
+SUP0001181,USR041412,2026-05-09 20:53:32,2026-05-10 04:21:32,Transfer,risk_review_failed,Chat,United Kingdom,Web,
+SUP0001182,USR041437,2026-06-18 12:07:30,2026-06-18 12:30:30,Verification,document_upload_error,Chat,Italy,Android,6.0
+SUP0001183,USR041443,2026-06-09 22:57:07,2026-06-09 23:59:07,Verification,bank_authentication_failed,Chat,Sweden,Android,6.0
+SUP0001184,USR041471,2026-06-23 22:35:19,2026-06-23 23:06:19,Transfer,payment_authorization_failed,Email,Spain,Android,6.0
+SUP0001185,USR041478,2026-06-26 05:46:57,2026-06-26 08:08:57,Transfer,risk_review_failed,Chat,United Kingdom,Android,6.0
+SUP0001186,USR041551,2026-06-14 12:54:29,2026-06-14 13:55:29,Verification,document_not_supported,Chat,Germany,Android,6.0
+SUP0001187,USR041563,2026-07-04 13:46:01,2026-07-04 15:27:01,Transfer,risk_review_failed,Chat,Ireland,Android,6.0
+SUP0001188,USR041596,2026-06-15 20:32:50,2026-06-15 21:33:50,Verification,document_not_supported,Chat,Spain,Android,6.0
+SUP0001189,USR041676,2026-06-28 07:25:05,2026-06-28 09:25:05,Verification,document_upload_error,Chat,Germany,Android,6.0
+SUP0001190,USR041682,2026-05-11 11:18:22,2026-05-11 20:01:22,Transfer,transfer_limit_exceeded,Chat,Germany,Android,5.8
+SUP0001191,USR041738,2026-06-22 21:33:11,2026-06-22 22:10:11,Verification,document_expired,Chat,Netherlands,Web,
+SUP0001192,USR041744,2026-06-11 09:41:08,2026-06-11 10:15:08,Verification,document_upload_error,Chat,Germany,Android,6.0
+SUP0001193,USR041763,2026-05-01 17:45:09,2026-05-01 19:52:09,Transfer,insufficient_funds,Chat,Germany,Web,
+SUP0001194,USR041825,2026-06-25 14:02:26,2026-06-25 14:28:26,Verification,photo_quality_rejected,Email,France,Android,6.0
+SUP0001195,USR041837,2026-04-07 17:49:05,2026-04-07 21:28:05,Transfer,payment_authorization_failed,Email,United Kingdom,iOS,9.3
+SUP0001196,USR041855,2026-06-30 15:14:55,2026-06-30 17:28:55,Verification,identity_mismatch,Chat,Italy,Android,6.0
+SUP0001197,USR041880,2026-06-04 10:35:35,2026-06-04 12:04:35,Verification,identity_mismatch,Chat,United Kingdom,iOS,9.5
+SUP0001198,USR041884,2026-06-28 00:16:16,2026-06-28 01:07:16,Verification,photo_quality_rejected,Chat,Sweden,Android,6.0
+SUP0001199,USR041893,2026-06-17 21:18:08,2026-06-17 23:12:08,Verification,camera_permission_error,Chat,Ireland,Android,6.0
+SUP0001200,USR041973,2026-05-20 15:18:16,2026-05-20 17:18:16,Transfer,insufficient_funds,Chat,Netherlands,iOS,9.4
+SUP0001201,USR041978,2026-06-27 13:54:49,2026-06-27 14:29:49,Verification,photo_quality_rejected,Email,Poland,Android,5.9
+SUP0001202,USR041985,2026-06-15 17:52:07,2026-06-15 19:08:07,Verification,bank_authentication_failed,Email,Germany,Web,
+SUP0001203,USR042021,2026-05-15 01:04:50,2026-05-15 02:01:50,Verification,photo_quality_rejected,Chat,Romania,Android,5.9
+SUP0001204,USR042034,2026-04-30 09:52:09,2026-04-30 10:39:09,Verification,photo_quality_rejected,Chat,Spain,Android,5.8
+SUP0001205,USR042087,2026-06-06 20:56:25,2026-06-06 22:22:25,Verification,document_upload_error,Email,Portugal,Android,6.0
+SUP0001206,USR042353,2026-04-11 12:46:04,2026-04-11 14:08:04,Verification,bank_authentication_failed,Chat,Germany,Web,
+SUP0001207,USR042360,2026-05-05 15:05:31,2026-05-05 20:21:31,Transfer,risk_review_failed,Chat,Poland,iOS,9.4
+SUP0001208,USR042372,2026-05-21 17:18:32,2026-05-21 19:48:32,Transfer,technical_error,Email,Germany,Android,5.9
+SUP0001209,USR042374,2026-04-29 20:15:38,2026-04-29 20:55:38,Verification,document_not_supported,Chat,Portugal,Web,
+SUP0001210,USR042430,2026-06-11 15:00:32,2026-06-11 16:24:32,Verification,identity_mismatch,Email,Portugal,iOS,9.5
+SUP0001211,USR042446,2026-05-31 20:35:02,2026-05-31 23:55:02,Transfer,technical_error,Chat,Germany,iOS,9.4
+SUP0001212,USR042485,2026-06-26 13:53:24,2026-06-26 14:33:24,Verification,identity_mismatch,Chat,Germany,Android,6.0
+SUP0001213,USR042521,2026-05-09 15:36:49,2026-05-09 18:08:49,Verification,document_expired,Chat,France,iOS,9.3
+SUP0001214,USR042544,2026-06-26 21:36:13,2026-06-26 22:30:13,Transfer,insufficient_funds,Chat,Poland,iOS,9.5
+SUP0001215,USR042558,2026-05-22 07:20:55,2026-05-22 10:21:55,Transfer,payment_authorization_failed,Email,Sweden,Android,5.9
+SUP0001216,USR042563,2026-06-29 09:36:36,2026-06-29 11:52:36,Verification,photo_quality_rejected,Chat,Poland,Android,6.0
+SUP0001217,USR042630,2026-06-23 15:27:10,2026-06-23 18:00:10,Verification,camera_permission_error,Chat,Spain,Android,6.0
+SUP0001218,USR042647,2026-06-30 20:52:37,2026-06-30 23:36:37,Verification,document_upload_error,Chat,Romania,Android,6.0
+SUP0001219,USR042651,2026-06-18 12:08:55,2026-06-18 13:22:55,Verification,technical_error,Email,United Kingdom,Android,6.0
+SUP0001220,USR042660,2026-05-17 08:48:13,2026-05-17 09:27:13,Verification,technical_error,Chat,Portugal,Android,5.9
+SUP0001221,USR042687,2026-05-23 06:47:10,2026-05-23 07:46:10,Transfer,technical_error,Chat,Germany,Android,5.9
+SUP0001222,USR042715,2026-06-29 14:23:49,2026-06-29 14:51:49,Verification,document_upload_error,Email,Poland,Android,6.0
+SUP0001223,USR042817,2026-06-01 20:27:13,2026-06-01 21:19:13,Verification,identity_mismatch,Chat,Italy,iOS,9.4
+SUP0001224,USR042836,2026-04-03 15:13:04,2026-04-03 17:35:04,Verification,technical_error,Chat,Spain,Web,
+SUP0001225,USR042848,2026-06-16 02:11:39,2026-06-16 03:32:39,Verification,document_upload_error,Chat,Portugal,Android,6.0
+SUP0001226,USR042949,2026-06-10 05:01:55,2026-06-10 09:58:55,Transfer,risk_review_failed,Chat,Germany,Android,6.0
+SUP0001227,USR042954,2026-06-04 03:42:11,2026-06-04 11:55:11,Transfer,risk_review_failed,Email,Spain,Web,
+SUP0001228,USR042980,2026-04-22 23:05:18,2026-04-23 07:44:18,Transfer,risk_review_failed,Chat,Germany,Android,5.8
+SUP0001229,USR042988,2026-06-09 22:53:36,2026-06-09 23:28:36,Verification,document_not_supported,Chat,Spain,Android,5.9
+SUP0001230,USR042989,2026-06-28 20:04:18,2026-06-28 20:23:18,Verification,bank_authentication_failed,Chat,Poland,Android,6.0
+SUP0001231,USR043003,2026-06-21 08:40:22,2026-06-21 11:19:22,Verification,technical_error,Email,Ireland,iOS,9.5
+SUP0001232,USR043030,2026-05-04 11:55:40,2026-05-04 12:46:40,Verification,identity_mismatch,Chat,France,Android,5.9
+SUP0001233,USR043055,2026-06-23 11:51:59,2026-06-23 12:24:59,Verification,document_not_supported,Email,Estonia,Android,6.0
+SUP0001234,USR043069,2026-06-22 16:36:16,2026-06-22 19:23:16,Transfer,insufficient_funds,Chat,Portugal,Android,6.0
+SUP0001235,USR043073,2026-06-25 06:47:37,2026-06-25 07:37:37,Verification,identity_mismatch,Chat,Portugal,Android,6.0
+SUP0001236,USR043194,2026-06-25 17:51:13,2026-06-25 19:08:13,Verification,document_upload_error,Email,Spain,Android,6.0
+SUP0001237,USR043208,2026-06-18 14:03:45,2026-06-18 15:07:45,Verification,document_not_supported,Chat,United Kingdom,iOS,9.5
+SUP0001238,USR043244,2026-05-25 15:01:18,2026-05-25 16:54:18,Verification,document_expired,Chat,United Kingdom,Android,5.9
+SUP0001239,USR043358,2026-06-22 06:11:05,2026-06-22 08:08:05,Transfer,transfer_limit_exceeded,Chat,France,iOS,9.5
+SUP0001240,USR043414,2026-06-25 17:16:48,2026-06-25 17:52:48,Verification,document_not_supported,Chat,Ireland,Android,6.0
+SUP0001241,USR043443,2026-06-09 20:26:06,2026-06-09 23:58:06,Verification,camera_permission_error,Chat,United Kingdom,Android,6.0
+SUP0001242,USR043468,2026-06-18 15:31:15,2026-06-18 15:59:15,Verification,document_upload_error,Chat,France,Android,6.0
+SUP0001243,USR043484,2026-05-31 12:07:07,2026-05-31 13:00:07,Verification,photo_quality_rejected,Email,Germany,Android,5.9
+SUP0001244,USR043486,2026-06-08 20:20:21,2026-06-08 23:09:21,Verification,photo_quality_rejected,Chat,Spain,Android,5.9
+SUP0001245,USR043536,2026-06-30 08:50:28,2026-06-30 12:06:28,Verification,camera_permission_error,Chat,Germany,Android,6.0
+SUP0001246,USR043582,2026-06-12 20:11:57,2026-06-12 21:38:57,Verification,document_not_supported,Email,France,Android,6.0
+SUP0001247,USR043586,2026-06-25 12:10:54,2026-06-25 13:34:54,Verification,identity_mismatch,Email,Germany,iOS,9.4
+SUP0001248,USR043603,2026-07-01 00:14:51,2026-07-01 02:03:51,Verification,identity_mismatch,Chat,Germany,Android,6.0
+SUP0001249,USR043617,2026-05-30 15:08:00,2026-05-30 17:56:00,Transfer,insufficient_funds,Chat,Netherlands,iOS,9.5
+SUP0001250,USR043622,2026-06-21 18:17:33,2026-06-21 20:08:33,Verification,document_not_supported,Chat,United Kingdom,Android,6.0
+SUP0001251,USR043635,2026-06-30 12:45:43,2026-06-30 13:51:43,Verification,document_upload_error,Chat,United Kingdom,Android,6.0
+SUP0001252,USR043686,2026-06-23 18:28:59,2026-06-23 19:12:59,Verification,photo_quality_rejected,Chat,France,Android,6.0
+SUP0001253,USR043692,2026-06-11 02:18:07,2026-06-11 02:42:07,Verification,technical_error,Chat,Netherlands,Android,6.0
+SUP0001254,USR043742,2026-06-14 20:00:22,2026-06-14 21:24:22,Verification,photo_quality_rejected,Email,United Kingdom,Android,5.9
+SUP0001255,USR043845,2026-05-24 20:26:37,2026-05-24 21:31:37,Verification,identity_mismatch,Chat,Italy,iOS,9.5
+SUP0001256,USR043906,2026-06-24 11:27:34,2026-06-24 12:12:34,Verification,camera_permission_error,Chat,Germany,Android,6.0
+SUP0001257,USR043927,2026-06-08 16:11:21,2026-06-08 17:16:21,Verification,document_not_supported,Chat,Spain,Android,6.0
+SUP0001258,USR043948,2026-06-24 20:54:40,2026-06-24 21:45:40,Verification,identity_mismatch,Chat,Sweden,Android,6.0
+SUP0001259,USR044120,2026-06-01 03:50:48,2026-06-01 04:45:48,Transfer,insufficient_funds,Chat,France,Web,
+SUP0001260,USR044158,2026-05-27 08:28:55,2026-05-27 11:23:55,Transfer,risk_review_failed,Chat,Portugal,Android,5.8
+SUP0001261,USR044193,2026-06-15 01:44:56,2026-06-15 03:37:56,Transfer,insufficient_funds,Email,Romania,Web,
+SUP0001262,USR044206,2026-04-21 17:18:35,2026-04-21 19:08:35,Verification,document_expired,Chat,Germany,iOS,9.3
+SUP0001263,USR044231,2026-06-11 20:15:14,2026-06-11 21:37:14,Verification,camera_permission_error,Chat,Spain,Android,6.0
+SUP0001264,USR044253,2026-06-27 12:12:58,2026-06-27 13:15:58,Verification,photo_quality_rejected,Chat,United Kingdom,Android,6.0
+SUP0001265,USR044264,2026-06-07 15:45:52,2026-06-07 16:33:52,Transfer,payment_authorization_failed,Email,Germany,Android,5.9
+SUP0001266,USR044286,2026-04-02 20:05:45,2026-04-02 22:38:45,Verification,technical_error,Email,France,Android,5.9
+SUP0001267,USR044333,2026-06-28 09:00:08,2026-06-28 10:17:08,Verification,identity_mismatch,Chat,Spain,Android,6.0
+SUP0001268,USR044389,2026-06-07 19:08:34,2026-06-07 19:40:34,Verification,photo_quality_rejected,Chat,Sweden,Android,6.0
+SUP0001269,USR044415,2026-06-25 18:38:33,2026-06-25 20:08:33,Transfer,payment_authorization_failed,Chat,France,Android,6.0
+SUP0001270,USR044427,2026-06-05 16:53:58,2026-06-05 17:41:58,Verification,bank_authentication_failed,Chat,Poland,Android,6.0
+SUP0001271,USR044465,2026-06-25 13:44:20,2026-06-25 15:56:20,Verification,document_upload_error,Email,Germany,Android,6.0
+SUP0001272,USR044502,2026-05-02 13:03:36,2026-05-02 13:51:36,Verification,bank_authentication_failed,Chat,Portugal,iOS,9.3
+SUP0001273,USR044539,2026-06-19 11:21:02,2026-06-19 12:42:02,Verification,camera_permission_error,Chat,France,Android,6.0
+SUP0001274,USR044541,2026-05-05 18:28:01,2026-05-05 19:43:01,Transfer,technical_error,Chat,Netherlands,iOS,9.3
+SUP0001275,USR044547,2026-06-03 20:53:03,2026-06-03 22:23:03,Transfer,technical_error,Email,Netherlands,Android,5.8
+SUP0001276,USR044715,2026-05-15 15:55:02,2026-05-15 16:21:02,Verification,identity_mismatch,Chat,Italy,iOS,9.5
+SUP0001277,USR044716,2026-06-25 17:48:40,2026-06-25 18:31:40,Verification,camera_permission_error,Email,Spain,Android,6.0
+SUP0001278,USR044729,2026-06-30 17:36:27,2026-06-30 18:41:27,Verification,camera_permission_error,Email,United Kingdom,Android,6.0
+SUP0001279,USR044740,2026-05-25 12:16:16,2026-05-25 13:53:16,Verification,document_not_supported,Chat,France,Android,5.8
+SUP0001280,USR044781,2026-06-26 17:59:34,2026-06-26 19:16:34,Verification,identity_mismatch,Chat,Netherlands,Android,6.0
+SUP0001281,USR044844,2026-06-16 16:48:49,2026-06-16 19:19:49,Verification,photo_quality_rejected,Chat,Italy,iOS,9.4
+SUP0001282,USR044867,2026-05-26 03:22:51,2026-05-26 04:34:51,Transfer,insufficient_funds,Chat,Netherlands,Web,
+SUP0001283,USR044880,2026-06-23 00:38:00,2026-06-23 05:42:00,Transfer,risk_review_failed,Chat,Italy,iOS,9.5
+SUP0001284,USR044885,2026-06-20 09:33:14,2026-06-20 11:40:14,Verification,camera_permission_error,Email,Portugal,Android,6.0
+SUP0001285,USR044980,2026-06-25 19:20:24,2026-06-25 20:04:24,Verification,camera_permission_error,Email,Germany,Android,6.0
+SUP0001286,USR044994,2026-06-04 07:07:29,2026-06-04 08:30:29,Transfer,payment_authorization_failed,Chat,United Kingdom,iOS,9.5
+SUP0001287,USR045006,2026-06-08 17:12:42,2026-06-08 20:02:42,Transfer,risk_review_failed,Chat,Germany,Web,
+SUP0001288,USR045018,2026-06-26 06:59:49,2026-06-26 08:01:49,Verification,photo_quality_rejected,Chat,Germany,Android,6.0
+SUP0001289,USR045074,2026-06-26 12:58:02,2026-06-26 13:55:02,Verification,identity_mismatch,Chat,Sweden,Android,6.0
+SUP0001290,USR045133,2026-06-19 15:51:21,2026-06-19 19:15:21,Transfer,insufficient_funds,Chat,Estonia,Android,5.9
+SUP0001291,USR045135,2026-06-11 16:41:20,2026-06-11 17:51:20,Verification,document_not_supported,Email,Italy,Android,6.0
+SUP0001292,USR045140,2026-06-23 14:45:42,2026-06-23 15:56:42,Verification,technical_error,Email,France,Android,6.0
+SUP0001293,USR045147,2026-06-18 19:55:17,2026-06-18 20:26:17,Verification,identity_mismatch,Chat,France,Android,6.0
+SUP0001294,USR045151,2026-06-28 20:38:11,2026-06-28 21:46:11,Verification,camera_permission_error,Chat,United Kingdom,Android,6.0
+SUP0001295,USR045171,2026-05-15 22:42:17,2026-05-16 00:56:17,Transfer,payment_authorization_failed,Chat,Portugal,iOS,9.5
+SUP0001296,USR045182,2026-06-01 11:57:39,2026-06-01 14:59:39,Transfer,payment_authorization_failed,Chat,Sweden,iOS,9.4
+SUP0001297,USR045207,2026-06-21 07:44:30,2026-06-21 08:31:30,Verification,technical_error,Chat,Italy,Android,6.0
+SUP0001298,USR045237,2026-05-23 22:31:30,2026-05-24 01:06:30,Transfer,insufficient_funds,Chat,Romania,Web,
+SUP0001299,USR045290,2026-05-17 19:08:26,2026-05-18 03:15:26,Transfer,risk_review_failed,Chat,Italy,Android,5.9
+SUP0001300,USR045322,2026-06-08 00:31:15,2026-06-08 01:38:15,Verification,document_upload_error,Email,Italy,Android,6.0
+SUP0001301,USR045366,2026-06-24 15:22:44,2026-06-24 16:49:44,Verification,photo_quality_rejected,Chat,Italy,Android,6.0
+SUP0001302,USR045519,2026-05-15 22:26:49,2026-05-16 00:13:49,Verification,document_expired,Chat,Italy,Web,
+SUP0001303,USR045709,2026-06-08 06:32:36,2026-06-08 07:24:36,Transfer,payment_authorization_failed,Chat,Spain,Web,
+SUP0001304,USR045711,2026-06-26 16:31:04,2026-06-26 18:35:04,Transfer,risk_review_failed,Chat,Germany,Android,6.0
+SUP0001305,USR045808,2026-06-07 17:42:29,2026-06-07 19:02:29,Verification,document_not_supported,Chat,United Kingdom,Android,6.0
+SUP0001306,USR045851,2026-05-28 04:32:57,2026-05-28 10:33:57,Transfer,risk_review_failed,Chat,Sweden,Android,5.9
+SUP0001307,USR045868,2026-06-05 06:00:38,2026-06-05 06:28:38,Transfer,payment_authorization_failed,Chat,Italy,iOS,9.5
+SUP0001308,USR045879,2026-06-19 12:50:18,2026-06-19 15:12:18,Verification,photo_quality_rejected,Chat,Ireland,iOS,9.4
+SUP0001309,USR045953,2026-05-31 04:04:19,2026-05-31 04:59:19,Verification,technical_error,Chat,Sweden,iOS,9.5
+SUP0001310,USR045984,2026-04-19 19:47:12,2026-04-19 20:46:12,Verification,technical_error,Email,France,Web,
+SUP0001311,USR046030,2026-06-10 17:39:25,2026-06-10 20:25:25,Verification,technical_error,Chat,Spain,Android,6.0
+SUP0001312,USR046069,2026-06-27 11:39:06,2026-06-27 12:37:06,Verification,identity_mismatch,Email,Poland,Android,6.0
+SUP0001313,USR046097,2026-06-14 17:23:41,2026-06-14 19:25:41,Verification,document_upload_error,Chat,France,Android,6.0
+SUP0001314,USR046131,2026-06-06 18:44:36,2026-06-06 20:28:36,Verification,identity_mismatch,Chat,Spain,iOS,9.5
+SUP0001315,USR046251,2026-06-28 09:06:02,2026-06-28 16:59:02,Transfer,transfer_limit_exceeded,Chat,Ireland,iOS,9.5
+SUP0001316,USR046285,2026-06-08 20:39:17,2026-06-08 21:48:17,Verification,document_upload_error,Email,United Kingdom,Android,6.0
+SUP0001317,USR046312,2026-06-06 09:31:08,2026-06-06 10:11:08,Verification,identity_mismatch,Chat,Portugal,Android,5.9
+SUP0001318,USR046349,2026-06-16 19:46:47,2026-06-16 21:52:47,Verification,photo_quality_rejected,Chat,Poland,Android,6.0
+SUP0001319,USR046370,2026-06-15 15:26:16,2026-06-15 17:51:16,Verification,document_upload_error,Email,Spain,Android,6.0
+SUP0001320,USR046430,2026-06-27 23:50:43,2026-06-28 00:45:43,Verification,identity_mismatch,Email,Italy,iOS,9.5
+SUP0001321,USR046467,2026-06-30 04:09:58,2026-06-30 06:07:58,Verification,identity_mismatch,Chat,Portugal,Android,6.0
+SUP0001322,USR046480,2026-04-30 09:39:43,2026-04-30 11:08:43,Verification,technical_error,Chat,Netherlands,Android,5.8
+SUP0001323,USR046488,2026-06-04 20:38:33,2026-06-04 21:47:33,Verification,identity_mismatch,Chat,Portugal,iOS,9.5
+SUP0001324,USR046549,2026-05-27 14:43:36,2026-05-27 15:51:36,Verification,document_not_supported,Email,Italy,Android,5.9
+SUP0001325,USR046561,2026-04-18 03:55:11,2026-04-18 04:41:11,Transfer,technical_error,Chat,United Kingdom,iOS,9.3
+SUP0001326,USR046569,2026-06-14 18:05:33,2026-06-14 19:52:33,Verification,technical_error,Chat,Italy,iOS,9.4
+SUP0001327,USR046649,2026-05-27 19:27:00,2026-05-27 21:07:00,Transfer,insufficient_funds,Chat,Germany,Android,5.8
+SUP0001328,USR046652,2026-06-17 15:24:51,2026-06-17 18:16:51,Verification,identity_mismatch,Chat,Sweden,Android,6.0
+SUP0001329,USR046670,2026-06-20 13:44:31,2026-06-20 17:04:31,Verification,document_upload_error,Chat,Portugal,Android,6.0
+SUP0001330,USR046761,2026-06-23 08:21:26,2026-06-23 10:39:26,Verification,document_upload_error,Email,Italy,Android,6.0
+SUP0001331,USR046765,2026-04-21 10:26:15,2026-04-21 11:46:15,Verification,document_expired,Email,France,Android,5.8
+SUP0001332,USR046786,2026-06-23 23:16:07,2026-06-24 01:06:07,Verification,technical_error,Chat,Germany,iOS,9.5
+SUP0001333,USR046819,2026-05-30 18:05:32,2026-05-30 20:37:32,Verification,identity_mismatch,Chat,Portugal,Android,5.8
+SUP0001334,USR046829,2026-06-15 18:36:06,2026-06-15 19:11:06,Verification,identity_mismatch,Chat,Germany,iOS,9.5
+SUP0001335,USR046836,2026-05-31 10:51:29,2026-05-31 11:50:29,Verification,document_expired,Email,France,Android,5.9
+SUP0001336,USR046910,2026-06-12 17:51:53,2026-06-12 19:53:53,Verification,technical_error,Chat,Italy,iOS,9.5
+SUP0001337,USR046924,2026-06-14 06:53:55,2026-06-14 08:05:55,Transfer,bank_transfer_not_received,Chat,France,Android,6.0
+SUP0001338,USR046927,2026-06-06 08:46:06,2026-06-06 10:09:06,Verification,technical_error,Chat,Italy,Android,5.9
+SUP0001339,USR046939,2026-06-25 09:08:46,2026-06-25 11:06:46,Verification,photo_quality_rejected,Chat,Portugal,Android,6.0
+SUP0001340,USR046975,2026-06-15 00:38:27,2026-06-15 01:51:27,Transfer,risk_review_failed,Chat,United Kingdom,Web,
+SUP0001341,USR046997,2026-05-20 21:38:39,2026-05-20 23:35:39,Verification,identity_mismatch,Chat,Ireland,iOS,9.4
+SUP0001342,USR047181,2026-04-18 19:52:05,2026-04-18 20:33:05,Verification,photo_quality_rejected,Chat,Italy,iOS,9.4
+SUP0001343,USR047224,2026-06-25 12:01:11,2026-06-25 14:56:11,Verification,identity_mismatch,Chat,Portugal,Android,5.9
+SUP0001344,USR047238,2026-06-23 21:06:59,2026-06-23 22:16:59,Transfer,insufficient_funds,Email,Italy,iOS,9.4
+SUP0001345,USR047328,2026-05-17 01:47:39,2026-05-17 03:32:39,Transfer,insufficient_funds,Chat,Italy,Web,
+SUP0001346,USR047391,2026-06-04 04:23:12,2026-06-04 12:32:12,Transfer,risk_review_failed,Email,Germany,Android,5.9
+SUP0001347,USR047444,2026-06-15 20:32:37,2026-06-15 21:16:37,Verification,document_not_supported,Chat,Sweden,iOS,9.4
+SUP0001348,USR047463,2026-05-18 06:42:18,2026-05-18 06:59:18,Transfer,technical_error,Chat,Italy,Android,5.9
+SUP0001349,USR047522,2026-05-25 12:08:07,2026-05-25 13:31:07,Transfer,payment_authorization_failed,Email,Italy,Android,5.9
+SUP0001350,USR047618,2026-06-03 10:50:46,2026-06-03 12:42:46,Transfer,payment_authorization_failed,Chat,Germany,Android,5.8
+SUP0001351,USR047671,2026-06-28 06:52:34,2026-06-28 08:11:34,Verification,camera_permission_error,Chat,Ireland,Android,6.0
+SUP0001352,USR047690,2026-06-03 19:46:36,2026-06-03 21:35:36,Transfer,insufficient_funds,Chat,Germany,Android,5.9
+SUP0001353,USR047820,2026-06-13 19:08:02,2026-06-13 19:30:02,Verification,identity_mismatch,Chat,United Kingdom,Android,6.0
+SUP0001354,USR047911,2026-06-27 10:24:03,2026-06-27 10:54:03,Verification,identity_mismatch,Chat,United Kingdom,Android,6.0
+SUP0001355,USR047970,2026-06-24 11:10:08,2026-06-24 14:12:08,Verification,document_upload_error,Chat,France,Android,6.0
+SUP0001356,USR047989,2026-06-17 12:47:51,2026-06-17 14:38:51,Transfer,payment_authorization_failed,Email,United Kingdom,Web,
+SUP0001357,USR048013,2026-04-12 11:42:57,2026-04-12 14:06:57,Verification,bank_authentication_failed,Chat,France,iOS,9.3
+SUP0001358,USR048024,2026-05-21 16:22:44,2026-05-21 17:52:44,Transfer,payment_authorization_failed,Chat,Estonia,iOS,9.5
+SUP0001359,USR048135,2026-05-25 14:17:17,2026-05-25 15:24:17,Verification,identity_mismatch,Email,United Kingdom,Web,
+SUP0001360,USR048152,2026-05-10 09:27:46,2026-05-10 10:43:46,Transfer,payment_authorization_failed,Email,Portugal,Web,
+SUP0001361,USR048193,2026-04-21 07:10:11,2026-04-21 07:56:11,Transfer,insufficient_funds,Email,Ireland,iOS,9.4
+SUP0001362,USR048211,2026-06-08 22:50:45,2026-06-08 23:03:45,Verification,identity_mismatch,Chat,Poland,iOS,9.5
+SUP0001363,USR048303,2026-06-20 16:35:42,2026-06-20 18:29:42,Verification,photo_quality_rejected,Chat,United Kingdom,Android,6.0
+SUP0001364,USR048304,2026-06-19 14:09:45,2026-06-19 15:26:45,Verification,identity_mismatch,Chat,Romania,Android,6.0
+SUP0001365,USR048313,2026-04-19 13:01:09,2026-04-19 14:57:09,Verification,bank_authentication_failed,Email,Italy,Android,5.8
+SUP0001366,USR048340,2026-06-14 19:21:57,2026-06-14 20:16:57,Verification,photo_quality_rejected,Email,Germany,Android,6.0
+SUP0001367,USR048352,2026-05-19 10:21:26,2026-05-19 12:00:26,Transfer,insufficient_funds,Chat,Ireland,Android,5.9
+SUP0001368,USR048380,2026-05-22 18:20:43,2026-05-23 00:18:43,Transfer,risk_review_failed,Chat,Sweden,iOS,9.5
+SUP0001369,USR048388,2026-06-25 12:42:38,2026-06-25 14:13:38,Verification,identity_mismatch,Email,United Kingdom,iOS,9.5
+SUP0001370,USR048390,2026-06-21 18:41:52,2026-06-21 20:03:52,Verification,document_upload_error,Chat,Sweden,Android,6.0
+SUP0001371,USR048401,2026-05-31 15:18:48,2026-05-31 17:11:48,Verification,document_expired,Chat,Italy,Android,5.9
+SUP0001372,USR048422,2026-06-10 23:06:29,2026-06-10 23:38:29,Verification,document_not_supported,Chat,France,Android,5.9
+SUP0001373,USR048431,2026-06-30 11:54:09,2026-06-30 12:39:09,Verification,document_upload_error,Chat,France,Android,6.0
+SUP0001374,USR048459,2026-06-09 10:30:49,2026-06-09 11:07:49,Transfer,payment_authorization_failed,Chat,Italy,Android,5.9
+SUP0001375,USR048549,2026-06-24 15:30:30,2026-06-24 16:02:30,Verification,document_upload_error,Email,Germany,Android,6.0
+SUP0001376,USR048608,2026-06-17 16:41:31,2026-06-17 17:56:31,Verification,photo_quality_rejected,Email,France,Android,6.0
+SUP0001377,USR048628,2026-06-23 09:37:46,2026-06-23 10:52:46,Verification,document_upload_error,Email,Poland,Android,6.0
+SUP0001378,USR048715,2026-05-23 10:06:05,2026-05-23 10:41:05,Verification,identity_mismatch,Chat,Ireland,iOS,9.5
+SUP0001379,USR048767,2026-06-23 11:55:10,2026-06-23 15:02:10,Verification,document_upload_error,Email,France,Android,6.0
+SUP0001380,USR048881,2026-06-17 21:02:35,2026-06-17 22:58:35,Verification,identity_mismatch,Chat,Spain,Android,6.0
+SUP0001381,USR048970,2026-06-05 00:40:30,2026-06-05 02:36:30,Transfer,transfer_limit_exceeded,Email,Sweden,iOS,9.5
+SUP0001382,USR048984,2026-06-12 03:54:26,2026-06-12 05:47:26,Transfer,payment_authorization_failed,Email,Spain,iOS,9.5
+SUP0001383,USR049036,2026-05-30 15:34:45,2026-05-30 16:15:45,Verification,document_expired,Chat,France,Android,5.9
+SUP0001384,USR049071,2026-06-08 11:24:45,2026-06-08 12:21:45,Verification,technical_error,Email,Germany,Android,6.0
+SUP0001385,USR049080,2026-05-26 09:57:59,2026-05-26 12:42:59,Transfer,payment_authorization_failed,Email,Spain,iOS,9.5
+SUP0001386,USR049085,2026-06-11 07:22:49,2026-06-11 10:13:49,Verification,document_upload_error,Email,Estonia,Android,6.0
+SUP0001387,USR049174,2026-04-08 19:14:05,2026-04-08 20:10:05,Verification,identity_mismatch,Chat,Sweden,iOS,9.4
+SUP0001388,USR049250,2026-06-09 18:21:06,2026-06-09 19:07:06,Verification,bank_authentication_failed,Chat,Italy,Android,6.0
+SUP0001389,USR049288,2026-06-07 15:50:43,2026-06-07 17:09:43,Verification,document_upload_error,Email,Estonia,Android,6.0
+SUP0001390,USR049340,2026-06-08 20:06:28,2026-06-08 20:49:28,Verification,photo_quality_rejected,Chat,France,Android,6.0
+SUP0001391,USR049384,2026-06-28 20:04:17,2026-06-28 21:13:17,Verification,photo_quality_rejected,Chat,Spain,Android,6.0
+SUP0001392,USR049411,2026-06-05 11:52:45,2026-06-05 12:48:45,Verification,document_expired,Email,Germany,iOS,9.4
+SUP0001393,USR049435,2026-05-12 01:16:13,2026-05-12 09:39:13,Transfer,transfer_limit_exceeded,Email,Poland,iOS,9.3
+SUP0001394,USR049563,2026-06-15 22:28:41,2026-06-15 23:47:41,Transfer,insufficient_funds,Chat,Netherlands,Android,6.0
+SUP0001395,USR049622,2026-06-17 23:52:48,2026-06-18 01:55:48,Verification,bank_authentication_failed,Email,Italy,Android,6.0
+SUP0001396,USR049635,2026-06-06 15:09:03,2026-06-06 15:34:03,Verification,document_expired,Chat,Sweden,Android,6.0
+SUP0001397,USR049653,2026-06-27 12:15:34,2026-06-27 12:56:34,Verification,document_not_supported,Chat,Spain,Android,6.0
+SUP0001398,USR049665,2026-06-21 22:21:52,2026-06-22 00:25:52,Verification,document_upload_error,Chat,Germany,Android,6.0
+SUP0001399,USR049694,2026-05-15 00:45:30,2026-05-15 01:25:30,Transfer,payment_authorization_failed,Chat,Germany,iOS,9.5
+SUP0001400,USR049726,2026-05-29 08:42:33,2026-05-29 10:13:33,Verification,photo_quality_rejected,Chat,France,Android,5.9
+SUP0001401,USR049753,2026-06-19 19:48:00,2026-06-20 03:29:00,Transfer,risk_review_failed,Chat,Germany,Android,5.9
+SUP0001402,USR049767,2026-06-29 08:57:40,2026-06-29 11:08:40,Verification,document_expired,Email,Romania,Android,6.0
+SUP0001403,USR049781,2026-05-22 19:42:01,2026-05-22 21:06:01,Verification,photo_quality_rejected,Chat,France,Android,5.9
+SUP0001404,USR049803,2026-06-05 12:38:04,2026-06-05 14:42:04,Verification,photo_quality_rejected,Chat,Portugal,Android,6.0
+SUP0001405,USR049883,2026-06-30 17:47:39,2026-06-30 18:18:39,Verification,document_expired,Chat,Romania,iOS,9.4
+SUP0001406,USR049910,2026-06-26 15:05:29,2026-06-26 16:15:29,Verification,document_upload_error,Chat,Germany,Android,6.0
+SUP0001407,USR049935,2026-06-25 17:28:39,2026-06-25 19:00:39,Verification,technical_error,Chat,Italy,Android,6.0
+SUP0001408,USR049937,2026-04-28 12:04:54,2026-04-28 12:52:54,Verification,technical_error,Chat,France,iOS,9.4
+SUP0001409,USR049963,2026-04-11 18:19:22,2026-04-11 19:42:22,Verification,technical_error,Chat,Italy,iOS,9.3
+SUP0001410,USR049970,2026-06-13 14:17:27,2026-06-13 16:47:27,Verification,bank_authentication_failed,Chat,Estonia,Android,5.9
+SUP0001411,USR049982,2026-06-05 08:03:55,2026-06-05 08:59:55,Verification,photo_quality_rejected,Chat,Portugal,Android,6.0
